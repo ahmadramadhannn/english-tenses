@@ -1,0 +1,2006 @@
+{
+  "tense": "Past Perfect",
+  "description": "Used for actions that were completed before another past action",
+  "examples": [
+    {
+      "sentence": "My brother had already repaired the house.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "The company had gone to work before on Monday.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "She had already driven home.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "Emma had already painted the bathroom.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "By the time I arrived, her sister had ordered coffee.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "Emma had played a movie before last night.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By the time I arrived, she had submitted the project.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "My parents had already considered the future.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "The manager had already studied for the exam.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "My parents had already left to the office.",
+      "verb": "left"
+    },
+    {
+      "sentence": "By the time I arrived, the dog had read the textbook.",
+      "verb": "read"
+    },
+    {
+      "sentence": "You had reviewed science before two days ago.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "We had eaten lunch before this morning.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "Sarah had eaten coffee before two days ago.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "By the time I arrived, you had played a video.",
+      "verb": "played"
+    },
+    {
+      "sentence": "You had given groceries before last month.",
+      "verb": "given"
+    },
+    {
+      "sentence": "By the time I arrived, tom had prepared pasta.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "Tom had already watched a documentary.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The teacher had played a movie before on Monday.",
+      "verb": "played"
+    },
+    {
+      "sentence": "The company had already played music.",
+      "verb": "played"
+    },
+    {
+      "sentence": "John had already walked home.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "The students had already sold the ticket.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "By the time I arrived, we had made a salad.",
+      "verb": "made"
+    },
+    {
+      "sentence": "Tom had driven to school before earlier today.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "The children had thought about the meeting before this morning.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "The cat had called my family before yesterday.",
+      "verb": "called"
+    },
+    {
+      "sentence": "By the time I arrived, the company had enjoyed a movie.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Emma had repaired the car before last night.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "The company had already enjoyed a movie.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Her sister had painted the room before last night.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "Tom had enjoyed a podcast before last night.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By the time I arrived, the company had eaten soup.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "By the time I arrived, john had read the textbook.",
+      "verb": "read"
+    },
+    {
+      "sentence": "Sarah had designed the kitchen before yesterday.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "By the time I arrived, the students had learned mathematics.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "By the time I arrived, the bird had understood history.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "By the time I arrived, the team had remembered the situation.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "My parents had designed the garden before last night.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "My parents had run to school before last year.",
+      "verb": "run"
+    },
+    {
+      "sentence": "We had already forgotten the future.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "The dog had already finished the report.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "My parents had already listened to music.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "She had run home before on Monday.",
+      "verb": "run"
+    },
+    {
+      "sentence": "Tom had forgotten the problem before yesterday.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "Our neighbors had drunk soup before on Monday.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "I had painted the car before on Monday.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "We had already fixed the bathroom.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "They had sold the phone before last month.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "Her sister had finished the presentation before yesterday.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "Her sister had already planned the vacation.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The bird had planned the future before earlier today.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The company had gone to the market before in 2020.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "The children had played a documentary before yesterday.",
+      "verb": "played"
+    },
+    {
+      "sentence": "He had already given a laptop.",
+      "verb": "given"
+    },
+    {
+      "sentence": "They had already sent the proposal.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "Our neighbors had taught Spanish before last week.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "We had finished the assignment before earlier today.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "Emma had read mathematics before on Monday.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The teacher had already listened to the news.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "By the time I arrived, john had reviewed science.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "By the time I arrived, the cat had called my friend.",
+      "verb": "called"
+    },
+    {
+      "sentence": "By the time I arrived, my friend had given a present.",
+      "verb": "given"
+    },
+    {
+      "sentence": "Tom had run to work before last month.",
+      "verb": "run"
+    },
+    {
+      "sentence": "Our neighbors had received the assignment before this morning.",
+      "verb": "received"
+    },
+    {
+      "sentence": "By the time I arrived, my friend had eaten pasta.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "Our neighbors had already eaten juice.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "Her sister had already read science.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The children had read vocabulary before on Monday.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The teacher had ordered soup before last night.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "The students had already bought a gift.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "By the time I arrived, my parents had drawn the bathroom.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "My parents had already forgotten the event.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "My brother had started the email before this morning.",
+      "verb": "started"
+    },
+    {
+      "sentence": "We had already sold flowers.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "The team had already forgotten the options.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "We had already gotten the ticket.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "The teacher had already run to the store.",
+      "verb": "run"
+    },
+    {
+      "sentence": "Her sister had cleaned the house before earlier today.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "My brother had reviewed science before yesterday.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "Emma had already prepared breakfast.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "By the time I arrived, the children had returned to the beach.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "Tom had sent the email before last night.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "By the time I arrived, our neighbors had prepared lunch.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "Sarah had already drawn the garden.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "The manager had sent the proposal before two days ago.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "The bird had drawn the house before yesterday.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "My brother had left to work before yesterday.",
+      "verb": "left"
+    },
+    {
+      "sentence": "The team had already contacted the teacher.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "Our neighbors had already returned to the store.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "He had come to the store before this morning.",
+      "verb": "come"
+    },
+    {
+      "sentence": "We had already finished the application.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "Sarah had thought about the event before yesterday.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "He had talked the client before two days ago.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The team had already drunk tea.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "The team had arrived to the beach before last night.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "By the time I arrived, emma had bought a laptop.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "We had already read history.",
+      "verb": "read"
+    },
+    {
+      "sentence": "By the time I arrived, her sister had visited my parents.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "By the time I arrived, tom had played a podcast.",
+      "verb": "played"
+    },
+    {
+      "sentence": "She had already given the phone.",
+      "verb": "given"
+    },
+    {
+      "sentence": "Tom had already built the kitchen.",
+      "verb": "built"
+    },
+    {
+      "sentence": "The teacher had gotten the keys before on Monday.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "The manager had already walked to school.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "Tom had already drunk dinner.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "By the time I arrived, he had built the furniture.",
+      "verb": "built"
+    },
+    {
+      "sentence": "The team had already written the proposal.",
+      "verb": "written"
+    },
+    {
+      "sentence": "We had already watched a video.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "John had watched basketball before yesterday.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Sarah had already played a video.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By the time I arrived, you had made a sandwich.",
+      "verb": "made"
+    },
+    {
+      "sentence": "They had already written the document.",
+      "verb": "written"
+    },
+    {
+      "sentence": "The team had eaten soup before last week.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "The students had designed the bathroom before in 2020.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "She had already listened to football.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "By the time I arrived, the manager had driven to the market.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "The company had left to the market before last year.",
+      "verb": "left"
+    },
+    {
+      "sentence": "The manager had already eaten a snack.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "Tom had written the project before this morning.",
+      "verb": "written"
+    },
+    {
+      "sentence": "She had already talked my friend.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The dog had already received the document.",
+      "verb": "received"
+    },
+    {
+      "sentence": "By the time I arrived, he had cleaned the computer.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "By the time I arrived, the team had understood the chapter.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "The company had already cooked soup.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "My friend had learned for the exam before this morning.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "By the time I arrived, i had cooked breakfast.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "You had completed the application before yesterday.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Her sister had drunk a salad before yesterday.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "The bird had already played TV.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Her sister had already arrived to the park.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "The team had already met the team.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The bird had already found a present.",
+      "verb": "found"
+    },
+    {
+      "sentence": "By the time I arrived, she had enjoyed a documentary.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By the time I arrived, john had read the chapter.",
+      "verb": "read"
+    },
+    {
+      "sentence": "By the time I arrived, the students had given a present.",
+      "verb": "given"
+    },
+    {
+      "sentence": "By the time I arrived, the children had read mathematics.",
+      "verb": "read"
+    },
+    {
+      "sentence": "By the time I arrived, the company had gotten flowers.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "He had made a sandwich before last year.",
+      "verb": "made"
+    },
+    {
+      "sentence": "Her sister had already watched the news.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "They had already planned the trip.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "I had bought a laptop before in 2020.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "We had considered the vacation before earlier today.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "You had watched a movie before two days ago.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Our neighbors had already started the application.",
+      "verb": "started"
+    },
+    {
+      "sentence": "Our neighbors had visited the doctor before last year.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "Our neighbors had forgotten the event before in 2020.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "By the time I arrived, he had forgotten the situation.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "We had already enjoyed TV.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "He had already remembered the situation.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "You had already drunk soup.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "She had enjoyed lunch before in 2020.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By the time I arrived, we had made a sandwich.",
+      "verb": "made"
+    },
+    {
+      "sentence": "By the time I arrived, the manager had thought about the meeting.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "By the time I arrived, tom had watched the news.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "By the time I arrived, you had enjoyed a video.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "We had already completed the email.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "By the time I arrived, the team had planned the decision.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "Our neighbors had already found groceries.",
+      "verb": "found"
+    },
+    {
+      "sentence": "The team had already sold a present.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "My parents had already completed the project.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Our neighbors had drunk pizza before yesterday.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "The students had already arrived to work.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "By the time I arrived, she had listened to tennis.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "John had called the teacher before last year.",
+      "verb": "called"
+    },
+    {
+      "sentence": "By the time I arrived, our neighbors had given clothes.",
+      "verb": "given"
+    },
+    {
+      "sentence": "By the time I arrived, the bird had planned the problem.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "By the time I arrived, my friend had walked to the park.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "The students had listened to a video before last year.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "Emma had flown home before last month.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "The children had played the news before on Monday.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Sarah had talked the doctor before last year.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The manager had already built a website.",
+      "verb": "built"
+    },
+    {
+      "sentence": "We had already enjoyed the news.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By the time I arrived, the company had gotten the ticket.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "By the time I arrived, the cat had visited the doctor.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "My friend had forgotten the trip before last week.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "He had already given the phone.",
+      "verb": "given"
+    },
+    {
+      "sentence": "By the time I arrived, sarah had arrived to the office.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "My brother had designed the kitchen before two days ago.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "By the time I arrived, john had forgotten the trip.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "Her sister had already ordered lunch.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "The bird had sold the keys before last year.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "Her sister had considered the birthday before this morning.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "My brother had started the email before last week.",
+      "verb": "started"
+    },
+    {
+      "sentence": "My brother had remembered the problem before last week.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The children had already talked the neighbors.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "Our neighbors had chosen a laptop before in 2020.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "By the time I arrived, they had played the game.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By the time I arrived, i had drunk pizza.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "By the time I arrived, the cat had drunk soup.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "By the time I arrived, i had written the presentation.",
+      "verb": "written"
+    },
+    {
+      "sentence": "By the time I arrived, my parents had drawn the furniture.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "By the time I arrived, my friend had designed the room.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "We had enjoyed TV before two days ago.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By the time I arrived, sarah had talked the boss.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "They had already listened to TV.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "By the time I arrived, she had completed the letter.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "The bird had played a video before yesterday.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By the time I arrived, the children had ordered a sandwich.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "Our neighbors had sold clothes before last year.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "Her sister had already forgotten the options.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "By the time I arrived, the team had listened to a song.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "By the time I arrived, our neighbors had bought the keys.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "Her sister had drunk a snack before last year.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "The children had already met my friend.",
+      "verb": "met"
+    },
+    {
+      "sentence": "Emma had driven to school before in 2020.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "John had returned to work before last month.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "The teacher had watched TV before on Monday.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "By the time I arrived, our neighbors had practiced English.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "The children had already received the report.",
+      "verb": "received"
+    },
+    {
+      "sentence": "They had started the proposal before on Monday.",
+      "verb": "started"
+    },
+    {
+      "sentence": "The teacher had painted the computer before last night.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "By the time I arrived, the company had talked my family.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "Emma had played tennis before earlier today.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By the time I arrived, our neighbors had considered the event.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "By the time I arrived, my parents had received the presentation.",
+      "verb": "received"
+    },
+    {
+      "sentence": "The company had already flown to the beach.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "By the time I arrived, the manager had called my friend.",
+      "verb": "called"
+    },
+    {
+      "sentence": "You had already forgotten the options.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "She had already driven to work.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "My parents had already listened to a video.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "I had thought about the situation before yesterday.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "The teacher had considered the decision before in 2020.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "I had designed the computer before last week.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "She had planned the problem before last year.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "I had thought about the problem before last week.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "By the time I arrived, the teacher had listened to the game.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The dog had already watched a podcast.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Sarah had already driven to the beach.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "By the time I arrived, the cat had drawn the garden.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "My friend had reviewed English before yesterday.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "You had finished the proposal before in 2020.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "My friend had already drunk tea.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "By the time I arrived, her sister had completed the letter.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "My friend had already enjoyed a movie.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By the time I arrived, my friend had understood the textbook.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "The company had taught science before on Monday.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "By the time I arrived, my brother had taught for the exam.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "Sarah had remembered the event before in 2020.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "I had forgotten the trip before on Monday.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "By the time I arrived, the bird had written the project.",
+      "verb": "written"
+    },
+    {
+      "sentence": "Sarah had written the document before last night.",
+      "verb": "written"
+    },
+    {
+      "sentence": "By the time I arrived, sarah had cleaned the computer.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "By the time I arrived, she had reviewed English.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "The cat had already listened to a podcast.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The team had already considered the options.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "Her sister had come to the gym before last month.",
+      "verb": "come"
+    },
+    {
+      "sentence": "Emma had already drunk a salad.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "By the time I arrived, he had sold a present.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "Tom had already submitted the assignment.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "My brother had read the lesson before yesterday.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The students had already sent the document.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "She had already prepared soup.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "By the time I arrived, we had given flowers.",
+      "verb": "given"
+    },
+    {
+      "sentence": "By the time I arrived, the team had returned to the library.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "My brother had already drunk lunch.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "By the time I arrived, the manager had sent the letter.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "Our neighbors had returned to the store before yesterday.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "The dog had already thought about the vacation.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "By the time I arrived, the students had come to the office.",
+      "verb": "come"
+    },
+    {
+      "sentence": "By the time I arrived, sarah had come to the gym.",
+      "verb": "come"
+    },
+    {
+      "sentence": "By the time I arrived, her sister had painted the furniture.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "My friend had practiced French before in 2020.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "My friend had walked downtown before yesterday.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "By the time I arrived, the teacher had fixed the room.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "By the time I arrived, the dog had gotten a new car.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "By the time I arrived, our neighbors had gone to the airport.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "By the time I arrived, the dog had met the teacher.",
+      "verb": "met"
+    },
+    {
+      "sentence": "Tom had already played a video.",
+      "verb": "played"
+    },
+    {
+      "sentence": "The company had cleaned the room before in 2020.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "Sarah had already remembered the vacation.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "My parents had already enjoyed the game.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By the time I arrived, the team had designed the furniture.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "The children had taught the chapter before last night.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "The bird had already spoken my family.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "By the time I arrived, he had talked the client.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "By the time I arrived, her sister had met the neighbors.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The cat had spoken the neighbors before earlier today.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "By the time I arrived, the team had walked to school.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "By the time I arrived, i had eaten a sandwich.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "The manager had already watched a podcast.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The cat had talked the doctor before this morning.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The teacher had already gotten the keys.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "By the time I arrived, the cat had talked the manager.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The company had already started the proposal.",
+      "verb": "started"
+    },
+    {
+      "sentence": "By the time I arrived, the cat had cleaned a picture.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "I had practiced science before in 2020.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "By the time I arrived, we had thought about the trip.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "I had already ordered lunch.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "By the time I arrived, the teacher had given a book.",
+      "verb": "given"
+    },
+    {
+      "sentence": "We had designed the garden before two days ago.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "By the time I arrived, i had studied English.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "By the time I arrived, our neighbors had contacted my parents.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "Her sister had already gotten clothes.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "By the time I arrived, the company had practiced French.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "I had already run to the park.",
+      "verb": "run"
+    },
+    {
+      "sentence": "The team had already built the bathroom.",
+      "verb": "built"
+    },
+    {
+      "sentence": "My brother had already studied vocabulary.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "The team had called the manager before earlier today.",
+      "verb": "called"
+    },
+    {
+      "sentence": "By the time I arrived, our neighbors had learned English.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "By the time I arrived, the dog had written the task.",
+      "verb": "written"
+    },
+    {
+      "sentence": "Emma had already repaired a picture.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "The students had submitted the project before yesterday.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "The teacher had made breakfast before this morning.",
+      "verb": "made"
+    },
+    {
+      "sentence": "By the time I arrived, the students had practiced for the exam.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "By the time I arrived, we had learned the lesson.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "They had started the email before in 2020.",
+      "verb": "started"
+    },
+    {
+      "sentence": "The children had already come to work.",
+      "verb": "come"
+    },
+    {
+      "sentence": "The students had already built the kitchen.",
+      "verb": "built"
+    },
+    {
+      "sentence": "By the time I arrived, her sister had watched TV.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The children had forgotten the trip before two days ago.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "You had already listened to a song.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "I had repaired the car before this morning.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "The teacher had finished the presentation before earlier today.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "Sarah had enjoyed a podcast before earlier today.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Emma had already considered the birthday.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "By the time I arrived, the company had forgotten the situation.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "By the time I arrived, the teacher had drunk coffee.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "The bird had talked the team before last month.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "He had already designed a picture.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "We had gotten a new car before on Monday.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "My brother had forgotten the meeting before two days ago.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "By the time I arrived, the dog had gotten groceries.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "By the time I arrived, sarah had remembered the situation.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "By the time I arrived, we had watched TV.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "My brother had started the presentation before last year.",
+      "verb": "started"
+    },
+    {
+      "sentence": "The team had already gotten the ticket.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "My brother had already listened to the news.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "I had already fixed the computer.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "By the time I arrived, the team had gone to the office.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "He had eaten a salad before last year.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "By the time I arrived, the teacher had spoken the team.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "Sarah had played tennis before on Monday.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By the time I arrived, the students had visited the neighbors.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "You had drunk lunch before last week.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "We had enjoyed the game before last week.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Tom had remembered the birthday before two days ago.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The company had drunk soup before yesterday.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "By the time I arrived, the dog had driven to the beach.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "By the time I arrived, the company had thought about the event.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "The dog had called the neighbors before two days ago.",
+      "verb": "called"
+    },
+    {
+      "sentence": "By the time I arrived, my brother had painted a website.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "They had already gone to the office.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "You had already cooked a snack.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "The teacher had already finished the document.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "The dog had thought about the birthday before this morning.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "By the time I arrived, my friend had contacted my parents.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "Her sister had already ordered tea.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "John had already practiced for the exam.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "By the time I arrived, he had watched a podcast.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "By the time I arrived, the dog had bought a laptop.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "The children had already enjoyed tennis.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By the time I arrived, they had played a video.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By the time I arrived, john had enjoyed breakfast.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By the time I arrived, you had spoken my parents.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "By the time I arrived, they had returned to the library.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "You had sent the project before last week.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "Her sister had already contacted the doctor.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "By the time I arrived, they had watched a documentary.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "My friend had left to the library before in 2020.",
+      "verb": "left"
+    },
+    {
+      "sentence": "By the time I arrived, the team had enjoyed a song.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "My parents had fixed the house before on Monday.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "My friend had already ordered tea.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "By the time I arrived, sarah had eaten dinner.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "By the time I arrived, the manager had forgotten the future.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "The team had already enjoyed breakfast.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The children had walked to the market before last week.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "The cat had planned the future before last night.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "Tom had already listened to a documentary.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "Emma had played the game before this morning.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By the time I arrived, my parents had run to the market.",
+      "verb": "run"
+    },
+    {
+      "sentence": "My parents had already received the proposal.",
+      "verb": "received"
+    },
+    {
+      "sentence": "The manager had painted a picture before last month.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "They had already drunk coffee.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "Sarah had already drawn the bathroom.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "You had considered the future before on Monday.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "By the time I arrived, the company had made coffee.",
+      "verb": "made"
+    },
+    {
+      "sentence": "The dog had sold the ticket before last year.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "By the time I arrived, he had visited the boss.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "I had already gone to the beach.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "The team had already studied mathematics.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "By the time I arrived, john had cooked a snack.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "By the time I arrived, my brother had learned vocabulary.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "The bird had given groceries before last week.",
+      "verb": "given"
+    },
+    {
+      "sentence": "The manager had talked the team before in 2020.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "My friend had already built the kitchen.",
+      "verb": "built"
+    },
+    {
+      "sentence": "The students had drawn the room before this morning.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "By the time I arrived, my friend had completed the document.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "He had talked the manager before earlier today.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "I had talked my friend before two days ago.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "I had already given a new car.",
+      "verb": "given"
+    },
+    {
+      "sentence": "By the time I arrived, the team had listened to the game.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The team had already walked home.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "She had already watched a podcast.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Sarah had received the proposal before last night.",
+      "verb": "received"
+    },
+    {
+      "sentence": "By the time I arrived, sarah had forgotten the options.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "I had already eaten coffee.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "Emma had eaten a sandwich before last night.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "The manager had cleaned the garden before last week.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "By the time I arrived, my parents had studied French.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "By the time I arrived, my brother had spoken the manager.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "The students had already reviewed French.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "You had already fixed the furniture.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "Her sister had already enjoyed a podcast.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By the time I arrived, the children had designed the bathroom.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "The company had already gone to the beach.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "He had come to school before last month.",
+      "verb": "come"
+    },
+    {
+      "sentence": "We had taught French before in 2020.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "By the time I arrived, the children had understood grammar.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "By the time I arrived, the bird had visited my friend.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "Her sister had already sold a book.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "The students had already fixed the room.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "By the time I arrived, she had listened to the game.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "Emma had started the presentation before two days ago.",
+      "verb": "started"
+    },
+    {
+      "sentence": "The students had made tea before two days ago.",
+      "verb": "made"
+    },
+    {
+      "sentence": "By the time I arrived, we had eaten a salad.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "By the time I arrived, the bird had given a gift.",
+      "verb": "given"
+    },
+    {
+      "sentence": "By the time I arrived, i had forgotten the birthday.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "John had already listened to music.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "By the time I arrived, the cat had chosen the phone.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "The manager had sent the presentation before in 2020.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "Emma had learned science before last month.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "By the time I arrived, we had walked to the airport.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "Her sister had already reviewed vocabulary.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "The manager had completed the report before two days ago.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "By the time I arrived, the students had enjoyed tennis.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By the time I arrived, her sister had repaired the kitchen.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "The manager had talked my friend before this morning.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "Her sister had built the room before last night.",
+      "verb": "built"
+    },
+    {
+      "sentence": "By the time I arrived, my parents had remembered the options.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "He had already thought about the situation.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "By the time I arrived, my parents had sent the application.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "She had already run to the office.",
+      "verb": "run"
+    },
+    {
+      "sentence": "My parents had already met the doctor.",
+      "verb": "met"
+    },
+    {
+      "sentence": "By the time I arrived, they had sold a gift.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "By the time I arrived, they had sent the report.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "John had remembered the options before two days ago.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "You had eaten pizza before this morning.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "By the time I arrived, i had studied history.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "Sarah had watched the game before this morning.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Sarah had completed the contract before last month.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "My brother had already played a song.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Sarah had already gotten a gift.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "By the time I arrived, the students had ordered pasta.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "By the time I arrived, the manager had talked the client.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The children had already forgotten the future.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "By the time I arrived, they had completed the presentation.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "By the time I arrived, the dog had completed the report.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "The children had sold a laptop before two days ago.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "By the time I arrived, sarah had repaired the bathroom.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "By the time I arrived, you had completed the email.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "He had already thought about the trip.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "The manager had already practiced French.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "The manager had returned to the market before yesterday.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "The teacher had enjoyed the news before last year.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Her sister had already given a gift.",
+      "verb": "given"
+    },
+    {
+      "sentence": "The company had watched a movie before last night.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The manager had already sent the proposal.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "By the time I arrived, her sister had arrived to school.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "Tom had come to work before on Monday.",
+      "verb": "come"
+    },
+    {
+      "sentence": "Sarah had run to the library before last night.",
+      "verb": "run"
+    },
+    {
+      "sentence": "My brother had already found groceries.",
+      "verb": "found"
+    },
+    {
+      "sentence": "My friend had contacted the team before last night.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "Emma had watched a song before this morning.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "By the time I arrived, tom had submitted the document.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "Emma had already flown to school.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "We had already arrived to work.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "My brother had practiced mathematics before in 2020.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "By the time I arrived, she had cleaned a picture.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "The cat had already found a present.",
+      "verb": "found"
+    },
+    {
+      "sentence": "By the time I arrived, the dog had drunk pasta.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "The manager had cooked lunch before last month.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "The students had returned home before last week.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "Tom had walked to the gym before two days ago.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "By the time I arrived, the bird had painted the car.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "She had designed the room before last week.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "The students had already written the project.",
+      "verb": "written"
+    },
+    {
+      "sentence": "Tom had flown to the office before last night.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "You had spoken the manager before this morning.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "The bird had played the game before yesterday.",
+      "verb": "played"
+    },
+    {
+      "sentence": "You had already called the team.",
+      "verb": "called"
+    },
+    {
+      "sentence": "We had already planned the future.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "You had designed the car before last night.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "Sarah had already drawn the kitchen.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "The manager had finished the application before last night.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "Emma had already completed the proposal.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "By the time I arrived, they had studied the chapter.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "My brother had enjoyed the news before last month.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By the time I arrived, her sister had remembered the situation.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The teacher had already forgotten the problem.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "Tom had already played a movie.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Emma had already watched football.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Tom had already listened to a podcast.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The dog had met the boss before yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "By the time I arrived, we had forgotten the future.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "John had enjoyed breakfast before yesterday.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The students had already met the client.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The dog had already considered the problem.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "The teacher had already listened to a song.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "Tom had built the computer before on Monday.",
+      "verb": "built"
+    },
+    {
+      "sentence": "The teacher had sent the email before earlier today.",
+      "verb": "sent"
+    }
+  ]
+}

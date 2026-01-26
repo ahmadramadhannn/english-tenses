@@ -1,0 +1,2006 @@
+{
+  "tense": "Present Perfect",
+  "description": "Used for actions that happened at an unspecified time or have relevance to the present",
+  "examples": [
+    {
+      "sentence": "You have planned the future.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The team has never understood the textbook before.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "Her sister has finally learned English.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "The bird has never learned mathematics before.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "My parents have spoken the manager.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "They have drawn the furniture.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "They have never remembered the situation before.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "We have never spoken the team before.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "My friend has never gotten a gift before.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "The company has never repaired a website before.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "Sarah has never remembered the future before.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The students have never completed the task before.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Our neighbors have finally written the letter.",
+      "verb": "written"
+    },
+    {
+      "sentence": "The children have never started the presentation before.",
+      "verb": "started"
+    },
+    {
+      "sentence": "Sarah has never drawn the bathroom before.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "John has practiced history.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "Our neighbors have never ordered juice before.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "John has recently studied the textbook.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "The team has already sold groceries.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "Tom has never started the contract before.",
+      "verb": "started"
+    },
+    {
+      "sentence": "My parents have never understood vocabulary before.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "My parents have finally remembered the event.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "My friend has met the doctor.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The cat has recently eaten breakfast.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "Tom has never bought a book before.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "Her sister has never played football before.",
+      "verb": "played"
+    },
+    {
+      "sentence": "I have just prepared a snack.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "We have just bought a gift.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "She has never remembered the meeting before.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "Our neighbors have never talked the teacher before.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "I have recently fixed the computer.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "The dog has written the assignment.",
+      "verb": "written"
+    },
+    {
+      "sentence": "The cat has already remembered the problem.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "You have drunk a sandwich.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "The manager has never spoken my family before.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "Her sister has just played a podcast.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Emma has learned mathematics.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "The cat has never submitted the project before.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "Sarah has repaired a picture.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "Her sister has considered the trip.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "John has submitted the presentation.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "The dog has never listened to music before.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The company has finally sold clothes.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "He has never planned the situation before.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "Emma has never bought a laptop before.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "John has never made a salad before.",
+      "verb": "made"
+    },
+    {
+      "sentence": "Sarah has spoken the doctor.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "John has finally run to school.",
+      "verb": "run"
+    },
+    {
+      "sentence": "My parents have painted the kitchen.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "The bird has bought a laptop.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "They have just planned the trip.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The children have just completed the application.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Emma has painted the house.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "My parents have built the garden.",
+      "verb": "built"
+    },
+    {
+      "sentence": "The company has recently practiced history.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "My friend has never considered the meeting before.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "Emma has recently repaired a picture.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "The dog has returned to the beach.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "The children have thought about the trip.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "My parents have recently driven to the gym.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "The students have never drawn the garden before.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "The manager has just enjoyed a song.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The dog has built the car.",
+      "verb": "built"
+    },
+    {
+      "sentence": "Her sister has never visited my friend before.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "The company has never bought the keys before.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "Her sister has never understood French before.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "The children have already spoken the teacher.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "I have never sent the document before.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "My brother has never enjoyed a snack before.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The manager has recently understood English.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "Tom has just cooked dinner.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "The children have never taught the textbook before.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "You have just received the project.",
+      "verb": "received"
+    },
+    {
+      "sentence": "The bird has cleaned the computer.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "He has never forgotten the birthday before.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "You have finished the document.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "Her sister has already made juice.",
+      "verb": "made"
+    },
+    {
+      "sentence": "They have never prepared pizza before.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "The team has recently read French.",
+      "verb": "read"
+    },
+    {
+      "sentence": "We have run to the market.",
+      "verb": "run"
+    },
+    {
+      "sentence": "The children have just practiced French.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "She has recently enjoyed lunch.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Emma has painted the kitchen.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "My friend has never run to the store before.",
+      "verb": "run"
+    },
+    {
+      "sentence": "The company has just enjoyed tennis.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Our neighbors have never practiced grammar before.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "He has never talked my family before.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "They have remembered the situation.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The students have never walked to the market before.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "I have walked to the market.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "The cat has never started the email before.",
+      "verb": "started"
+    },
+    {
+      "sentence": "The dog has enjoyed dinner.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "She has finally remembered the situation.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "We have thought about the problem.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "The students have cleaned a picture.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "We have recently painted the computer.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "We have planned the situation.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "They have understood English.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "The manager has just considered the birthday.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "You have never submitted the email before.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "My brother has just learned the lesson.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "My parents have already cooked a salad.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "The dog has never listened to a song before.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The cat has planned the situation.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "I have just come to the office.",
+      "verb": "come"
+    },
+    {
+      "sentence": "Sarah has already listened to a video.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The team has never met the client before.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The dog has already written the presentation.",
+      "verb": "written"
+    },
+    {
+      "sentence": "John has never prepared tea before.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "The company has forgotten the vacation.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "The team has never remembered the options before.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "Her sister has chosen a gift.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "Sarah has recently fixed the kitchen.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "Sarah has cleaned the room.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "John has just come to school.",
+      "verb": "come"
+    },
+    {
+      "sentence": "Our neighbors have never bought a new car before.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "My friend has given a new car.",
+      "verb": "given"
+    },
+    {
+      "sentence": "She has started the application.",
+      "verb": "started"
+    },
+    {
+      "sentence": "I have just received the document.",
+      "verb": "received"
+    },
+    {
+      "sentence": "The teacher has never written the task before.",
+      "verb": "written"
+    },
+    {
+      "sentence": "You have never finished the presentation before.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "My friend has spoken the manager.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "John has never finished the assignment before.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "Tom has enjoyed the news.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The dog has planned the future.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "John has met the team.",
+      "verb": "met"
+    },
+    {
+      "sentence": "They have made lunch.",
+      "verb": "made"
+    },
+    {
+      "sentence": "The company has never thought about the problem before.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "The cat has finally gone to the beach.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "The team has never flown to work before.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "They have contacted the neighbors.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "Emma has already ordered a snack.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "The teacher has never repaired a website before.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "The cat has already watched TV.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The company has learned the lesson.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "He has understood French.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "My brother has already fixed the car.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "John has never completed the task before.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "I have recently planned the future.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The teacher has spoken my family.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "The dog has planned the situation.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "Tom has finally spoken the doctor.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "The cat has never listened to a video before.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "I have never studied science before.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "The teacher has never listened to basketball before.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "We have never given the phone before.",
+      "verb": "given"
+    },
+    {
+      "sentence": "Our neighbors have contacted the client.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "The manager has recently started the proposal.",
+      "verb": "started"
+    },
+    {
+      "sentence": "Our neighbors have played the game.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Emma has never cooked a salad before.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "John has listened to the game.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "Emma has watched the game.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The manager has never ordered lunch before.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "My friend has never called the neighbors before.",
+      "verb": "called"
+    },
+    {
+      "sentence": "The cat has recently cleaned the garden.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "Our neighbors have finally sent the task.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "He has never enjoyed the news before.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The team has eaten tea.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "The manager has repaired a website.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "We have never planned the future before.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "You have run to the library.",
+      "verb": "run"
+    },
+    {
+      "sentence": "You have arrived to the market.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "My brother has just talked the doctor.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "They have repaired the garden.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "John has never left to work before.",
+      "verb": "left"
+    },
+    {
+      "sentence": "The children have never called my parents before.",
+      "verb": "called"
+    },
+    {
+      "sentence": "The bird has never contacted the teacher before.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "We have never cleaned the furniture before.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "The cat has gotten groceries.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "They have never spoken my friend before.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "You have already gotten groceries.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "I have never remembered the birthday before.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "Sarah has never designed the house before.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "Her sister has never repaired the bathroom before.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "You have already thought about the event.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "The teacher has never studied mathematics before.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "Tom has returned home.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "Sarah has never watched tennis before.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "She has never prepared a snack before.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "She has painted the computer.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "They have run to the park.",
+      "verb": "run"
+    },
+    {
+      "sentence": "My friend has never enjoyed the news before.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The cat has recently driven to the airport.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "The team has never cooked soup before.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "Emma has never bought the ticket before.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "They have never learned French before.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "You have already received the document.",
+      "verb": "received"
+    },
+    {
+      "sentence": "Sarah has never gotten a present before.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "My brother has received the assignment.",
+      "verb": "received"
+    },
+    {
+      "sentence": "The manager has thought about the decision.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "He has never considered the vacation before.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "The cat has taught Spanish.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "You have never read English before.",
+      "verb": "read"
+    },
+    {
+      "sentence": "Tom has finally fixed a picture.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "I have never enjoyed a podcast before.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Her sister has flown to the gym.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "My parents have just gone to the store.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "The bird has never bought clothes before.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "She has never enjoyed a song before.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "My brother has finally sold a laptop.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "The team has spoken the boss.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "The students have watched a video.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The children have met the manager.",
+      "verb": "met"
+    },
+    {
+      "sentence": "She has drawn the bathroom.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "The teacher has never prepared a salad before.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "The teacher has visited my family.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "The team has already enjoyed TV.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The team has never fixed the computer before.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "They have never taught mathematics before.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "John has understood for the exam.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "The company has started the email.",
+      "verb": "started"
+    },
+    {
+      "sentence": "You have already designed the house.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "My friend has finally remembered the options.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "John has read Spanish.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The students have never prepared breakfast before.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "The bird has cleaned the room.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "The children have completed the presentation.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "The company has gone to the gym.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "Tom has never listened to the news before.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The students have never met the boss before.",
+      "verb": "met"
+    },
+    {
+      "sentence": "She has finally designed the furniture.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "The teacher has finally sent the project.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "Sarah has watched tennis.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "They have repaired the house.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "Sarah has finally forgotten the meeting.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "The dog has made dinner.",
+      "verb": "made"
+    },
+    {
+      "sentence": "Our neighbors have never completed the letter before.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "The bird has never come to the park before.",
+      "verb": "come"
+    },
+    {
+      "sentence": "My brother has recently come to work.",
+      "verb": "come"
+    },
+    {
+      "sentence": "The company has never played tennis before.",
+      "verb": "played"
+    },
+    {
+      "sentence": "The company has never played football before.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Our neighbors have given flowers.",
+      "verb": "given"
+    },
+    {
+      "sentence": "Her sister has taught the textbook.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "The bird has never contacted the manager before.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "I have finally chosen a present.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "My friend has bought a gift.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "My friend has never played tennis before.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Sarah has learned history.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "I have played the game.",
+      "verb": "played"
+    },
+    {
+      "sentence": "John has just studied French.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "The dog has never listened to basketball before.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "You have driven to the beach.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "The teacher has recently sold a gift.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "They have never started the letter before.",
+      "verb": "started"
+    },
+    {
+      "sentence": "John has talked the neighbors.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The cat has recently met the teacher.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The team has finally drawn the kitchen.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "My parents have never forgotten the vacation before.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "My brother has never given a gift before.",
+      "verb": "given"
+    },
+    {
+      "sentence": "The teacher has studied grammar.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "Tom has never drunk a salad before.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "John has never written the email before.",
+      "verb": "written"
+    },
+    {
+      "sentence": "He has never sent the letter before.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "My parents have finally drawn the bathroom.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "John has received the email.",
+      "verb": "received"
+    },
+    {
+      "sentence": "You have sent the application.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "You have never enjoyed breakfast before.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "He has cooked a salad.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "She has never spoken the client before.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "The company has finished the document.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "The cat has already repaired the house.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "The manager has recently watched basketball.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The dog has never bought a gift before.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "John has sent the application.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "Her sister has just remembered the situation.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "She has forgotten the vacation.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "The team has just played a movie.",
+      "verb": "played"
+    },
+    {
+      "sentence": "He has already found a laptop.",
+      "verb": "found"
+    },
+    {
+      "sentence": "They have already bought the ticket.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "The manager has never made soup before.",
+      "verb": "made"
+    },
+    {
+      "sentence": "The team has contacted the neighbors.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "Her sister has never made juice before.",
+      "verb": "made"
+    },
+    {
+      "sentence": "My brother has found groceries.",
+      "verb": "found"
+    },
+    {
+      "sentence": "The team has never built the kitchen before.",
+      "verb": "built"
+    },
+    {
+      "sentence": "The children have never eaten a salad before.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has never planned the decision before.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The students have practiced English.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "Her sister has recently drunk pasta.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "We have already spoken the client.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "My friend has played basketball.",
+      "verb": "played"
+    },
+    {
+      "sentence": "You have never played the news before.",
+      "verb": "played"
+    },
+    {
+      "sentence": "They have remembered the birthday.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The cat has never cooked soup before.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "She has never played the game before.",
+      "verb": "played"
+    },
+    {
+      "sentence": "The cat has enjoyed soup.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "My friend has never listened to football before.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "My friend has already arrived to the library.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "Emma has never returned downtown before.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "The dog has written the report.",
+      "verb": "written"
+    },
+    {
+      "sentence": "The teacher has just walked to work.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "The bird has cooked soup.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has spoken the neighbors.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "The team has just given a book.",
+      "verb": "given"
+    },
+    {
+      "sentence": "We have finally watched basketball.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "They have found a book.",
+      "verb": "found"
+    },
+    {
+      "sentence": "My parents have never gotten a book before.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "The dog has never practiced science before.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "The dog has never started the document before.",
+      "verb": "started"
+    },
+    {
+      "sentence": "Her sister has forgotten the decision.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "Our neighbors have chosen the phone.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "The team has never bought a present before.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "The team has never enjoyed TV before.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The bird has never ordered pasta before.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "The cat has already listened to a video.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "I have never walked to the office before.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "The children have never prepared a snack before.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "You have painted the room.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "Tom has spoken my family.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "Our neighbors have listened to football.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "He has recently drunk juice.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "You have never remembered the problem before.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "Tom has finally received the task.",
+      "verb": "received"
+    },
+    {
+      "sentence": "The bird has thought about the situation.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "My brother has gotten a book.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "The team has chosen a gift.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "The teacher has never understood mathematics before.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "They have spoken the boss.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "I have never contacted the neighbors before.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "The cat has never considered the meeting before.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "The children have sent the letter.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "My parents have recently met my friend.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The manager has never fixed a website before.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "The students have finally prepared breakfast.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "I have returned to the store.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "John has never watched a video before.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The teacher has never prepared a sandwich before.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "John has forgotten the trip.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "The team has never prepared a snack before.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "Her sister has never received the email before.",
+      "verb": "received"
+    },
+    {
+      "sentence": "My friend has recently reviewed vocabulary.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "Emma has never forgotten the meeting before.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "My friend has never reviewed vocabulary before.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "My brother has recently bought the ticket.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "My friend has come to the store.",
+      "verb": "come"
+    },
+    {
+      "sentence": "She has ordered pizza.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "Tom has started the application.",
+      "verb": "started"
+    },
+    {
+      "sentence": "Emma has never left downtown before.",
+      "verb": "left"
+    },
+    {
+      "sentence": "You have recently gotten clothes.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "The company has never visited the doctor before.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "My friend has chosen a new car.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "The bird has already written the application.",
+      "verb": "written"
+    },
+    {
+      "sentence": "The team has just visited the teacher.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "The company has already sent the application.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "Our neighbors have already chosen clothes.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "Emma has taught French.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "My brother has never visited the boss before.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "She has never chosen a gift before.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "The dog has finally practiced English.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "You have never planned the meeting before.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "My brother has recently given a book.",
+      "verb": "given"
+    },
+    {
+      "sentence": "Emma has finally built the computer.",
+      "verb": "built"
+    },
+    {
+      "sentence": "The company has finished the presentation.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "The cat has drunk juice.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "My brother has recently considered the event.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "The children have never sold the keys before.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "Sarah has recently bought a gift.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "The dog has just eaten dinner.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has drawn a picture.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "The teacher has just ordered lunch.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "Our neighbors have never repaired the house before.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "Emma has never watched music before.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The manager has already made juice.",
+      "verb": "made"
+    },
+    {
+      "sentence": "The manager has never understood science before.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "Emma has never chosen the ticket before.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "You have listened to TV.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "My parents have never found a present before.",
+      "verb": "found"
+    },
+    {
+      "sentence": "The dog has finally completed the contract.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "My friend has just fixed the kitchen.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "The students have never walked to the park before.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "Emma has never driven to the store before.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "My friend has built the furniture.",
+      "verb": "built"
+    },
+    {
+      "sentence": "They have never finished the application before.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "The teacher has recently fixed the kitchen.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "Sarah has recently played a documentary.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Tom has just studied Spanish.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "The team has never met my family before.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The company has never planned the situation before.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "I have listened to the news.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The children have already designed the furniture.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "They have never started the contract before.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has recently given clothes.",
+      "verb": "given"
+    },
+    {
+      "sentence": "We have never submitted the project before.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "I have listened to the game.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "You have just flown downtown.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "My friend has already remembered the decision.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "I have finally come to the market.",
+      "verb": "come"
+    },
+    {
+      "sentence": "The team has just written the letter.",
+      "verb": "written"
+    },
+    {
+      "sentence": "Her sister has completed the project.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Tom has enjoyed basketball.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "She has already enjoyed juice.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Our neighbors have recently called the neighbors.",
+      "verb": "called"
+    },
+    {
+      "sentence": "My friend has just drawn the computer.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "Our neighbors have already planned the future.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "They have never gone to the office before.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "Emma has played basketball.",
+      "verb": "played"
+    },
+    {
+      "sentence": "The team has finally eaten dinner.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "The teacher has never read the textbook before.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The cat has never flown downtown before.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "Our neighbors have recently started the project.",
+      "verb": "started"
+    },
+    {
+      "sentence": "She has driven home.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "My friend has finally arrived to the park.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "John has recently taught for the exam.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "We have just called the boss.",
+      "verb": "called"
+    },
+    {
+      "sentence": "Sarah has just taught Spanish.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "The company has just finished the assignment.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "My parents have never driven downtown before.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "Her sister has recently listened to tennis.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "We have just watched basketball.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "John has never returned to the store before.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "Her sister has recently gotten the ticket.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "Sarah has never fixed the house before.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "The company has recently prepared juice.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "My parents have enjoyed a documentary.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The team has never found a book before.",
+      "verb": "found"
+    },
+    {
+      "sentence": "The company has never visited the manager before.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "The company has already arrived home.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "We have already cooked soup.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "My brother has never cooked dinner before.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "My brother has never bought the phone before.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "Emma has never watched the game before.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The dog has never enjoyed basketball before.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The manager has never reviewed the chapter before.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "She has never chosen a laptop before.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "My parents have never visited the team before.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "Sarah has bought a laptop.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "The children have never received the letter before.",
+      "verb": "received"
+    },
+    {
+      "sentence": "My parents have taught French.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "The students have reviewed science.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "You have eaten pasta.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "The cat has considered the future.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "Her sister has never repaired the kitchen before.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "They have never gotten groceries before.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "The dog has submitted the presentation.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "The cat has already cooked tea.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "My brother has never come home before.",
+      "verb": "come"
+    },
+    {
+      "sentence": "She has never gone to the library before.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "The cat has recently understood science.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has never read vocabulary before.",
+      "verb": "read"
+    },
+    {
+      "sentence": "Sarah has finally returned to the beach.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "My parents have never come to school before.",
+      "verb": "come"
+    },
+    {
+      "sentence": "They have never eaten a salad before.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "The manager has recently left to school.",
+      "verb": "left"
+    },
+    {
+      "sentence": "The manager has studied history.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "You have never flown to the gym before.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "Our neighbors have just found a laptop.",
+      "verb": "found"
+    },
+    {
+      "sentence": "The cat has never completed the document before.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "John has never ordered dinner before.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "He has thought about the event.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "I have already written the document.",
+      "verb": "written"
+    },
+    {
+      "sentence": "The team has already cleaned the kitchen.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "John has reviewed French.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "He has just spoken the neighbors.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "You have recently bought a gift.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "The children have recently played the game.",
+      "verb": "played"
+    },
+    {
+      "sentence": "She has never read history before.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The teacher has never learned vocabulary before.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "Our neighbors have recently met the manager.",
+      "verb": "met"
+    },
+    {
+      "sentence": "Tom has called the team.",
+      "verb": "called"
+    },
+    {
+      "sentence": "John has never remembered the situation before.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The manager has never designed the house before.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "The teacher has enjoyed pizza.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "We have studied English.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "My friend has never played a documentary before.",
+      "verb": "played"
+    },
+    {
+      "sentence": "John has never submitted the letter before.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "The dog has returned to the airport.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "They have never listened to TV before.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "John has recently contacted the manager.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "He has visited the client.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "The children have studied grammar.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "Our neighbors have never left to work before.",
+      "verb": "left"
+    },
+    {
+      "sentence": "The students have never called my parents before.",
+      "verb": "called"
+    },
+    {
+      "sentence": "Tom has recently made lunch.",
+      "verb": "made"
+    },
+    {
+      "sentence": "Her sister has started the report.",
+      "verb": "started"
+    },
+    {
+      "sentence": "The cat has never made a snack before.",
+      "verb": "made"
+    },
+    {
+      "sentence": "The dog has recently flown to the store.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "Her sister has already cleaned the computer.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "The manager has never completed the assignment before.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "You have spoken the manager.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "We have recently played TV.",
+      "verb": "played"
+    },
+    {
+      "sentence": "The team has never given the ticket before.",
+      "verb": "given"
+    },
+    {
+      "sentence": "The teacher has watched the game.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Tom has never considered the event before.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "The company has already gone to the store.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "The bird has given flowers.",
+      "verb": "given"
+    },
+    {
+      "sentence": "The team has never driven to school before.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "He has gotten a laptop.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "Her sister has never met my family before.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The company has recently gotten a gift.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "The students have never walked downtown before.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "The students have chosen a laptop.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "The bird has remembered the options.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The company has finally run to the beach.",
+      "verb": "run"
+    },
+    {
+      "sentence": "Emma has never spoken the client before.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "Her sister has already called the doctor.",
+      "verb": "called"
+    },
+    {
+      "sentence": "Her sister has never written the email before.",
+      "verb": "written"
+    },
+    {
+      "sentence": "The students have finally completed the proposal.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "The team has finished the task.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "The cat has recently gotten flowers.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "We have never forgotten the options before.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "Our neighbors have finally listened to basketball.",
+      "verb": "listened"
+    }
+  ]
+}

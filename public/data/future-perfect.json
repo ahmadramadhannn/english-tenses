@@ -1,0 +1,2006 @@
+{
+  "tense": "Future Perfect",
+  "description": "Used for actions that will be completed before a specific future time",
+  "examples": [
+    {
+      "sentence": "The company will have bought the ticket by next week.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "Her sister will have prepared pasta by later.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "The children will have listened to TV by then.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The team will have eaten a sandwich by tomorrow.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "The teacher will have forgotten the trip by this weekend.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "Her sister will have watched tennis by then.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "By tonight, you will have practiced English.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "By tonight, our neighbors will have listened to the game.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The students will have planned the future by then.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "He will have planned the vacation by tonight.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "She will have studied vocabulary by next year.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "I will have sent the document by in two days.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "Sarah will have prepared a sandwich by soon.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "By this evening, she will have read the textbook.",
+      "verb": "read"
+    },
+    {
+      "sentence": "My friend will have remembered the event by soon.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The company will have gone to the office by soon.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "The dog will have started the task by later.",
+      "verb": "started"
+    },
+    {
+      "sentence": "John will have practiced French by next month.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "Sarah will have drawn the bathroom by then.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "By next year, you will have prepared pasta.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "By later, the children will have built a picture.",
+      "verb": "built"
+    },
+    {
+      "sentence": "The cat will have understood vocabulary by then.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "The team will have sold the phone by then.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "The dog will have called the teacher by this weekend.",
+      "verb": "called"
+    },
+    {
+      "sentence": "By tonight, the bird will have completed the project.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "The students will have cleaned the kitchen by then.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "Our neighbors will have built the car by then.",
+      "verb": "built"
+    },
+    {
+      "sentence": "My parents will have fixed the car by next week.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "Emma will have driven to the beach by then.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "My parents will have repaired the house by soon.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "Her sister will have planned the future by then.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "By this evening, the dog will have read for the exam.",
+      "verb": "read"
+    },
+    {
+      "sentence": "My friend will have cleaned the furniture by tonight.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "The cat will have bought flowers by then.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "By this weekend, emma will have reviewed for the exam.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "By tomorrow, my brother will have spoken the doctor.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "My parents will have played tennis by then.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By next year, we will have designed the bathroom.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "John will have built the kitchen by then.",
+      "verb": "built"
+    },
+    {
+      "sentence": "Tom will have given flowers by this weekend.",
+      "verb": "given"
+    },
+    {
+      "sentence": "By next week, the manager will have designed the computer.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "The children will have chosen flowers by later.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "My friend will have talked the client by next week.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "By next year, they will have come to work.",
+      "verb": "come"
+    },
+    {
+      "sentence": "The students will have listened to music by next week.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The cat will have considered the decision by tonight.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "They will have gone to the airport by in two days.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "He will have enjoyed juice by this evening.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Tom will have played basketball by this weekend.",
+      "verb": "played"
+    },
+    {
+      "sentence": "He will have ordered dinner by next month.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "My parents will have built the garden by tonight.",
+      "verb": "built"
+    },
+    {
+      "sentence": "By this evening, she will have sold clothes.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "By tomorrow, our neighbors will have found flowers.",
+      "verb": "found"
+    },
+    {
+      "sentence": "By later, my parents will have visited the manager.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "By next week, my parents will have planned the trip.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The dog will have played football by then.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By this evening, my brother will have reviewed history.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "By tonight, the cat will have written the presentation.",
+      "verb": "written"
+    },
+    {
+      "sentence": "By next week, they will have practiced English.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "I will have called my friend by soon.",
+      "verb": "called"
+    },
+    {
+      "sentence": "Sarah will have understood science by this weekend.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "The students will have contacted my family by in two days.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "By later, the bird will have chosen the phone.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "We will have taught vocabulary by then.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "She will have cleaned a picture by then.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "By this evening, the teacher will have planned the problem.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "Sarah will have returned downtown by this evening.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "The students will have finished the presentation by next year.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "By next year, john will have received the document.",
+      "verb": "received"
+    },
+    {
+      "sentence": "You will have played a movie by then.",
+      "verb": "played"
+    },
+    {
+      "sentence": "My brother will have completed the proposal by then.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "My brother will have chosen a gift by then.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "My friend will have practiced vocabulary by then.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "By next week, john will have written the assignment.",
+      "verb": "written"
+    },
+    {
+      "sentence": "Sarah will have drawn the car by later.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "The cat will have understood grammar by next year.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "My friend will have written the task by then.",
+      "verb": "written"
+    },
+    {
+      "sentence": "The cat will have cooked pizza by later.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "The manager will have gotten a new car by soon.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "I will have come to the gym by then.",
+      "verb": "come"
+    },
+    {
+      "sentence": "By next month, my friend will have driven downtown.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "The team will have thought about the birthday by then.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "By this evening, the bird will have planned the situation.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The children will have given flowers by in two days.",
+      "verb": "given"
+    },
+    {
+      "sentence": "We will have listened to a documentary by tomorrow.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "By tonight, the manager will have watched TV.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "We will have submitted the document by then.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "Emma will have painted the house by then.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "By tomorrow, i will have enjoyed basketball.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "I will have started the document by then.",
+      "verb": "started"
+    },
+    {
+      "sentence": "Our neighbors will have watched TV by then.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The team will have sold the keys by then.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "They will have returned to the gym by then.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "The teacher will have started the proposal by then.",
+      "verb": "started"
+    },
+    {
+      "sentence": "I will have sent the document by then.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "The students will have cooked dinner by this evening.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "By next month, emma will have listened to music.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "You will have watched a podcast by later.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "I will have repaired the room by then.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "The cat will have returned to the office by then.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "Her sister will have thought about the trip by soon.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "By tomorrow, the cat will have left to work.",
+      "verb": "left"
+    },
+    {
+      "sentence": "John will have taught Spanish by then.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "Sarah will have finished the task by then.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "By tomorrow, the manager will have remembered the meeting.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "By tomorrow, emma will have gotten clothes.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "By soon, i will have talked the teacher.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The dog will have started the document by next week.",
+      "verb": "started"
+    },
+    {
+      "sentence": "By tonight, the students will have talked the teacher.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The students will have found a new car by later.",
+      "verb": "found"
+    },
+    {
+      "sentence": "The children will have eaten juice by soon.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "The company will have studied science by then.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "By tonight, emma will have run to the office.",
+      "verb": "run"
+    },
+    {
+      "sentence": "I will have played a documentary by next year.",
+      "verb": "played"
+    },
+    {
+      "sentence": "The company will have painted the car by this evening.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "We will have planned the problem by in two days.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "She will have gone to the gym by then.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "By this weekend, we will have painted the furniture.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "By this weekend, the bird will have contacted my parents.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "The teacher will have chosen a gift by tonight.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "The team will have designed the garden by next month.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "My parents will have eaten pasta by then.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "By soon, the children will have considered the vacation.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "I will have enjoyed breakfast by then.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The children will have bought the phone by next year.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "By tonight, emma will have enjoyed basketball.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By tomorrow, he will have remembered the birthday.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "My friend will have flown to the library by tomorrow.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "Our neighbors will have enjoyed TV by this weekend.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By next week, the company will have driven to work.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "The children will have forgotten the decision by then.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "By this weekend, the team will have painted the garden.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "She will have played a podcast by this evening.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By next month, my parents will have played the news.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Emma will have left to the office by this evening.",
+      "verb": "left"
+    },
+    {
+      "sentence": "The cat will have read history by then.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The company will have bought the keys by soon.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "My parents will have fixed the bathroom by then.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "You will have met the team by then.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The teacher will have flown to school by tomorrow.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "The children will have made a sandwich by next month.",
+      "verb": "made"
+    },
+    {
+      "sentence": "Sarah will have contacted my family by then.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "My parents will have considered the options by tomorrow.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "He will have taught the chapter by then.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "Our neighbors will have listened to a video by then.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "By tonight, the cat will have designed the room.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "By this weekend, our neighbors will have left to school.",
+      "verb": "left"
+    },
+    {
+      "sentence": "By tonight, sarah will have enjoyed TV.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "I will have drawn the furniture by then.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "By next month, the teacher will have ordered pasta.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "By next month, the bird will have visited the client.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "By tomorrow, her sister will have played a movie.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By soon, sarah will have planned the problem.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "By in two days, we will have enjoyed the game.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The children will have sold the ticket by tomorrow.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "My friend will have designed the bathroom by then.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "The cat will have spoken the teacher by then.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "By later, my brother will have arrived to work.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "She will have studied grammar by next week.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "By tonight, the company will have gotten clothes.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "By this weekend, john will have practiced English.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "Her sister will have started the task by then.",
+      "verb": "started"
+    },
+    {
+      "sentence": "You will have forgotten the situation by soon.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "Our neighbors will have received the contract by soon.",
+      "verb": "received"
+    },
+    {
+      "sentence": "Sarah will have taught French by then.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "The manager will have watched a video by then.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "My brother will have studied vocabulary by next month.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "Our neighbors will have painted a website by next week.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "The bird will have thought about the birthday by next year.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "The team will have taught the chapter by this evening.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "By tonight, her sister will have built the kitchen.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He will have thought about the problem by this weekend.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "He will have completed the letter by then.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "You will have built the kitchen by in two days.",
+      "verb": "built"
+    },
+    {
+      "sentence": "The team will have practiced the lesson by then.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "The dog will have finished the contract by tonight.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "By next year, you will have talked my friend.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "My parents will have reviewed mathematics by then.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "By next month, the students will have understood Spanish.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "By in two days, she will have read science.",
+      "verb": "read"
+    },
+    {
+      "sentence": "By tonight, we will have completed the task.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Our neighbors will have written the assignment by then.",
+      "verb": "written"
+    },
+    {
+      "sentence": "They will have repaired the furniture by this weekend.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "By this weekend, she will have enjoyed the news.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Our neighbors will have started the assignment by this evening.",
+      "verb": "started"
+    },
+    {
+      "sentence": "By next year, he will have enjoyed a video.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "We will have designed the kitchen by then.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "By next month, the team will have gotten the ticket.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "By next week, sarah will have repaired the furniture.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "You will have remembered the vacation by then.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "By tonight, our neighbors will have read vocabulary.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The teacher will have planned the meeting by next year.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "Emma will have left to the park by soon.",
+      "verb": "left"
+    },
+    {
+      "sentence": "By tonight, the cat will have sold a present.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "Her sister will have played basketball by tomorrow.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Tom will have reviewed mathematics by then.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "By soon, my parents will have drunk pasta.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "The teacher will have repaired the garden by next year.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "The bird will have given the keys by tonight.",
+      "verb": "given"
+    },
+    {
+      "sentence": "The bird will have cooked a snack by then.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "By tonight, the bird will have completed the presentation.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "The teacher will have written the document by then.",
+      "verb": "written"
+    },
+    {
+      "sentence": "By in two days, john will have completed the project.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Her sister will have thought about the future by next month.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "John will have found a gift by then.",
+      "verb": "found"
+    },
+    {
+      "sentence": "The manager will have prepared a sandwich by next week.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "The dog will have considered the trip by then.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "The company will have arrived downtown by next year.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "By next year, the children will have remembered the options.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "By later, you will have thought about the decision.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "Sarah will have ordered breakfast by then.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "My brother will have watched music by then.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "My parents will have understood science by then.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "Our neighbors will have thought about the meeting by later.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "By next year, the cat will have understood for the exam.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "The teacher will have sent the project by then.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "The team will have learned history by next month.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "By next year, i will have gone home.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "By soon, tom will have designed the furniture.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "By this evening, my friend will have talked the neighbors.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "Tom will have talked the doctor by this evening.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "They will have finished the project by then.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "I will have returned to work by tonight.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "The cat will have spoken the manager by tomorrow.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "By in two days, my parents will have taught Spanish.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "The cat will have called the client by in two days.",
+      "verb": "called"
+    },
+    {
+      "sentence": "By soon, the bird will have listened to a podcast.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "He will have cleaned the kitchen by tomorrow.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "By in two days, the children will have talked my family.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "By later, her sister will have forgotten the future.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "We will have run to the airport by tonight.",
+      "verb": "run"
+    },
+    {
+      "sentence": "Emma will have cooked lunch by then.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "By soon, she will have played a song.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Sarah will have called the doctor by tonight.",
+      "verb": "called"
+    },
+    {
+      "sentence": "The bird will have designed the kitchen by later.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "Sarah will have ordered tea by then.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "By soon, the bird will have cleaned the furniture.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "The manager will have finished the email by next week.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "They will have fixed the room by then.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "My parents will have finished the contract by this evening.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "The students will have planned the situation by then.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The teacher will have studied grammar by then.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "Our neighbors will have forgotten the birthday by tomorrow.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "Tom will have remembered the birthday by then.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The manager will have driven to the library by then.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "By next week, we will have designed a picture.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "Her sister will have given a book by then.",
+      "verb": "given"
+    },
+    {
+      "sentence": "She will have gone to the market by tomorrow.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "Tom will have gone home by then.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "John will have planned the vacation by next month.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "By next week, john will have met my friend.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The manager will have designed the car by then.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "The company will have watched tennis by this weekend.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "You will have completed the application by next month.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "By next month, you will have given the phone.",
+      "verb": "given"
+    },
+    {
+      "sentence": "By next month, the dog will have arrived to the gym.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "By this weekend, the dog will have read for the exam.",
+      "verb": "read"
+    },
+    {
+      "sentence": "Tom will have gotten a book by then.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "By soon, my parents will have reviewed mathematics.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "The children will have met my family by next month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "By tomorrow, the company will have thought about the event.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "By soon, my parents will have designed the car.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "By this weekend, the dog will have remembered the options.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "By tonight, our neighbors will have enjoyed a sandwich.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The children will have watched football by tonight.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "By in two days, the manager will have gotten a gift.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "Emma will have received the proposal by tonight.",
+      "verb": "received"
+    },
+    {
+      "sentence": "Emma will have taught science by next month.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "By this evening, tom will have studied history.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "I will have studied French by this weekend.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "By soon, my brother will have listened to music.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "By next month, the children will have played a song.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By next week, you will have eaten lunch.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "They will have gone home by then.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "Emma will have cooked pizza by then.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He will have driven to the beach by this evening.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "By soon, emma will have submitted the document.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "The teacher will have reviewed Spanish by then.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "My friend will have prepared juice by next week.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "The dog will have sent the task by soon.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "By soon, he will have called my parents.",
+      "verb": "called"
+    },
+    {
+      "sentence": "She will have contacted the team by later.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "Our neighbors will have prepared soup by in two days.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "My parents will have designed the computer by then.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "Emma will have drawn the bathroom by then.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "By tomorrow, my brother will have played a movie.",
+      "verb": "played"
+    },
+    {
+      "sentence": "You will have written the email by then.",
+      "verb": "written"
+    },
+    {
+      "sentence": "He will have ordered tea by then.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "John will have taught for the exam by then.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "The children will have gone to the store by then.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "You will have repaired the kitchen by tonight.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "He will have forgotten the situation by then.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "By in two days, my brother will have gotten groceries.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "By next month, the manager will have left to school.",
+      "verb": "left"
+    },
+    {
+      "sentence": "By tomorrow, you will have played TV.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By next week, we will have considered the event.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "By tonight, the cat will have taught the chapter.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "They will have talked the doctor by next month.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The company will have learned French by this evening.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "The team will have considered the event by tonight.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "We will have enjoyed soup by then.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By this evening, the teacher will have enjoyed a podcast.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Our neighbors will have repaired the kitchen by tomorrow.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "We will have thought about the situation by then.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "They will have left to the airport by in two days.",
+      "verb": "left"
+    },
+    {
+      "sentence": "I will have enjoyed coffee by then.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By next year, he will have sent the letter.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "The students will have practiced French by this weekend.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "The children will have repaired the car by next week.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "By next month, john will have gone to the store.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "The manager will have written the document by tomorrow.",
+      "verb": "written"
+    },
+    {
+      "sentence": "The cat will have run to the airport by then.",
+      "verb": "run"
+    },
+    {
+      "sentence": "Emma will have cooked dinner by next week.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "By later, her sister will have understood the lesson.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "By in two days, they will have arrived home.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "I will have understood Spanish by soon.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "The bird will have completed the application by then.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "The company will have eaten juice by in two days.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "The bird will have submitted the contract by tonight.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "She will have practiced science by then.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "By tomorrow, he will have returned to the beach.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "The students will have planned the decision by this weekend.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "My friend will have finished the task by later.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "My parents will have practiced mathematics by then.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "She will have driven to the store by next year.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "The dog will have played a podcast by in two days.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Sarah will have drunk soup by then.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "He will have understood grammar by tomorrow.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "Sarah will have bought the keys by then.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "By soon, you will have fixed the bathroom.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "The team will have walked to the library by then.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "My friend will have painted the house by later.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "By next week, the teacher will have remembered the decision.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "By tonight, john will have considered the birthday.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "The teacher will have thought about the birthday by then.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "By later, my friend will have designed the computer.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "The children will have finished the task by then.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "The cat will have found a present by then.",
+      "verb": "found"
+    },
+    {
+      "sentence": "You will have painted the car by then.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "They will have prepared pizza by then.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "Her sister will have talked the boss by in two days.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "By this evening, the company will have remembered the birthday.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The teacher will have gotten a gift by then.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "He will have walked to school by then.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "The teacher will have returned to work by then.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "Her sister will have drawn a website by then.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "The company will have arrived to the airport by then.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "Emma will have completed the email by next year.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Her sister will have cleaned the car by in two days.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "I will have enjoyed tea by then.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The teacher will have bought a gift by later.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "She will have listened to music by then.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "Emma will have left to the store by later.",
+      "verb": "left"
+    },
+    {
+      "sentence": "By tonight, the students will have listened to the game.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The students will have cooked pasta by later.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "By tomorrow, we will have prepared tea.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "My friend will have read for the exam by tonight.",
+      "verb": "read"
+    },
+    {
+      "sentence": "Tom will have walked to the airport by then.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "The students will have reviewed for the exam by later.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "She will have run to the office by then.",
+      "verb": "run"
+    },
+    {
+      "sentence": "Emma will have listened to music by next year.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "By next week, her sister will have spoken the manager.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "By tomorrow, our neighbors will have completed the document.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Our neighbors will have cleaned a picture by later.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "My brother will have contacted the doctor by later.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "John will have watched TV by tonight.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The cat will have forgotten the situation by next year.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "By next year, john will have considered the problem.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "By next month, our neighbors will have talked the boss.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The company will have gone to the library by then.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "The children will have thought about the situation by then.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "I will have chosen a present by then.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "The cat will have finished the email by then.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "The children will have driven to work by then.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "He will have sold flowers by later.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "The students will have thought about the decision by tomorrow.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "Her sister will have walked to the beach by next year.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "Our neighbors will have reviewed grammar by then.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "We will have painted a picture by then.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "We will have contacted the manager by in two days.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "John will have left to the office by tonight.",
+      "verb": "left"
+    },
+    {
+      "sentence": "The manager will have taught history by in two days.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "By tomorrow, the students will have prepared dinner.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "John will have enjoyed breakfast by then.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The bird will have watched a movie by then.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "John will have spoken the doctor by then.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "The students will have visited the boss by then.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "The students will have bought clothes by this weekend.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "The team will have taught vocabulary by in two days.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "By in two days, we will have come to the office.",
+      "verb": "come"
+    },
+    {
+      "sentence": "The children will have walked to the office by then.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "Tom will have practiced English by then.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "By next week, john will have contacted the neighbors.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "The manager will have read English by then.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The children will have drawn the bathroom by then.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "The team will have enjoyed dinner by next week.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By in two days, the bird will have cleaned a website.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "By tonight, tom will have planned the vacation.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "By next week, the cat will have drawn the computer.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "The company will have bought the phone by soon.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "By tonight, you will have ordered breakfast.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "By in two days, the cat will have made a salad.",
+      "verb": "made"
+    },
+    {
+      "sentence": "Tom will have reviewed the textbook by then.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "The manager will have cooked coffee by then.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "By next week, the students will have enjoyed a movie.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By tonight, the company will have finished the task.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "They will have understood mathematics by then.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "By this weekend, sarah will have repaired the garden.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "He will have thought about the future by next month.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "The students will have practiced the textbook by later.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "Her sister will have planned the meeting by next week.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The dog will have flown downtown by this weekend.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "Sarah will have walked to school by then.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "The bird will have enjoyed music by then.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "You will have visited the client by soon.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "Emma will have fixed the kitchen by then.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "Her sister will have enjoyed a podcast by next year.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "John will have cooked lunch by then.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "The children will have drawn a picture by this evening.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "By this weekend, my brother will have completed the task.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "By next year, she will have drunk coffee.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "The company will have returned to school by then.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "The bird will have left to the office by then.",
+      "verb": "left"
+    },
+    {
+      "sentence": "By later, we will have met the manager.",
+      "verb": "met"
+    },
+    {
+      "sentence": "By this evening, he will have built the house.",
+      "verb": "built"
+    },
+    {
+      "sentence": "By tonight, her sister will have bought a laptop.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "By tomorrow, my friend will have finished the application.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "The manager will have drawn a picture by this weekend.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "By next month, our neighbors will have cooked juice.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "By next year, i will have made lunch.",
+      "verb": "made"
+    },
+    {
+      "sentence": "The cat will have prepared pizza by in two days.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "By next week, our neighbors will have read French.",
+      "verb": "read"
+    },
+    {
+      "sentence": "By this evening, our neighbors will have repaired the car.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "By this weekend, you will have found a laptop.",
+      "verb": "found"
+    },
+    {
+      "sentence": "By soon, i will have made soup.",
+      "verb": "made"
+    },
+    {
+      "sentence": "The team will have gone to the office by tonight.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "The manager will have ordered a snack by in two days.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "By in two days, the manager will have enjoyed music.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The team will have talked the boss by then.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "By next month, my parents will have planned the decision.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "By tomorrow, he will have repaired the house.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "By next year, the children will have remembered the problem.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The children will have learned Spanish by this evening.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "By next year, john will have watched a podcast.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The manager will have driven to the library by next year.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "By tonight, the bird will have found flowers.",
+      "verb": "found"
+    },
+    {
+      "sentence": "My parents will have left to the beach by then.",
+      "verb": "left"
+    },
+    {
+      "sentence": "Her sister will have chosen the phone by in two days.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "Emma will have chosen a new car by this evening.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "The children will have given a gift by next week.",
+      "verb": "given"
+    },
+    {
+      "sentence": "The bird will have left home by next month.",
+      "verb": "left"
+    },
+    {
+      "sentence": "The dog will have flown to the library by tomorrow.",
+      "verb": "flown"
+    },
+    {
+      "sentence": "By in two days, i will have learned the chapter.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "By in two days, he will have sold the ticket.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "The dog will have driven to the market by tonight.",
+      "verb": "driven"
+    },
+    {
+      "sentence": "John will have remembered the problem by then.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "They will have prepared pasta by in two days.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "The dog will have enjoyed the game by then.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The dog will have enjoyed the news by then.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By next year, our neighbors will have enjoyed a video.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "I will have watched music by then.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The company will have played a documentary by this weekend.",
+      "verb": "played"
+    },
+    {
+      "sentence": "The bird will have drawn the furniture by in two days.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "By soon, my parents will have cooked tea.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "By in two days, i will have played a song.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Emma will have considered the meeting by next week.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "Tom will have enjoyed pizza by then.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "By in two days, the cat will have sent the task.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "By in two days, sarah will have ordered pasta.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "Sarah will have drawn the car by then.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "She will have reviewed the lesson by then.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "My parents will have gotten a new car by next year.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "They will have watched a documentary by then.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "My parents will have spoken the neighbors by then.",
+      "verb": "spoken"
+    },
+    {
+      "sentence": "John will have practiced French by then.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "The team will have read English by then.",
+      "verb": "read"
+    },
+    {
+      "sentence": "We will have drunk pizza by then.",
+      "verb": "drunk"
+    },
+    {
+      "sentence": "The manager will have reviewed mathematics by then.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "He will have built the bathroom by soon.",
+      "verb": "built"
+    },
+    {
+      "sentence": "The students will have understood the chapter by then.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "The children will have submitted the letter by this evening.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "By next year, her sister will have forgotten the future.",
+      "verb": "forgotten"
+    },
+    {
+      "sentence": "John will have played TV by later.",
+      "verb": "played"
+    },
+    {
+      "sentence": "By later, the teacher will have gone to the store.",
+      "verb": "gone"
+    },
+    {
+      "sentence": "By next month, she will have remembered the situation.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "Emma will have gotten a present by then.",
+      "verb": "gotten"
+    },
+    {
+      "sentence": "He will have cooked coffee by tonight.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "They will have considered the options by then.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "My friend will have remembered the event by later.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "By later, we will have learned for the exam.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "Sarah will have contacted the teacher by then.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "By this evening, you will have drawn the house.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "Sarah will have fixed the room by this weekend.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "By next week, her sister will have contacted the team.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "By tomorrow, her sister will have planned the future.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "We will have completed the email by this weekend.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "By in two days, my friend will have drawn the kitchen.",
+      "verb": "drawn"
+    },
+    {
+      "sentence": "The bird will have designed the furniture by in two days.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "The children will have started the proposal by later.",
+      "verb": "started"
+    },
+    {
+      "sentence": "The cat will have fixed a website by next week.",
+      "verb": "fixed"
+    }
+  ]
+}

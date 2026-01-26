@@ -1,0 +1,2006 @@
+{
+  "tense": "Past Continuous",
+  "description": "Used for actions that were in progress at a specific time in the past",
+  "examples": [
+    {
+      "sentence": "Last night, he was finding clothes.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Two days ago, we were considering the birthday.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "The team was buying a laptop in 2020.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "On Monday, emma was drinking pasta.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Her sister was making lunch last year.",
+      "verb": "making"
+    },
+    {
+      "sentence": "This morning, tom was fixing the car.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The students were drinking tea last year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Earlier today, he was speaking my friend.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "Last year, the dog was walking to the airport.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "Emma was playing music when the phone rang.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The team was arriving to the airport on Monday.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "We were cleaning the kitchen when the phone rang.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "The team was arriving to work when the phone rang.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "On Monday, my friend was eating breakfast.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "In 2020, we were choosing the phone.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "On Monday, the students were flying to work.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "We were walking home on Monday.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "My friend was calling my parents when the phone rang.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "Sarah was sending the contract two days ago.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "Sarah was completing the task last night.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "The company was running to the store when the phone rang.",
+      "verb": "running"
+    },
+    {
+      "sentence": "The dog was contacting my family when the phone rang.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "John was running to the office on Monday.",
+      "verb": "running"
+    },
+    {
+      "sentence": "Tom was considering the birthday when the phone rang.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "The teacher was meeting the neighbors when the phone rang.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "The students were eating juice when the phone rang.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Last month, my friend was running to the park.",
+      "verb": "running"
+    },
+    {
+      "sentence": "The teacher was drinking tea in 2020.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah was getting a new car when the phone rang.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "Our neighbors were giving a gift in 2020.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "This morning, tom was giving flowers.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "She was enjoying juice when the phone rang.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The manager was listening to tennis when the phone rang.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "On Monday, i was enjoying music.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Our neighbors were finishing the project when the phone rang.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "Sarah was practicing science when the phone rang.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "This morning, my brother was going to the store.",
+      "verb": "going"
+    },
+    {
+      "sentence": "You were listening to a podcast when the phone rang.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Our neighbors were ordering a snack on Monday.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "The students were giving a new car last month.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The teacher was cooking dinner two days ago.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "My parents were writing the application last night.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Earlier today, you were speaking the neighbors.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "Last week, emma was building a website.",
+      "verb": "building"
+    },
+    {
+      "sentence": "You were selling a laptop yesterday.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "Emma was sending the letter last night.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "Yesterday, the teacher was starting the task.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "Last month, the company was leaving to the airport.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "The manager was thinking about the meeting when the phone rang.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Tom was learning Spanish two days ago.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "Two days ago, the teacher was watching the news.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "On Monday, the teacher was starting the proposal.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "My parents were writing the email when the phone rang.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "They were thinking about the options in 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Last week, i was playing a podcast.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "On Monday, you were running home.",
+      "verb": "running"
+    },
+    {
+      "sentence": "My parents were listening to the news earlier today.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "He was finding a present when the phone rang.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "The cat was cooking a salad in 2020.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "The company was buying the ticket when the phone rang.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "Earlier today, the team was walking to the market.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "Earlier today, i was walking to the airport.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "Earlier today, the manager was coming to the beach.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "Last night, he was returning to the airport.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "In 2020, the team was meeting the manager.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "She was completing the report when the phone rang.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "The manager was calling the manager in 2020.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "The bird was drinking a salad last week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Last month, our neighbors were calling the team.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "I was visiting the neighbors this morning.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "Her sister was contacting the client yesterday.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "My brother was choosing a laptop last week.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "Last night, my parents were enjoying a video.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Last month, tom was selling groceries.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "Last year, the team was contacting my friend.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "The teacher was fixing the kitchen when the phone rang.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "Two days ago, the manager was receiving the project.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "They were listening to a video last month.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The company was buying a new car last year.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "My friend was drawing the car when the phone rang.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "We were speaking the client last week.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "You were calling my parents when the phone rang.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "The students were fixing a picture when the phone rang.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "I was flying to the gym last month.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "The company was completing the application when the phone rang.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "Her sister was considering the decision when the phone rang.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "The bird was selling a new car when the phone rang.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "Yesterday, my parents were listening to the game.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Last night, you were completing the report.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "The team was learning for the exam when the phone rang.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "He was forgetting the situation when the phone rang.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "My parents were understanding the lesson when the phone rang.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "Our neighbors were practicing Spanish when the phone rang.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "Last month, tom was eating soup.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "They were forgetting the event earlier today.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "Last week, she was planning the future.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Our neighbors were giving the ticket when the phone rang.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "On Monday, the company was receiving the assignment.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "She was enjoying a documentary when the phone rang.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Last night, the manager was painting the room.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The team was preparing a snack last night.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "In 2020, emma was cleaning the kitchen.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "This morning, the manager was practicing history.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "Her sister was talking my parents when the phone rang.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "The dog was making breakfast when the phone rang.",
+      "verb": "making"
+    },
+    {
+      "sentence": "Last night, i was flying to work.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "The cat was understanding Spanish two days ago.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "The cat was planning the event last year.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "He was making coffee this morning.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The dog was remembering the birthday last month.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "The bird was enjoying tea last month.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "They were choosing the keys when the phone rang.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "On Monday, sarah was driving to the airport.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "She was meeting the neighbors last month.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "The company was playing the game when the phone rang.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "He was finishing the assignment when the phone rang.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "My friend was playing a documentary when the phone rang.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "Tom was painting the computer when the phone rang.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "You were painting the furniture when the phone rang.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "My brother was forgetting the future when the phone rang.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "The company was receiving the project earlier today.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "Her sister was driving to school last week.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "Two days ago, i was reviewing for the exam.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The cat was thinking about the vacation when the phone rang.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Emma was writing the contract when the phone rang.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "You were making coffee when the phone rang.",
+      "verb": "making"
+    },
+    {
+      "sentence": "She was talking the team in 2020.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "Yesterday, he was watching the game.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "The cat was speaking the doctor last night.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "The bird was planning the event when the phone rang.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "She was practicing grammar when the phone rang.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "My parents were considering the decision when the phone rang.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "John was ordering a sandwich when the phone rang.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "The bird was buying the phone yesterday.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "The dog was eating tea when the phone rang.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The company was choosing the keys two days ago.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "The children were choosing a present last night.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "The teacher was writing the task earlier today.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Two days ago, i was designing a picture.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "They were selling a present when the phone rang.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "This morning, the cat was watching basketball.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "Last month, emma was teaching for the exam.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "I was calling the client when the phone rang.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "My friend was repairing the bathroom when the phone rang.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "My brother was understanding the chapter when the phone rang.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "You were contacting the team last month.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "Last week, my friend was painting the bathroom.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "He was enjoying lunch when the phone rang.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Yesterday, the team was learning mathematics.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "Earlier today, my parents were talking the neighbors.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "My parents were thinking about the options last month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "The team was selling flowers when the phone rang.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "Tom was calling the manager when the phone rang.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "Last month, they were enjoying the news.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Earlier today, the bird was cleaning the bathroom.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "My brother was meeting the doctor on Monday.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "Emma was studying the textbook last year.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "Yesterday, the students were eating a snack.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Last year, my parents were returning to the park.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "Last week, he was driving to the office.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "On Monday, sarah was teaching science.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "My parents were running to the park in 2020.",
+      "verb": "running"
+    },
+    {
+      "sentence": "Last month, we were meeting the doctor.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "Emma was designing the room when the phone rang.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "The teacher was forgetting the meeting when the phone rang.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "Our neighbors were enjoying a video last night.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "I was building a website last year.",
+      "verb": "building"
+    },
+    {
+      "sentence": "In 2020, she was writing the application.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Her sister was reviewing English when the phone rang.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "I was eating coffee when the phone rang.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The team was making tea when the phone rang.",
+      "verb": "making"
+    },
+    {
+      "sentence": "Two days ago, john was drawing the computer.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "They were practicing English when the phone rang.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "Our neighbors were repairing the computer when the phone rang.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "The dog was studying the lesson last year.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "Two days ago, the bird was starting the contract.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "The dog was fixing the car when the phone rang.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "Two days ago, the dog was watching football.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "You were reviewing history last month.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The children were enjoying soup when the phone rang.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "He was planning the birthday two days ago.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Tom was contacting the boss last week.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "The cat was thinking about the future when the phone rang.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Two days ago, tom was planning the situation.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Emma was sending the document in 2020.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "We were learning mathematics when the phone rang.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "Her sister was repairing a website when the phone rang.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "They were teaching the textbook when the phone rang.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "The dog was arriving to the store earlier today.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "The children were thinking about the trip on Monday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Our neighbors were contacting the client last year.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "John was starting the letter when the phone rang.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "We were giving the ticket earlier today.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "Tom was giving the ticket when the phone rang.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "Earlier today, sarah was enjoying football.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Our neighbors were fixing the furniture on Monday.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "Yesterday, her sister was contacting the doctor.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "The cat was fixing the bathroom when the phone rang.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The company was teaching the textbook last year.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "Emma was giving the phone when the phone rang.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "Last week, tom was enjoying TV.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "She was listening to the game in 2020.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Last year, emma was designing the furniture.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "The students were writing the letter on Monday.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "This morning, the children were enjoying the game.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Two days ago, he was coming to work.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "The bird was considering the vacation last week.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "My parents were understanding vocabulary when the phone rang.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "The company was reading the textbook when the phone rang.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "We were listening to a song when the phone rang.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "She was repairing the house when the phone rang.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "They were giving the keys earlier today.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "We were repairing the room last night.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "Earlier today, the bird was thinking about the situation.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Our neighbors were starting the assignment yesterday.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "The team was reading Spanish when the phone rang.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "We were drinking pasta on Monday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The team was finding clothes when the phone rang.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Our neighbors were meeting the teacher when the phone rang.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "Last month, they were reviewing for the exam.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "I was repairing the kitchen yesterday.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "Tom was sending the project when the phone rang.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "Last week, the cat was understanding French.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "The students were planning the vacation when the phone rang.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The teacher was fixing the car on Monday.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "Our neighbors were starting the letter in 2020.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "The students were contacting the teacher when the phone rang.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "Sarah was preparing a sandwich last week.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "The manager was writing the application last month.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Earlier today, he was studying the lesson.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "Last year, emma was reviewing history.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The children were buying a book earlier today.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "The teacher was reading the lesson when the phone rang.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "The company was listening to basketball earlier today.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "My friend was calling the boss when the phone rang.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "The dog was considering the birthday this morning.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "Earlier today, you were giving flowers.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The company was building a picture when the phone rang.",
+      "verb": "building"
+    },
+    {
+      "sentence": "The team was planning the future earlier today.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "My brother was enjoying music yesterday.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Emma was selling a present last night.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "The bird was remembering the birthday when the phone rang.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "The dog was returning home last night.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "Last night, emma was drinking pizza.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The bird was giving a book in 2020.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "Her sister was walking to the beach when the phone rang.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "The children were getting a present when the phone rang.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "Last month, she was studying Spanish.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "They were drawing the bathroom when the phone rang.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "Last night, tom was forgetting the vacation.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "Sarah was repairing the room when the phone rang.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "The teacher was studying the textbook when the phone rang.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "Last week, the bird was thinking about the future.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "My parents were cooking coffee two days ago.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "The manager was drawing the room when the phone rang.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "On Monday, the manager was drawing a website.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "I was studying French last night.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "Last month, she was playing a song.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The cat was considering the decision when the phone rang.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "Tom was giving the keys this morning.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "She was reading vocabulary when the phone rang.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "Last night, the dog was buying the phone.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "Yesterday, john was enjoying a snack.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "John was giving the phone when the phone rang.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The children were running to the park when the phone rang.",
+      "verb": "running"
+    },
+    {
+      "sentence": "She was flying to the store when the phone rang.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "The students were reading history when the phone rang.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "Earlier today, my parents were enjoying tea.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "This morning, the teacher was building the kitchen.",
+      "verb": "building"
+    },
+    {
+      "sentence": "The manager was ordering tea when the phone rang.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "John was giving flowers on Monday.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "We were writing the document when the phone rang.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Last year, my brother was arriving to work.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "My friend was playing tennis when the phone rang.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "John was remembering the future when the phone rang.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "Emma was ordering lunch when the phone rang.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "The teacher was reviewing the lesson when the phone rang.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "In 2020, the students were enjoying the game.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Sarah was enjoying tea on Monday.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Two days ago, the students were walking to work.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "She was sending the document when the phone rang.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "My parents were planning the situation earlier today.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "She was fixing the computer when the phone rang.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The students were planning the options when the phone rang.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The dog was speaking the teacher in 2020.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "Yesterday, we were walking to the park.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "Last year, tom was coming to the airport.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "My brother was writing the assignment when the phone rang.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "The teacher was sending the project yesterday.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "We were eating juice last month.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Yesterday, the bird was thinking about the birthday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Her sister was playing a documentary when the phone rang.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "She was planning the situation when the phone rang.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The company was driving to the gym last month.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "The manager was meeting my family last night.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "Her sister was talking the team when the phone rang.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "In 2020, emma was considering the trip.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "Last year, my parents were watching football.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "On Monday, the dog was considering the trip.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "The dog was cleaning the computer last month.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "Last year, my brother was visiting the neighbors.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "On Monday, the children were finishing the project.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "My brother was playing football last month.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "My friend was painting the house last night.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The students were getting a new car earlier today.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "On Monday, my parents were listening to a movie.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Last month, our neighbors were writing the report.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "My brother was finding the keys last year.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "My parents were visiting my friend last month.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "The bird was learning history when the phone rang.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "The children were planning the decision when the phone rang.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "I was enjoying coffee two days ago.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "My brother was getting a gift in 2020.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "Tom was talking the neighbors when the phone rang.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "My parents were forgetting the trip when the phone rang.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "In 2020, our neighbors were calling the team.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "You were considering the vacation when the phone rang.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "I was eating a snack earlier today.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "We were eating lunch when the phone rang.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "You were fixing the kitchen when the phone rang.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "Tom was drawing the kitchen yesterday.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "Last week, john was enjoying tennis.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Sarah was thinking about the situation two days ago.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "On Monday, she was drawing the bathroom.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "John was speaking the teacher on Monday.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "Yesterday, her sister was preparing breakfast.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "Sarah was building the room last year.",
+      "verb": "building"
+    },
+    {
+      "sentence": "My friend was cooking lunch when the phone rang.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "Emma was driving to the airport last night.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "You were painting the car when the phone rang.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The students were finding flowers when the phone rang.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Emma was driving to school when the phone rang.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "The children were fixing the garden last week.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "This morning, the children were drawing the bathroom.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "The team was arriving home when the phone rang.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "The bird was studying the chapter earlier today.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "Earlier today, our neighbors were painting a picture.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "My parents were forgetting the situation last night.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "Last month, the dog was choosing a gift.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "Tom was finding a gift when the phone rang.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Our neighbors were preparing soup last year.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "Yesterday, the dog was talking the client.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "This morning, emma was learning mathematics.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "The cat was calling my friend when the phone rang.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "My friend was listening to a podcast when the phone rang.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The company was completing the application this morning.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "On Monday, john was coming to school.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "John was enjoying basketball last month.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "We were starting the proposal when the phone rang.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "Yesterday, john was designing the car.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "The cat was starting the application earlier today.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "You were visiting my friend earlier today.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "My parents were talking my parents when the phone rang.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "The children were drawing the bathroom yesterday.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "The team was planning the meeting on Monday.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The company was finishing the task last month.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "He was choosing the ticket two days ago.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "In 2020, emma was talking the manager.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "The teacher was drinking soup on Monday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The team was reviewing for the exam in 2020.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "Yesterday, she was receiving the assignment.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "Yesterday, the team was getting the phone.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "My parents were speaking my family last night.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "The students were playing TV this morning.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "They were enjoying lunch earlier today.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "In 2020, you were listening to football.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "In 2020, the team was ordering dinner.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "Last week, my friend was enjoying dinner.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "In 2020, the manager was understanding for the exam.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "Last year, my parents were thinking about the birthday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Our neighbors were receiving the task last night.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "The cat was enjoying basketball when the phone rang.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Tom was considering the trip when the phone rang.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "Her sister was completing the letter when the phone rang.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "The company was cooking tea this morning.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "Her sister was contacting the teacher on Monday.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "In 2020, my parents were going to the market.",
+      "verb": "going"
+    },
+    {
+      "sentence": "Earlier today, my brother was calling my friend.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "They were starting the task when the phone rang.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "We were learning the lesson last month.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "The company was receiving the contract when the phone rang.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "Earlier today, my brother was reviewing science.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The teacher was writing the application in 2020.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Earlier today, john was considering the event.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "Two days ago, i was preparing lunch.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "Two days ago, he was preparing pizza.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "The cat was practicing Spanish when the phone rang.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "The students were finishing the task last year.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "The children were sending the proposal this morning.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "Last year, my friend was arriving to the park.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "Tom was planning the future when the phone rang.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "He was talking the manager when the phone rang.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "Sarah was visiting the boss when the phone rang.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "Her sister was eating soup when the phone rang.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "My brother was choosing a laptop earlier today.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "Tom was talking the doctor last month.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "In 2020, the students were getting flowers.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "The students were coming to work when the phone rang.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "In 2020, the children were leaving to the airport.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "The teacher was studying mathematics when the phone rang.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "Last night, emma was walking to the office.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "The bird was talking my parents on Monday.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "Earlier today, my parents were coming to school.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "John was finishing the letter last year.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "My friend was remembering the trip when the phone rang.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "The team was finding the ticket when the phone rang.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "I was painting the room when the phone rang.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "Emma was coming to the beach on Monday.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "Last month, the teacher was reviewing the textbook.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The teacher was submitting the application when the phone rang.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "The cat was visiting the client when the phone rang.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "Last night, the bird was eating a snack.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Last month, her sister was eating lunch.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Her sister was preparing soup when the phone rang.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "This morning, the cat was running downtown.",
+      "verb": "running"
+    },
+    {
+      "sentence": "You were contacting the team when the phone rang.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "We were drinking pasta last month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The cat was starting the contract last year.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "On Monday, we were choosing a book.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "Last year, emma was enjoying breakfast.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Earlier today, you were enjoying a video.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The dog was flying to the airport when the phone rang.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "We were enjoying tennis last year.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The manager was thinking about the decision yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "The bird was listening to a video when the phone rang.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The bird was finishing the letter last month.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "They were watching basketball when the phone rang.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "My brother was enjoying music two days ago.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "John was reviewing mathematics when the phone rang.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "My parents were making breakfast when the phone rang.",
+      "verb": "making"
+    },
+    {
+      "sentence": "In 2020, the students were drinking a sandwich.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "He was reading the lesson yesterday.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "Two days ago, the teacher was listening to a video.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "On Monday, john was choosing clothes.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "I was teaching French two days ago.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "My friend was considering the situation last month.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "Last month, the manager was arriving to the beach.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "Last year, she was thinking about the decision.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "You were playing a podcast when the phone rang.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The students were buying the keys when the phone rang.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "They were repairing the bathroom on Monday.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "On Monday, he was understanding vocabulary.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "I was writing the proposal this morning.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Two days ago, the company was starting the proposal.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "On Monday, we were considering the event.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "My friend was painting the furniture when the phone rang.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The students were buying the phone last month.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "This morning, she was preparing a snack.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "My brother was submitting the report last year.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "On Monday, the manager was starting the application.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "The company was completing the contract yesterday.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "They were reviewing for the exam when the phone rang.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "He was giving the ticket when the phone rang.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "My parents were sending the assignment in 2020.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "This morning, the bird was practicing English.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "The cat was drawing the garden two days ago.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "Last night, john was leaving to work.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "Last night, the manager was finishing the email.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "I was leaving to work in 2020.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "John was starting the assignment when the phone rang.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "She was preparing juice when the phone rang.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "Her sister was thinking about the birthday last month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Two days ago, they were returning to work.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "Two days ago, my brother was studying mathematics.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "Last year, the manager was remembering the problem.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "Last month, the children were arriving downtown.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "I was finding the ticket when the phone rang.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Her sister was building a picture when the phone rang.",
+      "verb": "building"
+    },
+    {
+      "sentence": "The manager was calling my parents when the phone rang.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "Yesterday, sarah was planning the future.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "We were teaching science in 2020.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "The cat was sending the letter when the phone rang.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "The company was listening to tennis when the phone rang.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The dog was listening to the game when the phone rang.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "This morning, they were painting the bathroom.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "Sarah was speaking the team last month.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "This morning, my parents were listening to the game.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "I was giving flowers when the phone rang.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The dog was choosing a new car last month.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "On Monday, the dog was talking the client.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "I was playing a video this morning.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "They were calling my parents this morning.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "The cat was enjoying football when the phone rang.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The manager was speaking my family last year.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "The manager was giving a gift last week.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The cat was buying clothes this morning.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "The teacher was coming to work earlier today.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "Earlier today, sarah was teaching for the exam.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "She was getting the phone when the phone rang.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "On Monday, they were cooking soup.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "This morning, my parents were enjoying a salad.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The team was speaking the boss when the phone rang.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "We were remembering the birthday on Monday.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "The dog was flying to the store when the phone rang.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "Last night, i was practicing the lesson.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "The children were writing the application when the phone rang.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "The company was painting a website two days ago.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "Sarah was writing the application last night.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "This morning, john was submitting the project.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "Earlier today, sarah was preparing coffee.",
+      "verb": "preparing"
+    }
+  ]
+}

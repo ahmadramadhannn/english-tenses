@@ -1,0 +1,2006 @@
+{
+  "tense": "Past Perfect Continuous",
+  "description": "Used for actions that were ongoing before another past action",
+  "examples": [
+    {
+      "sentence": "My brother had been practicing for the exam before the meeting.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "My parents had been receiving the email before the meeting.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "My brother had been contacting the manager for a month.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "By noon, i had been considering the event for years.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "By noon, my brother had been buying the keys for years.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "The team had been going to the library for years.",
+      "verb": "going"
+    },
+    {
+      "sentence": "We had been forgetting the situation before the meeting.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "By noon, the manager had been returning to the gym for two hours.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "By noon, you had been speaking the doctor for three days.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "Emma had been reading history all day.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "Emma had been watching tennis all day.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "The children had been getting the phone before the meeting.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "The cat had been visiting the doctor since yesterday.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "Sarah had been cleaning the car before the meeting.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "By noon, john had been enjoying soup since Monday.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "By noon, the team had been repairing the bathroom for years.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "By noon, he had been choosing the keys all week.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "The bird had been drawing the computer before the meeting.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "By noon, the teacher had been writing the project all day.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "She had been buying clothes since Monday.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "The teacher had been speaking the client for years.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "John had been remembering the situation since Monday.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "By noon, our neighbors had been flying to work since yesterday.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "By noon, they had been drawing the garden for a month.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "The manager had been reviewing for the exam for a month.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "My parents had been playing a song for a week.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "We had been designing the house before the meeting.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "By noon, her sister had been cooking juice since Monday.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "By noon, i had been painting the house all day.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "By noon, her sister had been writing the assignment since Monday.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Her sister had been repairing a picture before the meeting.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "By noon, i had been enjoying a movie since morning.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The dog had been buying the keys before the meeting.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "The teacher had been drinking tea since Monday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The company had been getting a gift all day.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "I had been watching a movie for a month.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "By noon, john had been selling the ticket for a week.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "They had been ordering dinner before the meeting.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "The bird had been meeting the teacher for a week.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "My brother had been flying to the market before the meeting.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "My brother had been buying a new car before the meeting.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "By noon, you had been submitting the presentation since Monday.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "By noon, the team had been drawing the room all week.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "The manager had been studying the textbook since morning.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "My brother had been fixing a picture for two hours.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "By noon, my friend had been practicing English for two hours.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "The cat had been giving a book for years.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "John had been playing a podcast for a week.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "By noon, the students had been submitting the task since morning.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "By noon, our neighbors had been repairing the computer for a week.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "Her sister had been eating pizza before the meeting.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "By noon, you had been cooking a snack for two hours.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "By noon, he had been teaching mathematics for a week.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "My friend had been painting a picture all week.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "Tom had been selling the keys since morning.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "He had been understanding the textbook for years.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "By noon, her sister had been playing a documentary since Monday.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "My parents had been reviewing mathematics before the meeting.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "By noon, john had been making a snack since yesterday.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The students had been making breakfast for three days.",
+      "verb": "making"
+    },
+    {
+      "sentence": "Our neighbors had been planning the decision before the meeting.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The teacher had been thinking about the vacation before the meeting.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "John had been fixing the computer for three days.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The dog had been giving groceries before the meeting.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The team had been cooking pasta since Monday.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "Our neighbors had been remembering the decision for a month.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "My parents had been finding a gift for a week.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "You had been forgetting the birthday since Monday.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "By noon, i had been forgetting the options for three days.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "By noon, the children had been finding a laptop since morning.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "By noon, the company had been leaving to school since yesterday.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "He had been starting the document since morning.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "You had been flying to the office before the meeting.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "By noon, i had been receiving the task all week.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "My brother had been preparing dinner before the meeting.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "Emma had been choosing flowers before the meeting.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "They had been understanding English before the meeting.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "The teacher had been repairing a picture before the meeting.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "Emma had been visiting the neighbors since Monday.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "By noon, i had been planning the birthday all week.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "My brother had been starting the contract before the meeting.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "By noon, the students had been speaking the boss for two hours.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "The cat had been listening to a documentary before the meeting.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Sarah had been painting the car for a month.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "My parents had been enjoying music for a month.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "You had been selling the phone all day.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "We had been building the furniture before the meeting.",
+      "verb": "building"
+    },
+    {
+      "sentence": "My brother had been sending the contract for a month.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "Sarah had been contacting the team before the meeting.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "Her sister had been driving to the park for years.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "The children had been writing the letter for years.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "We had been buying flowers for two hours.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "By noon, she had been repairing the car all week.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "I had been thinking about the decision for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "By noon, the teacher had been returning to the market for years.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "She had been meeting the boss before the meeting.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "He had been enjoying the game before the meeting.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Tom had been finding clothes since Monday.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "By noon, we had been contacting my friend since morning.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "By noon, our neighbors had been making lunch for years.",
+      "verb": "making"
+    },
+    {
+      "sentence": "Her sister had been designing a picture for a month.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "By noon, the manager had been considering the birthday for two hours.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "The company had been arriving to the store for a month.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "By noon, her sister had been repairing a picture since Monday.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "The company had been remembering the vacation for a month.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "The dog had been forgetting the situation for years.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "Emma had been considering the options for a week.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "John had been driving to the airport before the meeting.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "My parents had been cleaning the computer all week.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "By noon, they had been leaving downtown for three days.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "By noon, emma had been understanding science for three days.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "He had been cleaning the computer for three days.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "I had been selling a present since Monday.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "By noon, i had been going to the beach for two hours.",
+      "verb": "going"
+    },
+    {
+      "sentence": "By noon, they had been visiting the boss since yesterday.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "My brother had been finishing the letter all week.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "The bird had been repairing a website all day.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "The teacher had been watching music before the meeting.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "My parents had been learning for the exam all week.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "The manager had been making juice before the meeting.",
+      "verb": "making"
+    },
+    {
+      "sentence": "By noon, he had been playing a movie for a week.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "By noon, john had been eating breakfast all day.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "By noon, the bird had been forgetting the meeting since morning.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "The company had been playing a video before the meeting.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "You had been learning English for years.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "They had been cooking coffee all day.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "The manager had been arriving to the beach all week.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "They had been talking the teacher before the meeting.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "Sarah had been writing the proposal before the meeting.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "By noon, the children had been reading for the exam all day.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "The company had been studying the lesson since yesterday.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "He had been listening to a movie before the meeting.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "By noon, the students had been designing a website for a month.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "By noon, the cat had been submitting the contract since Monday.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "Sarah had been contacting my friend all week.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "The dog had been arriving to school for a week.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "She had been starting the application for a week.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "The company had been contacting my parents all day.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "Tom had been making tea for a month.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The teacher had been leaving to the market for a month.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "I had been leaving to the gym before the meeting.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "By noon, he had been speaking the doctor for a month.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "By noon, she had been preparing a salad all week.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "By noon, emma had been drinking juice for a month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "We had been eating a snack before the meeting.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Tom had been meeting the manager since yesterday.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "They had been leaving to the office before the meeting.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "They had been thinking about the birthday for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "By noon, sarah had been making tea for years.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The dog had been reviewing grammar before the meeting.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "By noon, emma had been selling the phone for three days.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "By noon, she had been cooking a snack all week.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "By noon, the dog had been learning grammar for years.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "We had been buying a present before the meeting.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "You had been cleaning the computer before the meeting.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "He had been thinking about the vacation since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "He had been giving clothes for a week.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The teacher had been drinking tea before the meeting.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "I had been arriving to the airport since morning.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "The teacher had been teaching the textbook for a week.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "The teacher had been learning grammar for a week.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "By noon, my parents had been arriving to the market since yesterday.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "By noon, sarah had been listening to a movie since Monday.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The children had been enjoying a documentary before the meeting.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "My parents had been considering the decision before the meeting.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "My friend had been listening to a documentary since yesterday.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Her sister had been finding groceries before the meeting.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "By noon, her sister had been running to the office all week.",
+      "verb": "running"
+    },
+    {
+      "sentence": "By noon, we had been fixing the furniture for two hours.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The manager had been writing the document since Monday.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Her sister had been listening to basketball for a month.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The children had been leaving to school all week.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "By noon, my friend had been flying to work all week.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "Emma had been playing a video before the meeting.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "We had been contacting the teacher before the meeting.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "She had been watching basketball for two hours.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "The company had been building a website since Monday.",
+      "verb": "building"
+    },
+    {
+      "sentence": "Sarah had been calling the team for a week.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "By noon, the manager had been enjoying pizza for a month.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "My parents had been driving to the airport before the meeting.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "By noon, my brother had been flying to school for two hours.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "My brother had been walking home before the meeting.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "By noon, you had been playing music for a month.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "By noon, the bird had been planning the options all day.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "By noon, the students had been playing a video all week.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "By noon, she had been selling the keys for a month.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "By noon, the cat had been painting a picture for a week.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "Our neighbors had been coming to work before the meeting.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "The children had been writing the document since yesterday.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "I had been finishing the contract since morning.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "Emma had been studying Spanish before the meeting.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "By noon, my brother had been studying vocabulary since yesterday.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "By noon, her sister had been listening to a movie for a month.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "My friend had been cleaning a picture before the meeting.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "By noon, our neighbors had been repairing the car for two hours.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "By noon, tom had been remembering the situation for three days.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "Tom had been enjoying a song before the meeting.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The students had been meeting the manager before the meeting.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "The students had been talking the teacher since yesterday.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "By noon, the children had been considering the situation for three days.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "Our neighbors had been speaking the boss before the meeting.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "My parents had been enjoying a salad before the meeting.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The bird had been writing the presentation since morning.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "The students had been giving the ticket since Monday.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "John had been designing the car before the meeting.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "By noon, emma had been buying the keys since yesterday.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "The children had been teaching science since Monday.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "By noon, the teacher had been making juice all day.",
+      "verb": "making"
+    },
+    {
+      "sentence": "Our neighbors had been enjoying football before the meeting.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Our neighbors had been driving to work for a month.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "The bird had been walking to the gym before the meeting.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "By noon, our neighbors had been sending the presentation for three days.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "She had been buying a book for two hours.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "By noon, you had been cooking pasta for three days.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "She had been making juice before the meeting.",
+      "verb": "making"
+    },
+    {
+      "sentence": "By noon, sarah had been practicing the chapter all week.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "The company had been enjoying the game before the meeting.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "By noon, tom had been walking home all day.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "By noon, tom had been giving a laptop for a week.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "By noon, my brother had been listening to tennis since Monday.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "By noon, the cat had been playing tennis all week.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "By noon, they had been talking the client all week.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "By noon, tom had been planning the trip for years.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The bird had been visiting my friend before the meeting.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "We had been considering the decision for a month.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "By noon, they had been thinking about the problem for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "The children had been returning to the office for two hours.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "They had been writing the presentation for a month.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "By noon, you had been planning the future all day.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The cat had been building the car before the meeting.",
+      "verb": "building"
+    },
+    {
+      "sentence": "I had been eating breakfast before the meeting.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "My parents had been teaching mathematics since Monday.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "He had been enjoying the news for a week.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "By noon, the cat had been coming to the store since yesterday.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "Tom had been receiving the report since Monday.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "Our neighbors had been reviewing French before the meeting.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "By noon, the team had been driving to the store all day.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "The cat had been eating a salad before the meeting.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The teacher had been planning the decision before the meeting.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "She had been eating coffee since morning.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "We had been starting the contract before the meeting.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "By noon, her sister had been listening to the game for years.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The bird had been meeting the neighbors all week.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "My friend had been cooking a sandwich before the meeting.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "By noon, tom had been contacting my parents for a month.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "By noon, john had been playing a movie for a month.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The children had been studying mathematics since Monday.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "The manager had been teaching vocabulary before the meeting.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "We had been listening to the news since yesterday.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "By noon, the cat had been finishing the presentation for a month.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "John had been leaving to the office all week.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "The dog had been painting a website for three days.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The cat had been giving the phone since Monday.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "Her sister had been designing the garden since morning.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "The manager had been listening to TV before the meeting.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "My brother had been practicing vocabulary since Monday.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "By noon, the bird had been considering the event for two hours.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "The cat had been enjoying basketball before the meeting.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "We had been drawing the garden since yesterday.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "By noon, the team had been making soup for three days.",
+      "verb": "making"
+    },
+    {
+      "sentence": "Emma had been planning the decision all week.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "By noon, the teacher had been running to the library all week.",
+      "verb": "running"
+    },
+    {
+      "sentence": "By noon, they had been choosing a present all week.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "She had been receiving the proposal before the meeting.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "By noon, the cat had been enjoying a podcast all week.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The company had been listening to a song before the meeting.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Emma had been studying English before the meeting.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "He had been receiving the document for two hours.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "The manager had been understanding history before the meeting.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "By noon, he had been sending the application since yesterday.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "By noon, john had been sending the report all day.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "The children had been forgetting the problem before the meeting.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "We had been playing the news before the meeting.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "My friend had been drawing the car for a week.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "The teacher had been enjoying a movie before the meeting.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "By noon, emma had been flying to work for a month.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "By noon, tom had been choosing groceries for a month.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "The company had been finding groceries since Monday.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "By noon, sarah had been talking the neighbors all day.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "My friend had been designing the computer for a week.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "The teacher had been forgetting the meeting before the meeting.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "Emma had been contacting the team for years.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "By noon, the teacher had been finishing the document for a week.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "The teacher had been running to the office before the meeting.",
+      "verb": "running"
+    },
+    {
+      "sentence": "By noon, my friend had been painting a picture since morning.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The teacher had been repairing the car since yesterday.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "Our neighbors had been giving the ticket for three days.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "By noon, the company had been listening to a podcast for two hours.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "By noon, the students had been submitting the assignment for three days.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "By noon, you had been speaking the teacher since yesterday.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "Emma had been watching a movie before the meeting.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "Tom had been studying English since morning.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "By noon, they had been selling clothes for years.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "By noon, the bird had been meeting the boss for a month.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "The bird had been leaving downtown for a week.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "Emma had been playing the game for a month.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The company had been eating coffee since Monday.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "She had been leaving to the gym for a week.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "The team had been preparing a sandwich before the meeting.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "The cat had been cooking lunch before the meeting.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "Our neighbors had been calling the boss for years.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "By noon, they had been painting the car for a month.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "He had been planning the options for a month.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Sarah had been thinking about the problem for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "The cat had been thinking about the situation for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "By noon, tom had been listening to the news since Monday.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Our neighbors had been selling a present all week.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "By noon, emma had been making soup all week.",
+      "verb": "making"
+    },
+    {
+      "sentence": "My parents had been thinking about the meeting before the meeting.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "By noon, our neighbors had been reviewing history for a week.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "My friend had been watching tennis before the meeting.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "By noon, my friend had been building the furniture for three days.",
+      "verb": "building"
+    },
+    {
+      "sentence": "By noon, my friend had been enjoying tennis for years.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The children had been starting the proposal before the meeting.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "Her sister had been contacting my friend before the meeting.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "By noon, john had been eating lunch since morning.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The teacher had been speaking my friend before the meeting.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "By noon, i had been calling the neighbors since yesterday.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "Sarah had been giving a new car for three days.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "By noon, my friend had been playing football since morning.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The dog had been building the furniture for a week.",
+      "verb": "building"
+    },
+    {
+      "sentence": "They had been submitting the assignment since yesterday.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "My friend had been selling the phone before the meeting.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "Emma had been starting the presentation before the meeting.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "The team had been meeting my parents since Monday.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "By noon, our neighbors had been painting a website for years.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "I had been speaking the manager since Monday.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "My parents had been planning the vacation before the meeting.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Emma had been speaking my friend since morning.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "The dog had been submitting the email before the meeting.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "We had been speaking the manager for a month.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "Sarah had been running to the beach before the meeting.",
+      "verb": "running"
+    },
+    {
+      "sentence": "The children had been eating breakfast before the meeting.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The bird had been preparing juice since Monday.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "The cat had been driving to the office for a month.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "My parents had been finishing the task for two hours.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "The manager had been cleaning the furniture since Monday.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "The manager had been flying to the market for a week.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "By noon, my parents had been getting clothes all day.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "By noon, i had been watching a song since morning.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "By noon, sarah had been preparing juice since yesterday.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "The teacher had been practicing science before the meeting.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "Our neighbors had been thinking about the event before the meeting.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "By noon, he had been reading the textbook all week.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "By noon, you had been speaking my friend for three days.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "The manager had been calling the team before the meeting.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "John had been listening to TV for a month.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "By noon, he had been making tea all week.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The students had been studying history before the meeting.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "I had been painting the room before the meeting.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The students had been selling a gift before the meeting.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "By noon, the cat had been teaching for the exam since yesterday.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "You had been playing music before the meeting.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The company had been sending the application before the meeting.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "By noon, the manager had been speaking the neighbors since morning.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "They had been reading for the exam for a week.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "My brother had been building a website before the meeting.",
+      "verb": "building"
+    },
+    {
+      "sentence": "By noon, tom had been visiting my parents since Monday.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "The company had been reviewing for the exam before the meeting.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "By noon, they had been building the furniture all day.",
+      "verb": "building"
+    },
+    {
+      "sentence": "They had been planning the options before the meeting.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "He had been enjoying tennis since Monday.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "By noon, tom had been remembering the situation since morning.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "The children had been learning the textbook before the meeting.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "By noon, our neighbors had been planning the problem since Monday.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "My friend had been understanding for the exam for three days.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "By noon, i had been eating coffee since Monday.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "He had been studying the chapter for a week.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "By noon, her sister had been thinking about the meeting since Monday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "By noon, the teacher had been teaching grammar since yesterday.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "By noon, you had been driving to the library since Monday.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "The team had been buying groceries since Monday.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "John had been playing a podcast for two hours.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "They had been forgetting the event before the meeting.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "The bird had been speaking the doctor all week.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "They had been eating a salad before the meeting.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The students had been coming to the office before the meeting.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "By noon, tom had been contacting the manager for three days.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "The students had been meeting the team before the meeting.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "By noon, they had been enjoying a salad for years.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The children had been teaching history before the meeting.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "By noon, the bird had been repairing the room since Monday.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "By noon, i had been teaching English since morning.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "By noon, john had been eating a snack since morning.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "By noon, the children had been designing the computer all week.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "John had been submitting the proposal all week.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "Emma had been planning the situation for years.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "You had been watching a song before the meeting.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "She had been painting the computer before the meeting.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "Her sister had been building the car before the meeting.",
+      "verb": "building"
+    },
+    {
+      "sentence": "She had been returning to the gym before the meeting.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "She had been enjoying TV for years.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "By noon, she had been considering the situation for three days.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "They had been learning the chapter since yesterday.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "The cat had been meeting my parents before the meeting.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "She had been watching football before the meeting.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "He had been playing a podcast for a month.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "Emma had been understanding French for a month.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "The students had been choosing a new car before the meeting.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "By noon, the dog had been reviewing the lesson all week.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "I had been drawing the garden since morning.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "Tom had been drinking coffee before the meeting.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "By noon, my friend had been contacting the doctor for two hours.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "The manager had been learning Spanish all week.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "Emma had been teaching French for a month.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "The teacher had been enjoying pasta all day.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "John had been designing the kitchen before the meeting.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "You had been building the computer before the meeting.",
+      "verb": "building"
+    },
+    {
+      "sentence": "Tom had been giving the keys before the meeting.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "By noon, tom had been enjoying TV for two hours.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Sarah had been forgetting the trip all week.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "The team had been painting the furniture before the meeting.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The bird had been eating breakfast before the meeting.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The company had been forgetting the decision all week.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "John had been calling my parents before the meeting.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "Our neighbors had been getting flowers since morning.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "By noon, the students had been flying to work for a week.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "By noon, my parents had been choosing a book all week.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "The teacher had been learning history all day.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "He had been finding the ticket before the meeting.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Her sister had been planning the future before the meeting.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Her sister had been watching a video before the meeting.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "The manager had been returning to the park for years.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "By noon, the team had been giving clothes all week.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The company had been finishing the project for two hours.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "By noon, the company had been drawing the room for a week.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "The bird had been completing the presentation before the meeting.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "Sarah had been writing the presentation before the meeting.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "By noon, the students had been giving a new car all week.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "By noon, my parents had been painting a website for three days.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The children had been making a sandwich for two hours.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The teacher had been finishing the letter before the meeting.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "The dog had been arriving to the store before the meeting.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "The team had been planning the vacation for a month.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The children had been fixing the house for a week.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "By noon, we had been giving groceries all day.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "He had been choosing the keys for a month.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "By noon, she had been visiting the neighbors for three days.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "By noon, emma had been repairing the furniture for a month.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "Tom had been talking my family for two hours.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "They had been finding a laptop all day.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "The team had been cooking pasta before the meeting.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "Our neighbors had been building a picture since Monday.",
+      "verb": "building"
+    },
+    {
+      "sentence": "By noon, the team had been understanding history all week.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "We had been learning vocabulary all week.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "The teacher had been forgetting the decision before the meeting.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "John had been enjoying a podcast before the meeting.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "By noon, they had been playing the news all day.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "Sarah had been listening to a video before the meeting.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "He had been choosing a laptop all day.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "The manager had been arriving to the market since yesterday.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "By noon, they had been finding a laptop since yesterday.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "The students had been reviewing for the exam for three days.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "He had been enjoying breakfast before the meeting.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The children had been remembering the future for two hours.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "The children had been forgetting the options before the meeting.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "The team had been fixing the bathroom all day.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The dog had been designing the garden since morning.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "She had been running to school before the meeting.",
+      "verb": "running"
+    },
+    {
+      "sentence": "We had been considering the options before the meeting.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "My parents had been forgetting the birthday all week.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "The teacher had been completing the email since Monday.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "By noon, you had been designing the room since Monday.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "By noon, john had been getting the ticket for three days.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "By noon, she had been finding clothes all week.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "My parents had been preparing coffee for years.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "The cat had been forgetting the decision since morning.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "By noon, the manager had been finding a new car since Monday.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "By noon, the dog had been ordering juice all day.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "By noon, tom had been reading vocabulary for a week.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "The company had been contacting my friend since yesterday.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "By noon, our neighbors had been selling a gift for years.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "Emma had been drinking a salad all week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The bird had been watching tennis since Monday.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "By noon, our neighbors had been finishing the task for a week.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "He had been remembering the future for three days.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "By noon, tom had been playing the game for three days.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The cat had been cooking tea before the meeting.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "The team had been fixing the kitchen before the meeting.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "Tom had been preparing dinner before the meeting.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "Our neighbors had been writing the contract since Monday.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "The dog had been returning to the store since yesterday.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "Tom had been understanding for the exam since Monday.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "By noon, he had been enjoying tennis all week.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "By noon, the team had been starting the report for three days.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "Our neighbors had been leaving to the office since morning.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "The students had been planning the decision before the meeting.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "My parents had been speaking the client before the meeting.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "By noon, tom had been studying the chapter for a month.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "You had been running to the office since morning.",
+      "verb": "running"
+    },
+    {
+      "sentence": "My parents had been flying home before the meeting.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "My parents had been sending the proposal before the meeting.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "Our neighbors had been watching tennis before the meeting.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "By noon, the team had been drinking juice for a month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The children had been giving clothes since morning.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "By noon, emma had been leaving to the library for a month.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "By noon, she had been listening to the game for a week.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Sarah had been planning the meeting all day.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Emma had been getting the phone for a week.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "Tom had been choosing the ticket before the meeting.",
+      "verb": "choosing"
+    }
+  ]
+}

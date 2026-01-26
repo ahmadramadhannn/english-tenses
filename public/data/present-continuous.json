@@ -1,0 +1,2006 @@
+{
+  "tense": "Present Continuous",
+  "description": "Used for actions happening right now or around now",
+  "examples": [
+    {
+      "sentence": "My brother is fixing a picture.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "At the moment, john is drinking lunch.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "My parents are forgetting the vacation.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "Now, the bird is enjoying a song.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Today, the manager is sending the email.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "You are listening to a podcast this week.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The cat is eating pizza currently.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "You are watching a movie.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "The teacher is starting the letter currently.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "Her sister is cooking juice.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "This week, john is sending the task.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "At the moment, the cat is repairing the furniture.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "The cat is drawing a picture at the moment.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "Tom is contacting my friend currently.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "Our neighbors are playing football.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The manager is giving the ticket.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "At the moment, the manager is learning for the exam.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "This week, emma is walking to the park.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "Sarah is considering the birthday right now.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "My brother is ordering a snack.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "My parents are cooking breakfast.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "My friend is cleaning a website.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "You are visiting my parents at the moment.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "Her sister is contacting the boss currently.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "Right now, the manager is contacting the team.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "Now, her sister is meeting my parents.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "He is coming home.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "They are ordering pizza.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "My friend is repairing the kitchen currently.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "He is thinking about the birthday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Right now, the manager is watching music.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "The company is getting a new car this week.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "Now, my parents are enjoying tea.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "I am visiting the neighbors at the moment.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "You are enjoying a snack.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The bird is driving to the store now.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "Our neighbors are listening to the news right now.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Tom is drawing the computer at the moment.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "Sarah is running to the park today.",
+      "verb": "running"
+    },
+    {
+      "sentence": "My brother is cooking tea this week.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "Sarah is eating pizza.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The teacher is drawing a picture.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "Right now, we are cooking breakfast.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "You are reading vocabulary at the moment.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "At the moment, he is going to the store.",
+      "verb": "going"
+    },
+    {
+      "sentence": "I am running to the store currently.",
+      "verb": "running"
+    },
+    {
+      "sentence": "This week, he is getting a book.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "You are forgetting the event.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "The children are calling my friend.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "They are making coffee.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The cat is coming to school right now.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "You are enjoying the game now.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "John is practicing history today.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "Currently, we are considering the event.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "The team is forgetting the options currently.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "Today, emma is enjoying a video.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Her sister is calling the manager right now.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "Now, my brother is sending the assignment.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "The team is speaking the team currently.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "This week, her sister is finding the phone.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Currently, sarah is calling my friend.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "The dog is calling the boss.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "Tom is forgetting the trip.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "We are practicing the lesson right now.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "John is returning to the market at the moment.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "The cat is finding a present.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Tom is starting the document this week.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "The bird is eating soup at the moment.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Sarah is sending the application now.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "We are finding a gift.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Today, the children are listening to basketball.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The bird is getting a book.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "We are repairing the garden.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "The manager is buying a laptop.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "At the moment, my parents are planning the vacation.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Currently, she is drawing the computer.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "Right now, the team is driving to the store.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "My friend is studying the textbook.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "At the moment, the company is buying the phone.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "He is driving to the park currently.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "At the moment, the children are cleaning the kitchen.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "Currently, the team is calling the team.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "Sarah is completing the task now.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "My parents are drinking soup now.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The manager is ordering pasta.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "Currently, the bird is getting the keys.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "My brother is cleaning the furniture.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "Our neighbors are remembering the birthday currently.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "John is reviewing the textbook.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The bird is cooking coffee.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "Now, he is eating tea.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The company is walking home now.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "Today, he is reviewing the lesson.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "They are repairing the furniture.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "The teacher is submitting the email.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "Her sister is designing the furniture.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "The teacher is visiting the boss right now.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "Now, the children are enjoying basketball.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Right now, sarah is planning the event.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The dog is selling a gift currently.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "The children are calling the teacher now.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "They are drawing the car at the moment.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "They are writing the project today.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "My parents are buying a new car.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "Today, the students are fixing the room.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The manager is going to the store.",
+      "verb": "going"
+    },
+    {
+      "sentence": "Now, tom is finishing the presentation.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "At the moment, the children are finding clothes.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Currently, my friend is sending the project.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "The manager is drawing the bathroom.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "At the moment, she is considering the birthday.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "The team is selling a laptop right now.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "Our neighbors are practicing vocabulary this week.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "Now, our neighbors are cooking a salad.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "The dog is painting the furniture.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "Right now, the manager is remembering the event.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "Her sister is reviewing Spanish.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "Tom is contacting the teacher.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "My brother is finding a new car now.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "At the moment, the dog is choosing a book.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "Currently, john is designing the room.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "The children are understanding for the exam.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "This week, you are planning the event.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Our neighbors are listening to a movie at the moment.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Her sister is studying English currently.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "My parents are fixing the kitchen currently.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The team is writing the application right now.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Sarah is studying mathematics.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "The team is playing a podcast.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "This week, i am enjoying dinner.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Right now, emma is remembering the trip.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "John is writing the proposal today.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "The children are contacting the client at the moment.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "The team is speaking the doctor.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "Now, the team is cleaning the furniture.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "The dog is arriving to the airport now.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "Currently, we are arriving home.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "The bird is choosing clothes.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "My friend is calling the boss today.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "My brother is teaching for the exam now.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "Today, we are buying the keys.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "The teacher is speaking my parents this week.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "The students are starting the task.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "I am considering the event now.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "My parents are planning the problem today.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The bird is calling the team.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "You are flying to the park.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "At the moment, sarah is drinking a salad.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The teacher is speaking my family today.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "The students are drawing the bathroom.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "The dog is selling the keys.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "Currently, tom is repairing the car.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "This week, sarah is planning the birthday.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "I am listening to football.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The team is watching music.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "Her sister is sending the assignment right now.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "Her sister is contacting my family.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "Our neighbors are going to the market.",
+      "verb": "going"
+    },
+    {
+      "sentence": "The team is choosing clothes this week.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "Emma is watching basketball at the moment.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "The children are enjoying a documentary now.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "They are contacting my parents.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "At the moment, the team is coming to the library.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "Emma is learning mathematics.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "Right now, the bird is cooking tea.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "Right now, our neighbors are enjoying soup.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The bird is repairing a picture today.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "She is choosing a laptop this week.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "The cat is giving a gift.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "Now, the cat is thinking about the meeting.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "The teacher is getting a gift.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "At the moment, the children are running to the library.",
+      "verb": "running"
+    },
+    {
+      "sentence": "Right now, tom is practicing for the exam.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "He is understanding the chapter.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "I am reviewing history currently.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The teacher is enjoying the news.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Now, they are enjoying a movie.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The students are arriving to school.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "The bird is enjoying the news now.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "I am cooking soup today.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "Tom is enjoying basketball.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "This week, the children are making soup.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The teacher is painting the furniture right now.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "At the moment, my parents are arriving to the office.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "Now, my friend is meeting the client.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "The company is buying a new car right now.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "Tom is studying science.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "The children are planning the vacation.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Our neighbors are driving to the market today.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "I am getting clothes currently.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "Currently, my brother is eating a sandwich.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Tom is submitting the presentation now.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "Her sister is planning the trip.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "My parents are writing the document today.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Currently, tom is playing tennis.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "Our neighbors are eating pizza currently.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "My brother is playing the game today.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "I am choosing the keys now.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "My parents are learning vocabulary.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "My brother is ordering a sandwich.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "Sarah is studying for the exam.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "The students are returning downtown.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "My brother is designing the car right now.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "Right now, the children are finding a gift.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "The company is building the furniture today.",
+      "verb": "building"
+    },
+    {
+      "sentence": "The children are speaking my friend at the moment.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "The dog is receiving the presentation.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "At the moment, our neighbors are making a snack.",
+      "verb": "making"
+    },
+    {
+      "sentence": "Today, the team is reviewing for the exam.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "Right now, the dog is fixing the kitchen.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "My brother is thinking about the problem at the moment.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "They are starting the application now.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "Right now, they are getting a present.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "My friend is buying the phone this week.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "The teacher is choosing a present this week.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "Right now, we are reading history.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "Currently, we are considering the problem.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "My friend is enjoying football right now.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "They are studying grammar.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "The team is arriving to the airport.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "Our neighbors are ordering tea at the moment.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "The teacher is contacting the client at the moment.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "Currently, you are finding the ticket.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "The dog is selling clothes at the moment.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "The dog is watching tennis at the moment.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "My parents are preparing breakfast.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "The teacher is teaching vocabulary.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "The children are considering the options.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "Right now, the team is building the car.",
+      "verb": "building"
+    },
+    {
+      "sentence": "The dog is getting a gift right now.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "Emma is selling a gift right now.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "My brother is writing the task.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "The children are forgetting the trip today.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "He is driving to the market now.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "They are visiting the team.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "Now, the bird is choosing a gift.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "Currently, the students are building the kitchen.",
+      "verb": "building"
+    },
+    {
+      "sentence": "Now, the students are practicing the chapter.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "At the moment, he is completing the contract.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "The company is finishing the proposal this week.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "We are arriving to work right now.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "Currently, the bird is completing the email.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "At the moment, the bird is talking the neighbors.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "They are studying grammar currently.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "At the moment, sarah is fixing the room.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The bird is coming to the office right now.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "He is reading mathematics.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "He is sending the assignment.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "Her sister is considering the event currently.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "The teacher is learning history.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "I am forgetting the birthday.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "The cat is fixing the car.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The bird is ordering pasta right now.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "You are talking the neighbors at the moment.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "At the moment, emma is driving home.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "Her sister is drawing the kitchen.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "My friend is coming to the airport this week.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "Today, the teacher is playing basketball.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "Currently, the dog is teaching vocabulary.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "My brother is learning the chapter.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "You are contacting the doctor.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "Right now, our neighbors are speaking the neighbors.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "Now, my friend is giving clothes.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "John is selling the phone currently.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "At the moment, john is contacting the manager.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "At the moment, you are making dinner.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The teacher is contacting the client.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "I am drinking lunch now.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Emma is running downtown now.",
+      "verb": "running"
+    },
+    {
+      "sentence": "Our neighbors are reviewing history currently.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "Sarah is buying a gift.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "My parents are returning to the office at the moment.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "My friend is coming to the airport at the moment.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "The students are designing a website.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "At the moment, he is contacting the teacher.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "The manager is eating dinner today.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The teacher is enjoying music right now.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Now, my brother is writing the presentation.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "The team is remembering the vacation.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "The teacher is building a picture.",
+      "verb": "building"
+    },
+    {
+      "sentence": "Our neighbors are selling groceries today.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "Now, my friend is thinking about the vacation.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Currently, tom is forgetting the trip.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "This week, the bird is playing a video.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The company is sending the project.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "Right now, the students are giving clothes.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The company is speaking the manager now.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "We are sending the assignment.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "Now, our neighbors are drawing a website.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "Tom is arriving to work today.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "They are finding the phone.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Currently, the company is making soup.",
+      "verb": "making"
+    },
+    {
+      "sentence": "Emma is preparing pizza currently.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "He is choosing the keys.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "They are making juice.",
+      "verb": "making"
+    },
+    {
+      "sentence": "This week, she is fixing the kitchen.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "Right now, the children are starting the assignment.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "John is learning grammar at the moment.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "John is teaching English.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "Right now, they are learning French.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "At the moment, my brother is writing the document.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "This week, the teacher is finding a present.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "The bird is reading for the exam at the moment.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "The manager is practicing for the exam.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "My brother is talking the boss.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "My parents are watching a podcast now.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "I am listening to a movie now.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "My parents are thinking about the problem today.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "At the moment, my friend is starting the project.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "Her sister is drinking a salad.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The bird is buying clothes this week.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "My brother is arriving to the market this week.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "My friend is speaking the neighbors.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "The dog is talking the manager today.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "The students are calling my parents.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "Now, the cat is understanding Spanish.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "The dog is preparing a salad.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "They are talking the team now.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "The manager is listening to basketball at the moment.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "My brother is understanding mathematics right now.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "Emma is meeting my parents this week.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "This week, my friend is finding flowers.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "The teacher is ordering coffee.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "She is calling the team.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "We are understanding vocabulary.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "At the moment, the manager is selling a gift.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "The manager is understanding the chapter.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "This week, she is designing the furniture.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "This week, emma is enjoying a movie.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The bird is eating pasta.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "You are preparing soup currently.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "Sarah is watching music this week.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "Her sister is selling the ticket today.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "My friend is running to the airport.",
+      "verb": "running"
+    },
+    {
+      "sentence": "At the moment, the team is practicing the lesson.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "This week, you are finishing the email.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "The team is reviewing grammar currently.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "This week, she is walking to the library.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "Sarah is remembering the birthday.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "This week, she is thinking about the future.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "This week, my brother is talking the boss.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "At the moment, john is finding a book.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Right now, the teacher is eating a sandwich.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Our neighbors are enjoying pasta.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Now, the bird is considering the trip.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "John is preparing breakfast now.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "This week, we are listening to football.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The manager is designing the garden now.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "John is making juice currently.",
+      "verb": "making"
+    },
+    {
+      "sentence": "Currently, emma is going to the store.",
+      "verb": "going"
+    },
+    {
+      "sentence": "He is finding the keys.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Currently, our neighbors are watching basketball.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "The dog is ordering dinner.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "Her sister is reviewing the textbook.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The children are remembering the birthday.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "We are designing the house.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "Now, the dog is cleaning the garden.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "This week, the manager is enjoying the game.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Currently, the manager is choosing a gift.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "The bird is speaking my parents.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "My friend is learning the textbook.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "The bird is enjoying a sandwich.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "My parents are choosing groceries.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "Sarah is driving to the market.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "They are returning downtown.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "Tom is flying to the store at the moment.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "Now, the team is considering the situation.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "The bird is cooking juice.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "My parents are contacting my parents right now.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "We are leaving to the market now.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "Today, my parents are walking downtown.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "Currently, the children are making a salad.",
+      "verb": "making"
+    },
+    {
+      "sentence": "They are considering the options currently.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "He is drinking a salad today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "At the moment, the company is walking to the beach.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "Currently, we are playing a video.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The manager is meeting my family.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "The teacher is buying groceries.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "Her sister is calling my friend right now.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "The students are completing the letter.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "The teacher is reading Spanish.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "We are thinking about the situation.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "The cat is running to the gym.",
+      "verb": "running"
+    },
+    {
+      "sentence": "The cat is planning the birthday at the moment.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "John is planning the future now.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "He is thinking about the future at the moment.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "At the moment, her sister is receiving the application.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "They are designing the kitchen.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "Today, you are planning the future.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "You are giving the ticket.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "Sarah is learning the lesson at the moment.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "My brother is planning the problem currently.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The dog is drawing the computer right now.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "She is reading for the exam this week.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "The team is listening to basketball right now.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The bird is cleaning the room this week.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "The teacher is buying the phone.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "Tom is drawing the kitchen.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "Our neighbors are finding the ticket.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "Sarah is practicing Spanish.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "Right now, her sister is ordering lunch.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "At the moment, the team is calling the doctor.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "My brother is building the house.",
+      "verb": "building"
+    },
+    {
+      "sentence": "The dog is running to the airport.",
+      "verb": "running"
+    },
+    {
+      "sentence": "Emma is giving a present right now.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "My brother is finding groceries.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "The children are selling a gift now.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "My brother is teaching history today.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "They are preparing coffee.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "The students are considering the vacation.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "My friend is running to the store today.",
+      "verb": "running"
+    },
+    {
+      "sentence": "The children are repairing the room.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "We are visiting my parents at the moment.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "My parents are reading for the exam this week.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "Tom is writing the application.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "This week, my parents are buying a gift.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "You are eating pasta at the moment.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Her sister is reading French today.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "My friend is playing basketball now.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "Right now, my brother is making a sandwich.",
+      "verb": "making"
+    },
+    {
+      "sentence": "Today, the students are listening to music.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The students are writing the application.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "The bird is starting the report.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "Tom is cooking a sandwich currently.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "At the moment, the company is running to the market.",
+      "verb": "running"
+    },
+    {
+      "sentence": "My parents are finishing the proposal this week.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "My parents are writing the project.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "The cat is cleaning the room currently.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "This week, the cat is enjoying the game.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Sarah is planning the options now.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Currently, john is building the house.",
+      "verb": "building"
+    },
+    {
+      "sentence": "I am submitting the application right now.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "My friend is flying home.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "This week, she is returning home.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "The manager is planning the decision now.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Now, we are teaching the lesson.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "My brother is visiting the boss currently.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "They are listening to a podcast now.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "They are getting a book.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "Sarah is reviewing for the exam.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The dog is preparing juice.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "Today, they are making pizza.",
+      "verb": "making"
+    },
+    {
+      "sentence": "My parents are visiting my parents right now.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "Sarah is repairing the computer.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "The dog is meeting the doctor now.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "Currently, the teacher is contacting the client.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "The cat is speaking the manager currently.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "This week, i am learning for the exam.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "Today, the cat is ordering tea.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "Our neighbors are completing the contract.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "The cat is studying French this week.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "The students are giving the phone.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The team is teaching the chapter.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "The children are building the furniture at the moment.",
+      "verb": "building"
+    },
+    {
+      "sentence": "John is drinking a salad.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Now, the teacher is visiting the boss.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "The team is coming to the airport.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "Emma is forgetting the event.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "My friend is buying a new car.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "At the moment, she is arriving to the park.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "Currently, he is ordering tea.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "We are visiting the teacher.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "My friend is submitting the contract.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "The bird is repairing the house.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "The cat is giving the ticket.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The cat is calling the neighbors.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "Now, she is cooking a salad.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "My brother is calling the team.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "Our neighbors are buying a present.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "My friend is finishing the proposal.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "They are getting a laptop this week.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "Right now, she is completing the project.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "This week, she is listening to a podcast.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "He is running to the beach.",
+      "verb": "running"
+    },
+    {
+      "sentence": "Right now, the manager is listening to a documentary.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "He is cleaning the house.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "The students are building a website.",
+      "verb": "building"
+    },
+    {
+      "sentence": "We are remembering the future at the moment.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "Tom is considering the birthday.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "Emma is understanding grammar.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "Sarah is practicing history.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "I am drinking soup today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Now, my brother is getting a new car.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "You are writing the email currently.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Our neighbors are planning the problem.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The manager is talking the manager.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "Currently, the teacher is watching a podcast.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "My friend is reviewing vocabulary.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The team is forgetting the future this week.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "Now, the teacher is drinking pasta.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "He is cooking a salad.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "The team is playing football today.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The company is listening to basketball at the moment.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Now, my parents are walking to the park.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "The manager is enjoying a documentary.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Emma is making pasta now.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The team is remembering the vacation now.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "We are thinking about the problem.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "You are repairing the bathroom.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "My parents are getting flowers.",
+      "verb": "getting"
+    }
+  ]
+}

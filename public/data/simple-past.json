@@ -1,0 +1,2006 @@
+{
+  "tense": "Simple Past",
+  "description": "Used for completed actions at a specific time in the past",
+  "examples": [
+    {
+      "sentence": "My parents enjoyed music last year.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "The dog designed the car earlier today.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "The dog made lunch last night.",
+      "verb": "made"
+    },
+    {
+      "sentence": "On Monday, my brother listened to a podcast.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The bird built a website at the restaurant.",
+      "verb": "built"
+    },
+    {
+      "sentence": "Last night, they left to the airport.",
+      "verb": "left"
+    },
+    {
+      "sentence": "He flew to the park earlier today.",
+      "verb": "flew"
+    },
+    {
+      "sentence": "I planned the event yesterday.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "My brother ordered breakfast at school.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "She flew to the airport last year.",
+      "verb": "flew"
+    },
+    {
+      "sentence": "Our neighbors considered the situation at the gym.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "I chose the ticket at home.",
+      "verb": "chose"
+    },
+    {
+      "sentence": "Last month, they called the doctor.",
+      "verb": "called"
+    },
+    {
+      "sentence": "Sarah met my friend at school.",
+      "verb": "met"
+    },
+    {
+      "sentence": "Last week, tom listened to music.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The bird left downtown last night.",
+      "verb": "left"
+    },
+    {
+      "sentence": "The cat forgot the situation last month.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "The team visited my parents at school.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "Sarah arrived downtown at school.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "Last night, the teacher considered the future.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "The company remembered the decision last week.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The bird repaired the bathroom earlier today.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "Tom watched basketball yesterday.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Tom prepared pizza at the restaurant.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "This morning, john flew to the airport.",
+      "verb": "flew"
+    },
+    {
+      "sentence": "In 2020, my parents thought about the trip.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "On Monday, tom ate dinner.",
+      "verb": "ate"
+    },
+    {
+      "sentence": "The bird watched a video at work.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Earlier today, the dog fixed the bathroom.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "My brother talked the team last month.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The children studied grammar in the office.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "We bought the phone in 2020.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "The team practiced Spanish in the park.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "Last year, you understood mathematics.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "Her sister finished the application in the library.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "He chose the ticket at the restaurant.",
+      "verb": "chose"
+    },
+    {
+      "sentence": "I went to the beach at the restaurant.",
+      "verb": "went"
+    },
+    {
+      "sentence": "In 2020, my friend went to the park.",
+      "verb": "went"
+    },
+    {
+      "sentence": "The manager went to the store at the restaurant.",
+      "verb": "went"
+    },
+    {
+      "sentence": "My parents taught mathematics at the restaurant.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "He arrived to the airport in the kitchen.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "I gave the ticket at home.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "This morning, the team contacted the team.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "The cat taught mathematics last night.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "Sarah returned downtown at the restaurant.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "We drank soup in the library.",
+      "verb": "drank"
+    },
+    {
+      "sentence": "He chose the ticket at work.",
+      "verb": "chose"
+    },
+    {
+      "sentence": "The manager considered the situation at work.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "Emma ordered juice yesterday.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "Last week, the manager painted the computer.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "Last month, tom repaired the furniture.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "Last week, the students met the client.",
+      "verb": "met"
+    },
+    {
+      "sentence": "John made soup last year.",
+      "verb": "made"
+    },
+    {
+      "sentence": "The cat studied mathematics in the park.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "Emma painted a website two days ago.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "Her sister taught grammar at the gym.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "The team gave flowers in the library.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "Her sister practiced history in the park.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "Two days ago, the team spoke my family.",
+      "verb": "spoke"
+    },
+    {
+      "sentence": "On Monday, the company built the furniture.",
+      "verb": "built"
+    },
+    {
+      "sentence": "Tom repaired the bathroom earlier today.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "The company drew the computer last night.",
+      "verb": "drew"
+    },
+    {
+      "sentence": "This morning, the teacher finished the project.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "Last month, my brother painted the furniture.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "The company finished the contract at work.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "The teacher read Spanish at home.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The company thought about the future yesterday.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "Emma bought flowers on Monday.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "The company cooked a snack in 2020.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "The teacher completed the letter earlier today.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "The team ordered coffee yesterday.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "The teacher watched football in the office.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The company ate lunch in the library.",
+      "verb": "ate"
+    },
+    {
+      "sentence": "Earlier today, the students submitted the email.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "Sarah enjoyed a video in the park.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Our neighbors reviewed history at school.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "Our neighbors walked to the office in the park.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "I learned history at work.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "Last year, they practiced French.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "Yesterday, the students submitted the letter.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "They played football last year.",
+      "verb": "played"
+    },
+    {
+      "sentence": "You returned home in the kitchen.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "Sarah talked my parents last week.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "Last week, her sister fixed the furniture.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "Last night, sarah watched a podcast.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Last week, the company forgot the birthday.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "You enjoyed a documentary at work.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "You visited my friend in the library.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "The bird planned the event at school.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "He studied Spanish last month.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "We chose the keys in the kitchen.",
+      "verb": "chose"
+    },
+    {
+      "sentence": "Sarah painted the house at work.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "You learned the textbook last night.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "Last week, tom talked the client.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The students sold the keys in the library.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "My friend drank coffee in the office.",
+      "verb": "drank"
+    },
+    {
+      "sentence": "You wrote the contract two days ago.",
+      "verb": "wrote"
+    },
+    {
+      "sentence": "My brother painted the car at the gym.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "Last month, i designed the room.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "She left to the market on Monday.",
+      "verb": "left"
+    },
+    {
+      "sentence": "Her sister enjoyed a song at home.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Last month, emma drove to the store.",
+      "verb": "drove"
+    },
+    {
+      "sentence": "The bird made breakfast last month.",
+      "verb": "made"
+    },
+    {
+      "sentence": "My brother contacted my family in the library.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "Two days ago, he got flowers.",
+      "verb": "got"
+    },
+    {
+      "sentence": "Last month, the bird started the application.",
+      "verb": "started"
+    },
+    {
+      "sentence": "The teacher remembered the problem earlier today.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "Earlier today, my brother sold a book.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "Last year, the bird ordered soup.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "The team completed the proposal last night.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "You forgot the vacation in 2020.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "The company sold groceries last week.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "The team contacted my parents in the library.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "We watched a movie last year.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Our neighbors built the kitchen in 2020.",
+      "verb": "built"
+    },
+    {
+      "sentence": "Sarah spoke the boss in 2020.",
+      "verb": "spoke"
+    },
+    {
+      "sentence": "They sold a laptop last year.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "Two days ago, the team chose flowers.",
+      "verb": "chose"
+    },
+    {
+      "sentence": "The students chose the keys at the gym.",
+      "verb": "chose"
+    },
+    {
+      "sentence": "Last month, our neighbors listened to the news.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "She played a song at the restaurant.",
+      "verb": "played"
+    },
+    {
+      "sentence": "My friend understood the textbook in the park.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "We bought flowers this morning.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "Last month, tom completed the proposal.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "This morning, emma walked to the gym.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "Our neighbors painted a website in the park.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "Last month, the company enjoyed a movie.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "He found a present two days ago.",
+      "verb": "found"
+    },
+    {
+      "sentence": "My parents returned to work in the office.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "My brother drove to school last week.",
+      "verb": "drove"
+    },
+    {
+      "sentence": "The students went to the office this morning.",
+      "verb": "went"
+    },
+    {
+      "sentence": "Earlier today, we played basketball.",
+      "verb": "played"
+    },
+    {
+      "sentence": "The children completed the project on Monday.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "On Monday, my parents came home.",
+      "verb": "came"
+    },
+    {
+      "sentence": "The children walked to the market last year.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "On Monday, my brother planned the trip.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "Last month, the teacher drew the bathroom.",
+      "verb": "drew"
+    },
+    {
+      "sentence": "Last week, the dog drove downtown.",
+      "verb": "drove"
+    },
+    {
+      "sentence": "They watched football in the park.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "My brother started the presentation yesterday.",
+      "verb": "started"
+    },
+    {
+      "sentence": "Tom made a snack two days ago.",
+      "verb": "made"
+    },
+    {
+      "sentence": "She made a sandwich in the park.",
+      "verb": "made"
+    },
+    {
+      "sentence": "The children got a present in the library.",
+      "verb": "got"
+    },
+    {
+      "sentence": "They considered the meeting in the office.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "Two days ago, the bird met the doctor.",
+      "verb": "met"
+    },
+    {
+      "sentence": "Earlier today, the teacher enjoyed juice.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "My parents forgot the event in the office.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "The dog bought flowers in 2020.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "Two days ago, the manager visited the manager.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "John made lunch earlier today.",
+      "verb": "made"
+    },
+    {
+      "sentence": "Last night, the students repaired the furniture.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "The students bought a new car at work.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "On Monday, the children understood the lesson.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "This morning, the company repaired a website.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "She remembered the trip this morning.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "Two days ago, they started the assignment.",
+      "verb": "started"
+    },
+    {
+      "sentence": "My parents talked the boss this morning.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "Yesterday, the manager got flowers.",
+      "verb": "got"
+    },
+    {
+      "sentence": "Last night, john drew the car.",
+      "verb": "drew"
+    },
+    {
+      "sentence": "Tom called the client at the gym.",
+      "verb": "called"
+    },
+    {
+      "sentence": "The cat left home last month.",
+      "verb": "left"
+    },
+    {
+      "sentence": "On Monday, our neighbors studied vocabulary.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "We gave a laptop at home.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "My friend forgot the situation two days ago.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "Her sister spoke the boss at school.",
+      "verb": "spoke"
+    },
+    {
+      "sentence": "Last night, my parents enjoyed music.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Last month, she understood history.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He built the room in 2020.",
+      "verb": "built"
+    },
+    {
+      "sentence": "She remembered the problem at the restaurant.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The teacher finished the email yesterday.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "Last night, my friend talked the boss.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "The teacher arrived downtown at school.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "She sent the letter earlier today.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "The manager completed the letter in 2020.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "The dog considered the meeting last night.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "The students drove to work in the library.",
+      "verb": "drove"
+    },
+    {
+      "sentence": "On Monday, our neighbors sent the email.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "In 2020, my brother drank dinner.",
+      "verb": "drank"
+    },
+    {
+      "sentence": "They considered the vacation this morning.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "This morning, the cat made breakfast.",
+      "verb": "made"
+    },
+    {
+      "sentence": "The dog remembered the event at home.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "Last night, her sister listened to a song.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "He started the proposal at the restaurant.",
+      "verb": "started"
+    },
+    {
+      "sentence": "The team watched a video at the gym.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The team considered the meeting at the restaurant.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "The manager listened to music at work.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The bird submitted the application on Monday.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "Her sister made pasta at home.",
+      "verb": "made"
+    },
+    {
+      "sentence": "I received the document last year.",
+      "verb": "received"
+    },
+    {
+      "sentence": "Emma fixed the car earlier today.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "The cat built the computer in the library.",
+      "verb": "built"
+    },
+    {
+      "sentence": "Last week, you practiced history.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "Tom received the assignment in the library.",
+      "verb": "received"
+    },
+    {
+      "sentence": "Last week, the teacher reviewed the chapter.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "Sarah contacted the neighbors at the restaurant.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "Yesterday, the bird cooked pizza.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "The students bought a book at the restaurant.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "Her sister completed the report at school.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Tom understood Spanish earlier today.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "You found the keys at the gym.",
+      "verb": "found"
+    },
+    {
+      "sentence": "Last week, the students repaired the house.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "You sent the proposal at school.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "Sarah practiced the textbook at work.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "Our neighbors watched tennis last month.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "In 2020, you started the task.",
+      "verb": "started"
+    },
+    {
+      "sentence": "The team completed the proposal in the library.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Sarah talked the teacher on Monday.",
+      "verb": "talked"
+    },
+    {
+      "sentence": "Her sister visited the manager at home.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "The students ran to work on Monday.",
+      "verb": "ran"
+    },
+    {
+      "sentence": "Last week, he fixed the garden.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "This morning, the children learned the chapter.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "In 2020, you cleaned the car.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "Last week, the bird played basketball.",
+      "verb": "played"
+    },
+    {
+      "sentence": "I forgot the trip in the office.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "Our neighbors practiced English at the restaurant.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "In 2020, the team considered the options.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "In 2020, the children sold a book.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "The team considered the event earlier today.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "In 2020, they went to the beach.",
+      "verb": "went"
+    },
+    {
+      "sentence": "Last month, they started the task.",
+      "verb": "started"
+    },
+    {
+      "sentence": "On Monday, her sister arrived to the office.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "John walked to the airport last month.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "She received the contract last night.",
+      "verb": "received"
+    },
+    {
+      "sentence": "We met the client at home.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The team remembered the options in the park.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "On Monday, the manager gave flowers.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "The children planned the decision at the gym.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The company reviewed science at work.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "The teacher finished the document at work.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "Last week, the manager met the boss.",
+      "verb": "met"
+    },
+    {
+      "sentence": "This morning, the children returned to the park.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "We ran to the store earlier today.",
+      "verb": "ran"
+    },
+    {
+      "sentence": "Yesterday, you cooked lunch.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He cleaned the computer last night.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "The team wrote the document in the park.",
+      "verb": "wrote"
+    },
+    {
+      "sentence": "The manager played a movie earlier today.",
+      "verb": "played"
+    },
+    {
+      "sentence": "The children returned to the library yesterday.",
+      "verb": "returned"
+    },
+    {
+      "sentence": "This morning, my parents considered the situation.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "On Monday, tom designed the room.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "Last year, sarah called the doctor.",
+      "verb": "called"
+    },
+    {
+      "sentence": "The teacher listened to tennis earlier today.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "I gave a book at the restaurant.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "You forgot the options two days ago.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "This morning, our neighbors completed the report.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "The bird understood for the exam in the office.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "She completed the assignment on Monday.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "You completed the assignment at school.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "The company enjoyed football last year.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "This morning, the bird prepared a sandwich.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "The dog sent the presentation two days ago.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "The children went to the store at the gym.",
+      "verb": "went"
+    },
+    {
+      "sentence": "The cat painted the bathroom in 2020.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "Earlier today, our neighbors watched a podcast.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "He forgot the future at home.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "My brother left to the store at home.",
+      "verb": "left"
+    },
+    {
+      "sentence": "I played music earlier today.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Last week, our neighbors drew a website.",
+      "verb": "drew"
+    },
+    {
+      "sentence": "Earlier today, he drank breakfast.",
+      "verb": "drank"
+    },
+    {
+      "sentence": "Last month, the company ran to the library.",
+      "verb": "ran"
+    },
+    {
+      "sentence": "Emma prepared soup on Monday.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "Tom started the document in the library.",
+      "verb": "started"
+    },
+    {
+      "sentence": "I fixed the furniture two days ago.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "Tom sold a laptop at work.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "The students ran to work in the office.",
+      "verb": "ran"
+    },
+    {
+      "sentence": "The dog called the boss in the park.",
+      "verb": "called"
+    },
+    {
+      "sentence": "This morning, my friend watched basketball.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "My friend finished the project last month.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "John found the phone last year.",
+      "verb": "found"
+    },
+    {
+      "sentence": "Last year, my brother practiced history.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "The bird gave flowers last night.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "The team designed the furniture in the park.",
+      "verb": "designed"
+    },
+    {
+      "sentence": "The children thought about the birthday on Monday.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "We finished the contract on Monday.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "My friend got a present in the kitchen.",
+      "verb": "got"
+    },
+    {
+      "sentence": "Yesterday, the children sent the document.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "The cat forgot the meeting on Monday.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "This morning, john wrote the application.",
+      "verb": "wrote"
+    },
+    {
+      "sentence": "Emma walked to the gym at work.",
+      "verb": "walked"
+    },
+    {
+      "sentence": "The students left to the beach on Monday.",
+      "verb": "left"
+    },
+    {
+      "sentence": "The students found flowers in the park.",
+      "verb": "found"
+    },
+    {
+      "sentence": "Emma made dinner at school.",
+      "verb": "made"
+    },
+    {
+      "sentence": "Two days ago, our neighbors left home.",
+      "verb": "left"
+    },
+    {
+      "sentence": "Earlier today, the dog bought the keys.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "Emma forgot the vacation on Monday.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "Tom drew the kitchen last year.",
+      "verb": "drew"
+    },
+    {
+      "sentence": "She contacted my parents earlier today.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "Emma made lunch on Monday.",
+      "verb": "made"
+    },
+    {
+      "sentence": "They visited my family two days ago.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "The dog thought about the situation last year.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "Two days ago, emma thought about the trip.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "Last year, my brother sold flowers.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "Last year, we prepared a salad.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "This morning, my brother cooked pasta.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "My friend arrived to the park at home.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "The cat built the computer last month.",
+      "verb": "built"
+    },
+    {
+      "sentence": "I sold a present in the kitchen.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "The company went to the gym last year.",
+      "verb": "went"
+    },
+    {
+      "sentence": "Yesterday, the cat repaired a picture.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "Last night, john ate breakfast.",
+      "verb": "ate"
+    },
+    {
+      "sentence": "This morning, my brother found flowers.",
+      "verb": "found"
+    },
+    {
+      "sentence": "Emma listened to a podcast at school.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "Sarah painted the bathroom last week.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "I fixed the garden at the restaurant.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "The teacher completed the letter in the park.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Last month, the manager planned the vacation.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "They received the application last night.",
+      "verb": "received"
+    },
+    {
+      "sentence": "Last month, the children wrote the letter.",
+      "verb": "wrote"
+    },
+    {
+      "sentence": "Last night, the students learned Spanish.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "Last night, the bird watched football.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The children read the chapter yesterday.",
+      "verb": "read"
+    },
+    {
+      "sentence": "My friend got a laptop in the park.",
+      "verb": "got"
+    },
+    {
+      "sentence": "Yesterday, they left to the market.",
+      "verb": "left"
+    },
+    {
+      "sentence": "Yesterday, the team sent the task.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "I remembered the birthday yesterday.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The teacher bought a book earlier today.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "Sarah painted the computer in the library.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "I got flowers in the park.",
+      "verb": "got"
+    },
+    {
+      "sentence": "John thought about the decision at the gym.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "Last night, the dog sent the proposal.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "Yesterday, our neighbors prepared a salad.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "The dog made pizza yesterday.",
+      "verb": "made"
+    },
+    {
+      "sentence": "Last night, the company understood science.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "My friend taught English two days ago.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "My parents considered the problem in the kitchen.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "Sarah ran to the gym in the library.",
+      "verb": "ran"
+    },
+    {
+      "sentence": "Last year, emma studied the textbook.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "The students remembered the future at the restaurant.",
+      "verb": "remembered"
+    },
+    {
+      "sentence": "The dog understood for the exam at the restaurant.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "Two days ago, we received the application.",
+      "verb": "received"
+    },
+    {
+      "sentence": "He understood the chapter last year.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "The bird chose clothes last month.",
+      "verb": "chose"
+    },
+    {
+      "sentence": "The team repaired the kitchen at work.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "Our neighbors watched the game in the park.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Sarah started the letter last year.",
+      "verb": "started"
+    },
+    {
+      "sentence": "The team listened to a documentary at school.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "I forgot the problem on Monday.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "Last year, the dog learned the chapter.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "John planned the future in the kitchen.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "I came to school earlier today.",
+      "verb": "came"
+    },
+    {
+      "sentence": "On Monday, they started the application.",
+      "verb": "started"
+    },
+    {
+      "sentence": "The dog arrived to the store at the restaurant.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "The cat planned the vacation at school.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The company watched a podcast at school.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Last year, emma gave a gift.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "The bird started the proposal at work.",
+      "verb": "started"
+    },
+    {
+      "sentence": "Last night, my friend called the neighbors.",
+      "verb": "called"
+    },
+    {
+      "sentence": "The teacher spoke the team last year.",
+      "verb": "spoke"
+    },
+    {
+      "sentence": "Earlier today, we thought about the problem.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "Tom gave a laptop two days ago.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "Earlier today, tom considered the situation.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "Last year, the team painted the garden.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "He cooked dinner on Monday.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "Last night, sarah finished the presentation.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "Sarah considered the event earlier today.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "Last week, emma gave a present.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "They drove to the store yesterday.",
+      "verb": "drove"
+    },
+    {
+      "sentence": "The cat called the team in the park.",
+      "verb": "called"
+    },
+    {
+      "sentence": "Emma came to the park at the gym.",
+      "verb": "came"
+    },
+    {
+      "sentence": "She practiced English in the kitchen.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "My brother practiced the textbook last night.",
+      "verb": "practiced"
+    },
+    {
+      "sentence": "My friend drove to the office at work.",
+      "verb": "drove"
+    },
+    {
+      "sentence": "Earlier today, tom cooked breakfast.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "Yesterday, her sister watched football.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "Earlier today, her sister called the client.",
+      "verb": "called"
+    },
+    {
+      "sentence": "The bird called the client at school.",
+      "verb": "called"
+    },
+    {
+      "sentence": "This morning, john built the room.",
+      "verb": "built"
+    },
+    {
+      "sentence": "The manager sent the assignment in the park.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "In 2020, i met my friend.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The dog ran to the market at the gym.",
+      "verb": "ran"
+    },
+    {
+      "sentence": "The students completed the proposal at work.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "They came to work yesterday.",
+      "verb": "came"
+    },
+    {
+      "sentence": "Last month, she received the proposal.",
+      "verb": "received"
+    },
+    {
+      "sentence": "Two days ago, the dog built a picture.",
+      "verb": "built"
+    },
+    {
+      "sentence": "We gave a book at school.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "This morning, the dog gave a laptop.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "The teacher chose the phone at school.",
+      "verb": "chose"
+    },
+    {
+      "sentence": "The children contacted the teacher at work.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "The manager visited the neighbors in the office.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "Two days ago, my parents spoke the manager.",
+      "verb": "spoke"
+    },
+    {
+      "sentence": "The dog submitted the letter earlier today.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "The teacher planned the trip in the park.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "Last year, they sent the report.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "She considered the trip yesterday.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "In 2020, you considered the birthday.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "The children planned the trip last year.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "Earlier today, john came to the park.",
+      "verb": "came"
+    },
+    {
+      "sentence": "I wrote the report in the park.",
+      "verb": "wrote"
+    },
+    {
+      "sentence": "My friend drew the kitchen in the office.",
+      "verb": "drew"
+    },
+    {
+      "sentence": "The children prepared coffee on Monday.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "The children enjoyed coffee in the kitchen.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Last month, the teacher fixed the furniture.",
+      "verb": "fixed"
+    },
+    {
+      "sentence": "In 2020, the company received the presentation.",
+      "verb": "received"
+    },
+    {
+      "sentence": "This morning, the cat cleaned the room.",
+      "verb": "cleaned"
+    },
+    {
+      "sentence": "John read history at home.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The company considered the event at the gym.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "Tom played a song last year.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Her sister watched a documentary last month.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The team thought about the vacation at work.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "Our neighbors wrote the email this morning.",
+      "verb": "wrote"
+    },
+    {
+      "sentence": "The cat ordered dinner in 2020.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "Last week, the teacher taught vocabulary.",
+      "verb": "taught"
+    },
+    {
+      "sentence": "The students visited the manager yesterday.",
+      "verb": "visited"
+    },
+    {
+      "sentence": "The students contacted my parents at work.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "Sarah painted the car at the gym.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "Last month, the bird arrived to the park.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "Tom chose a book at school.",
+      "verb": "chose"
+    },
+    {
+      "sentence": "My friend left to the office yesterday.",
+      "verb": "left"
+    },
+    {
+      "sentence": "Last year, john chose flowers.",
+      "verb": "chose"
+    },
+    {
+      "sentence": "John forgot the future at work.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "Emma enjoyed football at school.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "In 2020, i forgot the trip.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "I painted the bathroom last month.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "Yesterday, emma planned the birthday.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "Sarah gave a present in the library.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "I finished the document in the library.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "John reviewed Spanish in the office.",
+      "verb": "reviewed"
+    },
+    {
+      "sentence": "The bird met the doctor at home.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The company considered the options yesterday.",
+      "verb": "considered"
+    },
+    {
+      "sentence": "Last week, the teacher repaired a picture.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "Last year, emma ran to the store.",
+      "verb": "ran"
+    },
+    {
+      "sentence": "They gave flowers at school.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "Sarah sent the assignment two days ago.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "This morning, the bird cooked lunch.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "The manager ordered pasta earlier today.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "The teacher wrote the application at the restaurant.",
+      "verb": "wrote"
+    },
+    {
+      "sentence": "Tom learned Spanish last week.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "The bird enjoyed a podcast in the kitchen.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Last year, the cat sold a book.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "You painted the garden in the office.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "Her sister bought flowers in the park.",
+      "verb": "bought"
+    },
+    {
+      "sentence": "This morning, the teacher watched football.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "We drew the bathroom two days ago.",
+      "verb": "drew"
+    },
+    {
+      "sentence": "The manager met the neighbors at the gym.",
+      "verb": "met"
+    },
+    {
+      "sentence": "We ordered a sandwich last month.",
+      "verb": "ordered"
+    },
+    {
+      "sentence": "Sarah chose the ticket at the restaurant.",
+      "verb": "chose"
+    },
+    {
+      "sentence": "Last night, he drew the kitchen.",
+      "verb": "drew"
+    },
+    {
+      "sentence": "Last month, the cat finished the report.",
+      "verb": "finished"
+    },
+    {
+      "sentence": "The students built the bathroom this morning.",
+      "verb": "built"
+    },
+    {
+      "sentence": "Yesterday, her sister played a podcast.",
+      "verb": "played"
+    },
+    {
+      "sentence": "The dog called the teacher last month.",
+      "verb": "called"
+    },
+    {
+      "sentence": "The students drank a snack at work.",
+      "verb": "drank"
+    },
+    {
+      "sentence": "My parents completed the email this morning.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "John drew a picture in 2020.",
+      "verb": "drew"
+    },
+    {
+      "sentence": "We started the document earlier today.",
+      "verb": "started"
+    },
+    {
+      "sentence": "Last year, sarah painted the computer.",
+      "verb": "painted"
+    },
+    {
+      "sentence": "We found a new car at the restaurant.",
+      "verb": "found"
+    },
+    {
+      "sentence": "He listened to the game at work.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "This morning, my parents listened to the game.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "Yesterday, he enjoyed tennis.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "My friend thought about the vacation last week.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "This morning, my friend gave clothes.",
+      "verb": "gave"
+    },
+    {
+      "sentence": "In 2020, john submitted the assignment.",
+      "verb": "submitted"
+    },
+    {
+      "sentence": "Last night, i flew home.",
+      "verb": "flew"
+    },
+    {
+      "sentence": "In 2020, our neighbors came to the airport.",
+      "verb": "came"
+    },
+    {
+      "sentence": "We received the email at home.",
+      "verb": "received"
+    },
+    {
+      "sentence": "The teacher ran to the office in the office.",
+      "verb": "ran"
+    },
+    {
+      "sentence": "The dog sent the presentation at school.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "The cat received the project at home.",
+      "verb": "received"
+    },
+    {
+      "sentence": "The dog planned the future at school.",
+      "verb": "planned"
+    },
+    {
+      "sentence": "The dog started the task last year.",
+      "verb": "started"
+    },
+    {
+      "sentence": "My parents prepared juice yesterday.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "In 2020, her sister left to the library.",
+      "verb": "left"
+    },
+    {
+      "sentence": "Last night, the company built the garden.",
+      "verb": "built"
+    },
+    {
+      "sentence": "Earlier today, the company enjoyed basketball.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "This morning, he forgot the future.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "Sarah wrote the report at the restaurant.",
+      "verb": "wrote"
+    },
+    {
+      "sentence": "You studied history earlier today.",
+      "verb": "studied"
+    },
+    {
+      "sentence": "In 2020, the students drew a website.",
+      "verb": "drew"
+    },
+    {
+      "sentence": "This morning, john forgot the meeting.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "Last year, the teacher learned the chapter.",
+      "verb": "learned"
+    },
+    {
+      "sentence": "Yesterday, my friend came to the airport.",
+      "verb": "came"
+    },
+    {
+      "sentence": "My brother repaired the garden in 2020.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "On Monday, my parents listened to a song.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "Last night, the children listened to music.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "John enjoyed football at work.",
+      "verb": "enjoyed"
+    },
+    {
+      "sentence": "Yesterday, my friend completed the assignment.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Last month, she met the doctor.",
+      "verb": "met"
+    },
+    {
+      "sentence": "The dog played a video in the office.",
+      "verb": "played"
+    },
+    {
+      "sentence": "The cat called the boss last month.",
+      "verb": "called"
+    },
+    {
+      "sentence": "Emma prepared a salad at work.",
+      "verb": "prepared"
+    },
+    {
+      "sentence": "Sarah arrived to work in 2020.",
+      "verb": "arrived"
+    },
+    {
+      "sentence": "The children repaired the car two days ago.",
+      "verb": "repaired"
+    },
+    {
+      "sentence": "Last month, i wrote the letter.",
+      "verb": "wrote"
+    },
+    {
+      "sentence": "The dog contacted my family at the restaurant.",
+      "verb": "contacted"
+    },
+    {
+      "sentence": "Yesterday, the students received the project.",
+      "verb": "received"
+    },
+    {
+      "sentence": "I called my parents at the gym.",
+      "verb": "called"
+    },
+    {
+      "sentence": "Our neighbors came home last month.",
+      "verb": "came"
+    },
+    {
+      "sentence": "John received the email last night.",
+      "verb": "received"
+    },
+    {
+      "sentence": "The children completed the application at the restaurant.",
+      "verb": "completed"
+    },
+    {
+      "sentence": "Earlier today, the company forgot the trip.",
+      "verb": "forgot"
+    },
+    {
+      "sentence": "The company listened to a song last month.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "The dog got the keys in the office.",
+      "verb": "got"
+    },
+    {
+      "sentence": "Her sister sent the assignment in the office.",
+      "verb": "sent"
+    },
+    {
+      "sentence": "Her sister listened to a song last night.",
+      "verb": "listened"
+    },
+    {
+      "sentence": "Last week, tom thought about the event.",
+      "verb": "thought"
+    },
+    {
+      "sentence": "You played the game in the office.",
+      "verb": "played"
+    },
+    {
+      "sentence": "Last year, the bird watched football.",
+      "verb": "watched"
+    },
+    {
+      "sentence": "The students left to the airport in 2020.",
+      "verb": "left"
+    },
+    {
+      "sentence": "I sold groceries in the office.",
+      "verb": "sold"
+    },
+    {
+      "sentence": "The cat left downtown at home.",
+      "verb": "left"
+    }
+  ]
+}

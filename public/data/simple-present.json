@@ -1,0 +1,2006 @@
+{
+  "tense": "Simple Present",
+  "description": "Used for habits, routines, general truths, and facts",
+  "examples": [
+    {
+      "sentence": "He builds a picture.",
+      "verb": "builds"
+    },
+    {
+      "sentence": "The cat usually watches the game.",
+      "verb": "watches"
+    },
+    {
+      "sentence": "The cat builds the bathroom at the moment.",
+      "verb": "builds"
+    },
+    {
+      "sentence": "They usually consider the event.",
+      "verb": "consider"
+    },
+    {
+      "sentence": "The company cooks soup at the moment.",
+      "verb": "cooks"
+    },
+    {
+      "sentence": "The bird usually finds a laptop.",
+      "verb": "finds"
+    },
+    {
+      "sentence": "Sarah usually meets my family.",
+      "verb": "meets"
+    },
+    {
+      "sentence": "The students often complete the document.",
+      "verb": "complete"
+    },
+    {
+      "sentence": "The manager usually returns to work.",
+      "verb": "returns"
+    },
+    {
+      "sentence": "She usually considers the problem.",
+      "verb": "considers"
+    },
+    {
+      "sentence": "The cat calls the client right now.",
+      "verb": "calls"
+    },
+    {
+      "sentence": "The students watch a movie currently.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "The teacher receives the application this week.",
+      "verb": "receives"
+    },
+    {
+      "sentence": "The dog enjoys a podcast now.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "The teacher contacts my family currently.",
+      "verb": "contacts"
+    },
+    {
+      "sentence": "They design the computer now.",
+      "verb": "design"
+    },
+    {
+      "sentence": "The children go to the airport now.",
+      "verb": "go"
+    },
+    {
+      "sentence": "Our neighbors often complete the proposal.",
+      "verb": "complete"
+    },
+    {
+      "sentence": "The dog usually orders a sandwich.",
+      "verb": "orders"
+    },
+    {
+      "sentence": "The team usually speaks my friend.",
+      "verb": "speaks"
+    },
+    {
+      "sentence": "My friend usually finds a new car.",
+      "verb": "finds"
+    },
+    {
+      "sentence": "The bird studies English this week.",
+      "verb": "studies"
+    },
+    {
+      "sentence": "Tom often paints a website.",
+      "verb": "paints"
+    },
+    {
+      "sentence": "We often buy the phone.",
+      "verb": "buy"
+    },
+    {
+      "sentence": "The bird learns Spanish this week.",
+      "verb": "learns"
+    },
+    {
+      "sentence": "The team often finds a book.",
+      "verb": "finds"
+    },
+    {
+      "sentence": "The children usually paint the garden.",
+      "verb": "paint"
+    },
+    {
+      "sentence": "The cat usually starts the proposal.",
+      "verb": "starts"
+    },
+    {
+      "sentence": "My friend usually teaches mathematics.",
+      "verb": "teaches"
+    },
+    {
+      "sentence": "Tom often contacts the doctor.",
+      "verb": "contacts"
+    },
+    {
+      "sentence": "The manager usually learns English.",
+      "verb": "learns"
+    },
+    {
+      "sentence": "The students often drink coffee.",
+      "verb": "drink"
+    },
+    {
+      "sentence": "The cat writes the assignment this week.",
+      "verb": "writes"
+    },
+    {
+      "sentence": "Tom often comes to the beach.",
+      "verb": "comes"
+    },
+    {
+      "sentence": "The children usually meet my parents.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "Sarah often paints the house.",
+      "verb": "paints"
+    },
+    {
+      "sentence": "John often meets my friend.",
+      "verb": "meets"
+    },
+    {
+      "sentence": "Emma often runs home.",
+      "verb": "runs"
+    },
+    {
+      "sentence": "My parents teach history now.",
+      "verb": "teach"
+    },
+    {
+      "sentence": "The company usually calls the team.",
+      "verb": "calls"
+    },
+    {
+      "sentence": "John buys flowers right now.",
+      "verb": "buys"
+    },
+    {
+      "sentence": "The children usually drive to the park.",
+      "verb": "drive"
+    },
+    {
+      "sentence": "The children clean the room.",
+      "verb": "clean"
+    },
+    {
+      "sentence": "The team often finishes the letter.",
+      "verb": "finishes"
+    },
+    {
+      "sentence": "Sarah usually submits the report.",
+      "verb": "submits"
+    },
+    {
+      "sentence": "Emma often enjoys TV.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "We usually give clothes.",
+      "verb": "give"
+    },
+    {
+      "sentence": "John forgets the event this week.",
+      "verb": "forgets"
+    },
+    {
+      "sentence": "Sarah often listens to a movie.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "The cat usually builds the garden.",
+      "verb": "builds"
+    },
+    {
+      "sentence": "They often paint the room.",
+      "verb": "paint"
+    },
+    {
+      "sentence": "Tom usually visits my family.",
+      "verb": "visits"
+    },
+    {
+      "sentence": "You often choose groceries.",
+      "verb": "choose"
+    },
+    {
+      "sentence": "The cat chooses clothes today.",
+      "verb": "chooses"
+    },
+    {
+      "sentence": "John prepares tea right now.",
+      "verb": "prepares"
+    },
+    {
+      "sentence": "My parents usually read the textbook.",
+      "verb": "read"
+    },
+    {
+      "sentence": "My parents understand French at the moment.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "Tom often drinks pizza.",
+      "verb": "drinks"
+    },
+    {
+      "sentence": "My friend plays the game this week.",
+      "verb": "plays"
+    },
+    {
+      "sentence": "She usually returns home.",
+      "verb": "returns"
+    },
+    {
+      "sentence": "We fly to work at the moment.",
+      "verb": "fly"
+    },
+    {
+      "sentence": "The children often drive to the library.",
+      "verb": "drive"
+    },
+    {
+      "sentence": "The students listen to a podcast today.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "He usually calls the teacher.",
+      "verb": "calls"
+    },
+    {
+      "sentence": "The dog usually completes the report.",
+      "verb": "completes"
+    },
+    {
+      "sentence": "The teacher usually considers the future.",
+      "verb": "considers"
+    },
+    {
+      "sentence": "The children meet my parents today.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "Sarah often chooses the phone.",
+      "verb": "chooses"
+    },
+    {
+      "sentence": "Sarah listens to tennis this week.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "Emma walks to the beach.",
+      "verb": "walks"
+    },
+    {
+      "sentence": "The dog usually contacts the team.",
+      "verb": "contacts"
+    },
+    {
+      "sentence": "She usually goes to the beach.",
+      "verb": "goes"
+    },
+    {
+      "sentence": "The manager remembers the decision.",
+      "verb": "remembers"
+    },
+    {
+      "sentence": "The company usually remembers the meeting.",
+      "verb": "remembers"
+    },
+    {
+      "sentence": "The dog returns to work currently.",
+      "verb": "returns"
+    },
+    {
+      "sentence": "We find the ticket at the moment.",
+      "verb": "find"
+    },
+    {
+      "sentence": "She usually finds a book.",
+      "verb": "finds"
+    },
+    {
+      "sentence": "He often submits the task.",
+      "verb": "submits"
+    },
+    {
+      "sentence": "John often writes the report.",
+      "verb": "writes"
+    },
+    {
+      "sentence": "The team often buys a laptop.",
+      "verb": "buys"
+    },
+    {
+      "sentence": "The company usually contacts the neighbors.",
+      "verb": "contacts"
+    },
+    {
+      "sentence": "Our neighbors often return to school.",
+      "verb": "return"
+    },
+    {
+      "sentence": "Our neighbors review the textbook this week.",
+      "verb": "review"
+    },
+    {
+      "sentence": "John usually drinks a salad.",
+      "verb": "drinks"
+    },
+    {
+      "sentence": "The manager often cleans the computer.",
+      "verb": "cleans"
+    },
+    {
+      "sentence": "The bird understands vocabulary today.",
+      "verb": "understands"
+    },
+    {
+      "sentence": "You often walk to the library.",
+      "verb": "walk"
+    },
+    {
+      "sentence": "The cat often submits the email.",
+      "verb": "submits"
+    },
+    {
+      "sentence": "John comes to the gym this week.",
+      "verb": "comes"
+    },
+    {
+      "sentence": "The cat usually sells a new car.",
+      "verb": "sells"
+    },
+    {
+      "sentence": "The children sell a book.",
+      "verb": "sell"
+    },
+    {
+      "sentence": "The manager often practices the chapter.",
+      "verb": "practices"
+    },
+    {
+      "sentence": "We usually receive the email.",
+      "verb": "receive"
+    },
+    {
+      "sentence": "You write the presentation now.",
+      "verb": "write"
+    },
+    {
+      "sentence": "You often write the letter.",
+      "verb": "write"
+    },
+    {
+      "sentence": "We often review English.",
+      "verb": "review"
+    },
+    {
+      "sentence": "The cat often writes the proposal.",
+      "verb": "writes"
+    },
+    {
+      "sentence": "The manager forgets the options now.",
+      "verb": "forgets"
+    },
+    {
+      "sentence": "The cat usually cleans the furniture.",
+      "verb": "cleans"
+    },
+    {
+      "sentence": "I often fix the kitchen.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "Sarah often gets the keys.",
+      "verb": "gets"
+    },
+    {
+      "sentence": "Tom often reads for the exam.",
+      "verb": "reads"
+    },
+    {
+      "sentence": "The dog listens to tennis.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "The team usually forgets the future.",
+      "verb": "forgets"
+    },
+    {
+      "sentence": "Our neighbors leave to the library today.",
+      "verb": "leave"
+    },
+    {
+      "sentence": "My parents consider the event today.",
+      "verb": "consider"
+    },
+    {
+      "sentence": "John usually leaves to the park.",
+      "verb": "leaves"
+    },
+    {
+      "sentence": "Our neighbors read science.",
+      "verb": "read"
+    },
+    {
+      "sentence": "John usually listens to the game.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "The bird understands history.",
+      "verb": "understands"
+    },
+    {
+      "sentence": "The team usually flies to the office.",
+      "verb": "flies"
+    },
+    {
+      "sentence": "We usually play music.",
+      "verb": "play"
+    },
+    {
+      "sentence": "The cat often draws the car.",
+      "verb": "draws"
+    },
+    {
+      "sentence": "The team teaches science today.",
+      "verb": "teaches"
+    },
+    {
+      "sentence": "Her sister often submits the email.",
+      "verb": "submits"
+    },
+    {
+      "sentence": "Tom often walks to the beach.",
+      "verb": "walks"
+    },
+    {
+      "sentence": "She usually starts the project.",
+      "verb": "starts"
+    },
+    {
+      "sentence": "Our neighbors often build the car.",
+      "verb": "build"
+    },
+    {
+      "sentence": "I usually teach for the exam.",
+      "verb": "teach"
+    },
+    {
+      "sentence": "John usually thinks about the vacation.",
+      "verb": "thinks"
+    },
+    {
+      "sentence": "The children often get the ticket.",
+      "verb": "get"
+    },
+    {
+      "sentence": "I often call the doctor.",
+      "verb": "call"
+    },
+    {
+      "sentence": "Emma studies English at the moment.",
+      "verb": "studies"
+    },
+    {
+      "sentence": "He often eats a sandwich.",
+      "verb": "eats"
+    },
+    {
+      "sentence": "Her sister often paints the house.",
+      "verb": "paints"
+    },
+    {
+      "sentence": "The students usually buy a laptop.",
+      "verb": "buy"
+    },
+    {
+      "sentence": "They usually finish the document.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "The bird usually studies the textbook.",
+      "verb": "studies"
+    },
+    {
+      "sentence": "Her sister speaks the neighbors at the moment.",
+      "verb": "speaks"
+    },
+    {
+      "sentence": "The company often considers the meeting.",
+      "verb": "considers"
+    },
+    {
+      "sentence": "Our neighbors often buy a gift.",
+      "verb": "buy"
+    },
+    {
+      "sentence": "We usually sell a gift.",
+      "verb": "sell"
+    },
+    {
+      "sentence": "You usually design the garden.",
+      "verb": "design"
+    },
+    {
+      "sentence": "They forget the situation today.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "They usually plan the future.",
+      "verb": "plan"
+    },
+    {
+      "sentence": "We forget the options today.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "John repairs the bathroom at the moment.",
+      "verb": "repairs"
+    },
+    {
+      "sentence": "We often choose flowers.",
+      "verb": "choose"
+    },
+    {
+      "sentence": "My brother usually repairs the room.",
+      "verb": "repairs"
+    },
+    {
+      "sentence": "Sarah usually paints the bathroom.",
+      "verb": "paints"
+    },
+    {
+      "sentence": "My brother completes the letter right now.",
+      "verb": "completes"
+    },
+    {
+      "sentence": "The manager usually speaks the manager.",
+      "verb": "speaks"
+    },
+    {
+      "sentence": "I usually watch basketball.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "The dog often listens to TV.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "The dog often returns to the airport.",
+      "verb": "returns"
+    },
+    {
+      "sentence": "She receives the contract this week.",
+      "verb": "receives"
+    },
+    {
+      "sentence": "She usually returns to school.",
+      "verb": "returns"
+    },
+    {
+      "sentence": "Her sister studies Spanish.",
+      "verb": "studies"
+    },
+    {
+      "sentence": "The team often contacts the teacher.",
+      "verb": "contacts"
+    },
+    {
+      "sentence": "The company often meets my friend.",
+      "verb": "meets"
+    },
+    {
+      "sentence": "You usually watch music.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "The teacher usually fixes a picture.",
+      "verb": "fixes"
+    },
+    {
+      "sentence": "He plans the problem this week.",
+      "verb": "plans"
+    },
+    {
+      "sentence": "I usually complete the letter.",
+      "verb": "complete"
+    },
+    {
+      "sentence": "The team flies downtown today.",
+      "verb": "flies"
+    },
+    {
+      "sentence": "The bird often eats coffee.",
+      "verb": "eats"
+    },
+    {
+      "sentence": "Emma often runs to the gym.",
+      "verb": "runs"
+    },
+    {
+      "sentence": "He repairs a website.",
+      "verb": "repairs"
+    },
+    {
+      "sentence": "My brother often writes the letter.",
+      "verb": "writes"
+    },
+    {
+      "sentence": "Sarah usually walks downtown.",
+      "verb": "walks"
+    },
+    {
+      "sentence": "My brother usually enjoys the news.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "She often plans the problem.",
+      "verb": "plans"
+    },
+    {
+      "sentence": "The students usually cook coffee.",
+      "verb": "cook"
+    },
+    {
+      "sentence": "My brother often finds a book.",
+      "verb": "finds"
+    },
+    {
+      "sentence": "We drink juice right now.",
+      "verb": "drink"
+    },
+    {
+      "sentence": "He builds the computer now.",
+      "verb": "builds"
+    },
+    {
+      "sentence": "He usually thinks about the future.",
+      "verb": "thinks"
+    },
+    {
+      "sentence": "Tom usually reviews for the exam.",
+      "verb": "reviews"
+    },
+    {
+      "sentence": "Sarah usually eats pasta.",
+      "verb": "eats"
+    },
+    {
+      "sentence": "John usually watches a podcast.",
+      "verb": "watches"
+    },
+    {
+      "sentence": "He often teaches vocabulary.",
+      "verb": "teaches"
+    },
+    {
+      "sentence": "My friend often enjoys a video.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "John usually visits the boss.",
+      "verb": "visits"
+    },
+    {
+      "sentence": "The teacher often builds the computer.",
+      "verb": "builds"
+    },
+    {
+      "sentence": "The company often understands the chapter.",
+      "verb": "understands"
+    },
+    {
+      "sentence": "She often enjoys a song.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "Our neighbors often make soup.",
+      "verb": "make"
+    },
+    {
+      "sentence": "The teacher usually drives to the park.",
+      "verb": "drives"
+    },
+    {
+      "sentence": "John usually starts the presentation.",
+      "verb": "starts"
+    },
+    {
+      "sentence": "They usually receive the contract.",
+      "verb": "receive"
+    },
+    {
+      "sentence": "The dog often enjoys a sandwich.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "The students play TV today.",
+      "verb": "play"
+    },
+    {
+      "sentence": "Sarah often plays a movie.",
+      "verb": "plays"
+    },
+    {
+      "sentence": "She often listens to the game.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "Our neighbors usually build the car.",
+      "verb": "build"
+    },
+    {
+      "sentence": "My brother usually eats tea.",
+      "verb": "eats"
+    },
+    {
+      "sentence": "The company draws a website now.",
+      "verb": "draws"
+    },
+    {
+      "sentence": "The manager usually meets the boss.",
+      "verb": "meets"
+    },
+    {
+      "sentence": "The children usually run to the park.",
+      "verb": "run"
+    },
+    {
+      "sentence": "The company usually finishes the task.",
+      "verb": "finishes"
+    },
+    {
+      "sentence": "You understand the textbook today.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "We often leave to the office.",
+      "verb": "leave"
+    },
+    {
+      "sentence": "Emma usually comes to school.",
+      "verb": "comes"
+    },
+    {
+      "sentence": "Emma usually leaves to the office.",
+      "verb": "leaves"
+    },
+    {
+      "sentence": "The dog usually draws the garden.",
+      "verb": "draws"
+    },
+    {
+      "sentence": "I buy a gift today.",
+      "verb": "buy"
+    },
+    {
+      "sentence": "The team usually gets a gift.",
+      "verb": "gets"
+    },
+    {
+      "sentence": "The students drink coffee at the moment.",
+      "verb": "drink"
+    },
+    {
+      "sentence": "My friend often sells groceries.",
+      "verb": "sells"
+    },
+    {
+      "sentence": "My friend often paints the room.",
+      "verb": "paints"
+    },
+    {
+      "sentence": "The company usually sells a new car.",
+      "verb": "sells"
+    },
+    {
+      "sentence": "Tom sells the phone at the moment.",
+      "verb": "sells"
+    },
+    {
+      "sentence": "The children usually find the phone.",
+      "verb": "find"
+    },
+    {
+      "sentence": "I often finish the task.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "She often starts the assignment.",
+      "verb": "starts"
+    },
+    {
+      "sentence": "John visits the client at the moment.",
+      "verb": "visits"
+    },
+    {
+      "sentence": "We choose a new car now.",
+      "verb": "choose"
+    },
+    {
+      "sentence": "Sarah drinks a sandwich.",
+      "verb": "drinks"
+    },
+    {
+      "sentence": "Emma often listens to tennis.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "He cleans the kitchen now.",
+      "verb": "cleans"
+    },
+    {
+      "sentence": "John usually calls the client.",
+      "verb": "calls"
+    },
+    {
+      "sentence": "Sarah studies science now.",
+      "verb": "studies"
+    },
+    {
+      "sentence": "The children often choose a laptop.",
+      "verb": "choose"
+    },
+    {
+      "sentence": "Emma often enjoys pizza.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "Her sister enjoys a song right now.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "Emma often chooses a new car.",
+      "verb": "chooses"
+    },
+    {
+      "sentence": "My friend usually considers the options.",
+      "verb": "considers"
+    },
+    {
+      "sentence": "The children often write the application.",
+      "verb": "write"
+    },
+    {
+      "sentence": "Tom cleans a picture right now.",
+      "verb": "cleans"
+    },
+    {
+      "sentence": "You usually understand vocabulary.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "Sarah often studies grammar.",
+      "verb": "studies"
+    },
+    {
+      "sentence": "They run to school.",
+      "verb": "run"
+    },
+    {
+      "sentence": "You often drink breakfast.",
+      "verb": "drink"
+    },
+    {
+      "sentence": "The dog often sells the phone.",
+      "verb": "sells"
+    },
+    {
+      "sentence": "She learns history.",
+      "verb": "learns"
+    },
+    {
+      "sentence": "The teacher often buys a book.",
+      "verb": "buys"
+    },
+    {
+      "sentence": "My brother paints a picture.",
+      "verb": "paints"
+    },
+    {
+      "sentence": "Tom usually practices science.",
+      "verb": "practices"
+    },
+    {
+      "sentence": "Our neighbors meet my parents this week.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "The manager repairs a picture now.",
+      "verb": "repairs"
+    },
+    {
+      "sentence": "The cat often talks the neighbors.",
+      "verb": "talks"
+    },
+    {
+      "sentence": "John usually forgets the options.",
+      "verb": "forgets"
+    },
+    {
+      "sentence": "Emma often sells clothes.",
+      "verb": "sells"
+    },
+    {
+      "sentence": "The bird eats tea right now.",
+      "verb": "eats"
+    },
+    {
+      "sentence": "The team usually drinks lunch.",
+      "verb": "drinks"
+    },
+    {
+      "sentence": "My parents usually write the report.",
+      "verb": "write"
+    },
+    {
+      "sentence": "The bird usually chooses a new car.",
+      "verb": "chooses"
+    },
+    {
+      "sentence": "My friend usually understands English.",
+      "verb": "understands"
+    },
+    {
+      "sentence": "The students often speak the client.",
+      "verb": "speak"
+    },
+    {
+      "sentence": "My parents often send the document.",
+      "verb": "send"
+    },
+    {
+      "sentence": "The teacher often watches the news.",
+      "verb": "watches"
+    },
+    {
+      "sentence": "The students often start the letter.",
+      "verb": "start"
+    },
+    {
+      "sentence": "My brother plays music currently.",
+      "verb": "plays"
+    },
+    {
+      "sentence": "They often call the neighbors.",
+      "verb": "call"
+    },
+    {
+      "sentence": "I often build the kitchen.",
+      "verb": "build"
+    },
+    {
+      "sentence": "My parents often listen to a podcast.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "The children often drive to the beach.",
+      "verb": "drive"
+    },
+    {
+      "sentence": "The children usually paint the room.",
+      "verb": "paint"
+    },
+    {
+      "sentence": "Sarah often visits the team.",
+      "verb": "visits"
+    },
+    {
+      "sentence": "My brother usually meets the teacher.",
+      "verb": "meets"
+    },
+    {
+      "sentence": "John finishes the document at the moment.",
+      "verb": "finishes"
+    },
+    {
+      "sentence": "Our neighbors often prepare coffee.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "The team usually thinks about the situation.",
+      "verb": "thinks"
+    },
+    {
+      "sentence": "She listens to music today.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "The cat often orders a salad.",
+      "verb": "orders"
+    },
+    {
+      "sentence": "I often meet the boss.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "The company listens to a movie at the moment.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "We send the letter.",
+      "verb": "send"
+    },
+    {
+      "sentence": "The teacher plays the news currently.",
+      "verb": "plays"
+    },
+    {
+      "sentence": "They study vocabulary.",
+      "verb": "study"
+    },
+    {
+      "sentence": "I usually remember the problem.",
+      "verb": "remember"
+    },
+    {
+      "sentence": "Sarah usually paints a website.",
+      "verb": "paints"
+    },
+    {
+      "sentence": "My parents make tea.",
+      "verb": "make"
+    },
+    {
+      "sentence": "The teacher often chooses a present.",
+      "verb": "chooses"
+    },
+    {
+      "sentence": "John usually completes the report.",
+      "verb": "completes"
+    },
+    {
+      "sentence": "Our neighbors usually design the kitchen.",
+      "verb": "design"
+    },
+    {
+      "sentence": "The bird often drives to school.",
+      "verb": "drives"
+    },
+    {
+      "sentence": "They often understand history.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "The team usually listens to basketball.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "The cat often gets the phone.",
+      "verb": "gets"
+    },
+    {
+      "sentence": "Her sister usually arrives to the library.",
+      "verb": "arrives"
+    },
+    {
+      "sentence": "The teacher builds the house now.",
+      "verb": "builds"
+    },
+    {
+      "sentence": "I usually forget the problem.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "John calls my family currently.",
+      "verb": "calls"
+    },
+    {
+      "sentence": "Tom usually reviews English.",
+      "verb": "reviews"
+    },
+    {
+      "sentence": "The teacher usually reads Spanish.",
+      "verb": "reads"
+    },
+    {
+      "sentence": "Her sister usually drinks a snack.",
+      "verb": "drinks"
+    },
+    {
+      "sentence": "The dog plays the news at the moment.",
+      "verb": "plays"
+    },
+    {
+      "sentence": "The students review the chapter this week.",
+      "verb": "review"
+    },
+    {
+      "sentence": "Emma often remembers the decision.",
+      "verb": "remembers"
+    },
+    {
+      "sentence": "My brother often learns English.",
+      "verb": "learns"
+    },
+    {
+      "sentence": "I usually plan the situation.",
+      "verb": "plan"
+    },
+    {
+      "sentence": "They usually find a new car.",
+      "verb": "find"
+    },
+    {
+      "sentence": "Our neighbors paint a picture at the moment.",
+      "verb": "paint"
+    },
+    {
+      "sentence": "Emma often teaches Spanish.",
+      "verb": "teaches"
+    },
+    {
+      "sentence": "We often enjoy football.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "The cat usually calls the team.",
+      "verb": "calls"
+    },
+    {
+      "sentence": "My parents usually remember the future.",
+      "verb": "remember"
+    },
+    {
+      "sentence": "Emma often visits my family.",
+      "verb": "visits"
+    },
+    {
+      "sentence": "The company often sends the email.",
+      "verb": "sends"
+    },
+    {
+      "sentence": "The students often send the application.",
+      "verb": "send"
+    },
+    {
+      "sentence": "Our neighbors study vocabulary.",
+      "verb": "study"
+    },
+    {
+      "sentence": "The teacher usually completes the contract.",
+      "verb": "completes"
+    },
+    {
+      "sentence": "The cat often listens to basketball.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "The team often enjoys a documentary.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "The students usually receive the project.",
+      "verb": "receive"
+    },
+    {
+      "sentence": "I usually meet the boss.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "The cat repairs the bathroom now.",
+      "verb": "repairs"
+    },
+    {
+      "sentence": "The dog usually gets a book.",
+      "verb": "gets"
+    },
+    {
+      "sentence": "She often plays a movie.",
+      "verb": "plays"
+    },
+    {
+      "sentence": "She usually enjoys juice.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "Tom writes the project right now.",
+      "verb": "writes"
+    },
+    {
+      "sentence": "She sells groceries this week.",
+      "verb": "sells"
+    },
+    {
+      "sentence": "The company runs downtown today.",
+      "verb": "runs"
+    },
+    {
+      "sentence": "We clean a website today.",
+      "verb": "clean"
+    },
+    {
+      "sentence": "Her sister often submits the task.",
+      "verb": "submits"
+    },
+    {
+      "sentence": "Emma often enjoys a podcast.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "Tom considers the situation right now.",
+      "verb": "considers"
+    },
+    {
+      "sentence": "The dog speaks my family right now.",
+      "verb": "speaks"
+    },
+    {
+      "sentence": "Emma meets the client now.",
+      "verb": "meets"
+    },
+    {
+      "sentence": "He meets my parents at the moment.",
+      "verb": "meets"
+    },
+    {
+      "sentence": "He often drinks pasta.",
+      "verb": "drinks"
+    },
+    {
+      "sentence": "My brother remembers the options at the moment.",
+      "verb": "remembers"
+    },
+    {
+      "sentence": "The children write the document today.",
+      "verb": "write"
+    },
+    {
+      "sentence": "My brother often visits the manager.",
+      "verb": "visits"
+    },
+    {
+      "sentence": "My friend often contacts the boss.",
+      "verb": "contacts"
+    },
+    {
+      "sentence": "Tom often completes the email.",
+      "verb": "completes"
+    },
+    {
+      "sentence": "The manager often considers the event.",
+      "verb": "considers"
+    },
+    {
+      "sentence": "Emma usually forgets the event.",
+      "verb": "forgets"
+    },
+    {
+      "sentence": "We often listen to the game.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "Her sister usually drives home.",
+      "verb": "drives"
+    },
+    {
+      "sentence": "Sarah understands Spanish at the moment.",
+      "verb": "understands"
+    },
+    {
+      "sentence": "They usually prepare breakfast.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "My parents often enjoy a documentary.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "She often calls my parents.",
+      "verb": "calls"
+    },
+    {
+      "sentence": "The dog often watches a podcast.",
+      "verb": "watches"
+    },
+    {
+      "sentence": "Emma plays music today.",
+      "verb": "plays"
+    },
+    {
+      "sentence": "The team submits the project today.",
+      "verb": "submits"
+    },
+    {
+      "sentence": "The teacher usually cooks coffee.",
+      "verb": "cooks"
+    },
+    {
+      "sentence": "She usually learns French.",
+      "verb": "learns"
+    },
+    {
+      "sentence": "Sarah gets clothes at the moment.",
+      "verb": "gets"
+    },
+    {
+      "sentence": "She writes the letter today.",
+      "verb": "writes"
+    },
+    {
+      "sentence": "John reads English currently.",
+      "verb": "reads"
+    },
+    {
+      "sentence": "The cat usually fixes a picture.",
+      "verb": "fixes"
+    },
+    {
+      "sentence": "The children usually cook juice.",
+      "verb": "cook"
+    },
+    {
+      "sentence": "My friend reviews grammar today.",
+      "verb": "reviews"
+    },
+    {
+      "sentence": "They sell groceries this week.",
+      "verb": "sell"
+    },
+    {
+      "sentence": "The students usually consider the event.",
+      "verb": "consider"
+    },
+    {
+      "sentence": "You teach French today.",
+      "verb": "teach"
+    },
+    {
+      "sentence": "Tom often fixes the furniture.",
+      "verb": "fixes"
+    },
+    {
+      "sentence": "John usually meets my friend.",
+      "verb": "meets"
+    },
+    {
+      "sentence": "He often paints the furniture.",
+      "verb": "paints"
+    },
+    {
+      "sentence": "The dog chooses groceries currently.",
+      "verb": "chooses"
+    },
+    {
+      "sentence": "My brother thinks about the trip.",
+      "verb": "thinks"
+    },
+    {
+      "sentence": "The company usually forgets the options.",
+      "verb": "forgets"
+    },
+    {
+      "sentence": "Sarah often finishes the report.",
+      "verb": "finishes"
+    },
+    {
+      "sentence": "Our neighbors speak my friend.",
+      "verb": "speak"
+    },
+    {
+      "sentence": "Her sister leaves to the airport this week.",
+      "verb": "leaves"
+    },
+    {
+      "sentence": "My parents often enjoy a song.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "The students arrive to the store today.",
+      "verb": "arrive"
+    },
+    {
+      "sentence": "My parents usually find the ticket.",
+      "verb": "find"
+    },
+    {
+      "sentence": "My brother usually talks the neighbors.",
+      "verb": "talks"
+    },
+    {
+      "sentence": "The cat often starts the document.",
+      "verb": "starts"
+    },
+    {
+      "sentence": "I often enjoy tea.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "Emma chooses the phone right now.",
+      "verb": "chooses"
+    },
+    {
+      "sentence": "The team usually considers the problem.",
+      "verb": "considers"
+    },
+    {
+      "sentence": "She buys the ticket right now.",
+      "verb": "buys"
+    },
+    {
+      "sentence": "The team often makes juice.",
+      "verb": "makes"
+    },
+    {
+      "sentence": "He gives clothes.",
+      "verb": "gives"
+    },
+    {
+      "sentence": "The dog buys a laptop now.",
+      "verb": "buys"
+    },
+    {
+      "sentence": "They drive to the store currently.",
+      "verb": "drive"
+    },
+    {
+      "sentence": "Her sister often thinks about the event.",
+      "verb": "thinks"
+    },
+    {
+      "sentence": "Sarah often sends the application.",
+      "verb": "sends"
+    },
+    {
+      "sentence": "He usually draws the computer.",
+      "verb": "draws"
+    },
+    {
+      "sentence": "John often contacts the boss.",
+      "verb": "contacts"
+    },
+    {
+      "sentence": "The dog usually practices English.",
+      "verb": "practices"
+    },
+    {
+      "sentence": "The teacher often thinks about the event.",
+      "verb": "thinks"
+    },
+    {
+      "sentence": "Tom usually understands the textbook.",
+      "verb": "understands"
+    },
+    {
+      "sentence": "We usually draw the computer.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "You enjoy tennis today.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "The team usually gives groceries.",
+      "verb": "gives"
+    },
+    {
+      "sentence": "He contacts the client.",
+      "verb": "contacts"
+    },
+    {
+      "sentence": "The dog usually gives a gift.",
+      "verb": "gives"
+    },
+    {
+      "sentence": "The students usually get the ticket.",
+      "verb": "get"
+    },
+    {
+      "sentence": "John gets the phone right now.",
+      "verb": "gets"
+    },
+    {
+      "sentence": "You speak the doctor right now.",
+      "verb": "speak"
+    },
+    {
+      "sentence": "The dog usually plans the options.",
+      "verb": "plans"
+    },
+    {
+      "sentence": "I often eat lunch.",
+      "verb": "eat"
+    },
+    {
+      "sentence": "The dog often submits the report.",
+      "verb": "submits"
+    },
+    {
+      "sentence": "The company often studies the chapter.",
+      "verb": "studies"
+    },
+    {
+      "sentence": "John often learns vocabulary.",
+      "verb": "learns"
+    },
+    {
+      "sentence": "We often listen to a podcast.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "We often complete the letter.",
+      "verb": "complete"
+    },
+    {
+      "sentence": "The dog often eats juice.",
+      "verb": "eats"
+    },
+    {
+      "sentence": "The manager often speaks the doctor.",
+      "verb": "speaks"
+    },
+    {
+      "sentence": "My friend enjoys a documentary today.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "My brother often speaks the doctor.",
+      "verb": "speaks"
+    },
+    {
+      "sentence": "I get flowers today.",
+      "verb": "get"
+    },
+    {
+      "sentence": "The children usually understand the textbook.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "Sarah usually leaves to school.",
+      "verb": "leaves"
+    },
+    {
+      "sentence": "Emma often cleans the computer.",
+      "verb": "cleans"
+    },
+    {
+      "sentence": "The children usually receive the project.",
+      "verb": "receive"
+    },
+    {
+      "sentence": "Sarah often submits the report.",
+      "verb": "submits"
+    },
+    {
+      "sentence": "My friend usually learns science.",
+      "verb": "learns"
+    },
+    {
+      "sentence": "My brother often arrives to the park.",
+      "verb": "arrives"
+    },
+    {
+      "sentence": "The teacher usually reviews history.",
+      "verb": "reviews"
+    },
+    {
+      "sentence": "Tom often prepares breakfast.",
+      "verb": "prepares"
+    },
+    {
+      "sentence": "Her sister often runs to the office.",
+      "verb": "runs"
+    },
+    {
+      "sentence": "The teacher usually practices history.",
+      "verb": "practices"
+    },
+    {
+      "sentence": "My friend drinks tea right now.",
+      "verb": "drinks"
+    },
+    {
+      "sentence": "My friend usually walks to the library.",
+      "verb": "walks"
+    },
+    {
+      "sentence": "Her sister usually forgets the future.",
+      "verb": "forgets"
+    },
+    {
+      "sentence": "The children usually clean the furniture.",
+      "verb": "clean"
+    },
+    {
+      "sentence": "You speak the doctor at the moment.",
+      "verb": "speak"
+    },
+    {
+      "sentence": "My brother talks my family today.",
+      "verb": "talks"
+    },
+    {
+      "sentence": "Our neighbors usually order pizza.",
+      "verb": "order"
+    },
+    {
+      "sentence": "Sarah makes pasta right now.",
+      "verb": "makes"
+    },
+    {
+      "sentence": "The team often goes to the beach.",
+      "verb": "goes"
+    },
+    {
+      "sentence": "Our neighbors design the computer now.",
+      "verb": "design"
+    },
+    {
+      "sentence": "My brother usually flies to the beach.",
+      "verb": "flies"
+    },
+    {
+      "sentence": "She usually understands vocabulary.",
+      "verb": "understands"
+    },
+    {
+      "sentence": "Sarah designs a website today.",
+      "verb": "designs"
+    },
+    {
+      "sentence": "John learns the chapter now.",
+      "verb": "learns"
+    },
+    {
+      "sentence": "He usually enjoys a podcast.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "I usually meet the team.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "They arrive to the library now.",
+      "verb": "arrive"
+    },
+    {
+      "sentence": "You often submit the proposal.",
+      "verb": "submit"
+    },
+    {
+      "sentence": "She teaches grammar now.",
+      "verb": "teaches"
+    },
+    {
+      "sentence": "Tom usually learns French.",
+      "verb": "learns"
+    },
+    {
+      "sentence": "My brother usually sends the application.",
+      "verb": "sends"
+    },
+    {
+      "sentence": "The students often clean the car.",
+      "verb": "clean"
+    },
+    {
+      "sentence": "Our neighbors usually order juice.",
+      "verb": "order"
+    },
+    {
+      "sentence": "I listen to football right now.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "The bird often buys a book.",
+      "verb": "buys"
+    },
+    {
+      "sentence": "My parents forget the event at the moment.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "The teacher often gets the ticket.",
+      "verb": "gets"
+    },
+    {
+      "sentence": "My friend often thinks about the birthday.",
+      "verb": "thinks"
+    },
+    {
+      "sentence": "The cat usually writes the document.",
+      "verb": "writes"
+    },
+    {
+      "sentence": "The teacher usually flies to the store.",
+      "verb": "flies"
+    },
+    {
+      "sentence": "My friend watches football this week.",
+      "verb": "watches"
+    },
+    {
+      "sentence": "The teacher enjoys tea currently.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "My brother usually reads vocabulary.",
+      "verb": "reads"
+    },
+    {
+      "sentence": "The company often writes the assignment.",
+      "verb": "writes"
+    },
+    {
+      "sentence": "The bird often repairs the house.",
+      "verb": "repairs"
+    },
+    {
+      "sentence": "My brother often watches a podcast.",
+      "verb": "watches"
+    },
+    {
+      "sentence": "John visits my friend.",
+      "verb": "visits"
+    },
+    {
+      "sentence": "The team usually gives a gift.",
+      "verb": "gives"
+    },
+    {
+      "sentence": "Her sister often studies science.",
+      "verb": "studies"
+    },
+    {
+      "sentence": "I often contact the team.",
+      "verb": "contact"
+    },
+    {
+      "sentence": "The teacher returns to the beach at the moment.",
+      "verb": "returns"
+    },
+    {
+      "sentence": "You usually receive the document.",
+      "verb": "receive"
+    },
+    {
+      "sentence": "They usually watch the game.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "She often designs a picture.",
+      "verb": "designs"
+    },
+    {
+      "sentence": "John usually considers the options.",
+      "verb": "considers"
+    },
+    {
+      "sentence": "The manager meets my family today.",
+      "verb": "meets"
+    },
+    {
+      "sentence": "My friend often teaches the textbook.",
+      "verb": "teaches"
+    },
+    {
+      "sentence": "Tom speaks my parents today.",
+      "verb": "speaks"
+    },
+    {
+      "sentence": "The team often cleans the kitchen.",
+      "verb": "cleans"
+    },
+    {
+      "sentence": "I usually eat coffee.",
+      "verb": "eat"
+    },
+    {
+      "sentence": "My parents often write the contract.",
+      "verb": "write"
+    },
+    {
+      "sentence": "Sarah often builds the car.",
+      "verb": "builds"
+    },
+    {
+      "sentence": "I often build the house.",
+      "verb": "build"
+    },
+    {
+      "sentence": "I think about the trip this week.",
+      "verb": "think"
+    },
+    {
+      "sentence": "The company often watches a movie.",
+      "verb": "watches"
+    },
+    {
+      "sentence": "Sarah cooks coffee at the moment.",
+      "verb": "cooks"
+    },
+    {
+      "sentence": "My parents usually finish the document.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "He makes a salad.",
+      "verb": "makes"
+    },
+    {
+      "sentence": "The team reads English right now.",
+      "verb": "reads"
+    },
+    {
+      "sentence": "The children finish the presentation right now.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "The teacher usually learns the textbook.",
+      "verb": "learns"
+    },
+    {
+      "sentence": "John often leaves to the airport.",
+      "verb": "leaves"
+    },
+    {
+      "sentence": "The company usually builds the house.",
+      "verb": "builds"
+    },
+    {
+      "sentence": "The children often send the report.",
+      "verb": "send"
+    },
+    {
+      "sentence": "We often design the car.",
+      "verb": "design"
+    },
+    {
+      "sentence": "We usually sell flowers.",
+      "verb": "sell"
+    },
+    {
+      "sentence": "Our neighbors often finish the letter.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "The company fixes the car at the moment.",
+      "verb": "fixes"
+    },
+    {
+      "sentence": "Our neighbors usually prepare a salad.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "Our neighbors order soup today.",
+      "verb": "order"
+    },
+    {
+      "sentence": "Emma often buys a laptop.",
+      "verb": "buys"
+    },
+    {
+      "sentence": "The dog often eats a snack.",
+      "verb": "eats"
+    },
+    {
+      "sentence": "Sarah usually enjoys the game.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "The dog often forgets the options.",
+      "verb": "forgets"
+    },
+    {
+      "sentence": "He often listens to a podcast.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "My friend usually receives the document.",
+      "verb": "receives"
+    },
+    {
+      "sentence": "The cat visits the neighbors right now.",
+      "verb": "visits"
+    },
+    {
+      "sentence": "The bird returns to the gym right now.",
+      "verb": "returns"
+    },
+    {
+      "sentence": "The manager usually draws the furniture.",
+      "verb": "draws"
+    },
+    {
+      "sentence": "You draw a picture right now.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "She often enjoys a podcast.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "I design the house this week.",
+      "verb": "design"
+    },
+    {
+      "sentence": "Her sister often orders pasta.",
+      "verb": "orders"
+    },
+    {
+      "sentence": "Emma visits the team at the moment.",
+      "verb": "visits"
+    },
+    {
+      "sentence": "The children submit the document now.",
+      "verb": "submit"
+    },
+    {
+      "sentence": "Tom contacts the manager.",
+      "verb": "contacts"
+    },
+    {
+      "sentence": "Our neighbors usually give clothes.",
+      "verb": "give"
+    },
+    {
+      "sentence": "The bird often enjoys a video.",
+      "verb": "enjoys"
+    },
+    {
+      "sentence": "Emma usually listens to basketball.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "Our neighbors often forget the birthday.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "She often studies French.",
+      "verb": "studies"
+    },
+    {
+      "sentence": "The children order a sandwich today.",
+      "verb": "order"
+    },
+    {
+      "sentence": "The manager often listens to a song.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "She usually listens to music.",
+      "verb": "listens"
+    },
+    {
+      "sentence": "The manager usually sends the letter.",
+      "verb": "sends"
+    },
+    {
+      "sentence": "They often plan the trip.",
+      "verb": "plan"
+    },
+    {
+      "sentence": "He usually meets the client.",
+      "verb": "meets"
+    },
+    {
+      "sentence": "My brother usually sends the email.",
+      "verb": "sends"
+    },
+    {
+      "sentence": "My parents often leave to school.",
+      "verb": "leave"
+    },
+    {
+      "sentence": "I contact the client this week.",
+      "verb": "contact"
+    },
+    {
+      "sentence": "They often talk the client.",
+      "verb": "talk"
+    }
+  ]
+}

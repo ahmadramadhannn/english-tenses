@@ -1,0 +1,2006 @@
+{
+  "tense": "Present Perfect Continuous",
+  "description": "Used for actions that started in the past and continue to the present",
+  "examples": [
+    {
+      "sentence": "The manager has been talking the teacher for a month.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "She has been playing tennis for three days.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The company has been studying the textbook recently.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "They have been calling the client lately.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "My friend has been forgetting the future lately.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "The manager has been playing a movie recently.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The cat has been drawing the car lately.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "The cat has been speaking the doctor all day.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "The bird has been calling the doctor lately.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "Her sister has been forgetting the situation lately.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "They have been drawing the bathroom recently.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "My parents have been understanding grammar for two hours.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "Emma has been leaving to the airport recently.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "The teacher has been selling a book for a week.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "I have been finishing the task lately.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "My brother has been building a website lately.",
+      "verb": "building"
+    },
+    {
+      "sentence": "She has been listening to a podcast lately.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "They have been considering the options lately.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "My parents have been choosing clothes recently.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "Sarah has been giving the keys recently.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The children have been listening to music lately.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The manager has been studying Spanish recently.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "My friend has been finishing the letter lately.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "The dog has been listening to basketball lately.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The team has been enjoying the game lately.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The manager has been writing the letter recently.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "My brother has been forgetting the options since yesterday.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "The bird has been buying a present lately.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "My friend has been studying the chapter recently.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "He has been sending the task lately.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "The teacher has been forgetting the event recently.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "My friend has been enjoying a movie all week.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The teacher has been calling my parents lately.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "The bird has been eating soup for two hours.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "We have been playing TV recently.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The bird has been coming to the office for three days.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "You have been making soup for a month.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The manager has been enjoying a snack lately.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "They have been understanding Spanish lately.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "The dog has been enjoying the news lately.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Tom has been coming to the market recently.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "The teacher has been talking my parents lately.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "My friend has been finding a book recently.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "He has been enjoying juice recently.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The cat has been completing the letter recently.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "Emma has been reviewing mathematics since Monday.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "She has been submitting the proposal since Monday.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "We have been drinking dinner lately.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "My friend has been speaking my friend for two hours.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "My parents have been considering the options since yesterday.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "The team has been walking to the park lately.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "Our neighbors have been making lunch for years.",
+      "verb": "making"
+    },
+    {
+      "sentence": "John has been receiving the presentation since yesterday.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "The dog has been receiving the project since yesterday.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "They have been planning the event lately.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Our neighbors have been going to the store recently.",
+      "verb": "going"
+    },
+    {
+      "sentence": "The team has been listening to TV recently.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Sarah has been receiving the report since Monday.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "She has been going to work lately.",
+      "verb": "going"
+    },
+    {
+      "sentence": "The children have been driving to the market for years.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "The dog has been visiting the doctor all week.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "The children have been driving to school recently.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "The children have been starting the contract recently.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "We have been planning the options since yesterday.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The manager has been studying vocabulary recently.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "John has been enjoying football for three days.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "My brother has been thinking about the vacation lately.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "The teacher has been completing the presentation recently.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "He has been cooking lunch all day.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "They have been cleaning a website lately.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "The children have been enjoying the news lately.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "My friend has been calling the team since Monday.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "John has been driving to the park for three days.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "I have been starting the assignment lately.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "The company has been teaching the chapter since morning.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "The cat has been receiving the proposal lately.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "The children have been playing football lately.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The teacher has been talking the manager for three days.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "My friend has been drinking pizza lately.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "You have been playing a movie recently.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "She has been arriving to school lately.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "Her sister has been leaving to the store recently.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "The cat has been receiving the proposal since Monday.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "My brother has been calling the manager lately.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "She has been drawing the computer recently.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "My brother has been visiting the teacher for a week.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "The dog has been walking to school lately.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "Tom has been building a website recently.",
+      "verb": "building"
+    },
+    {
+      "sentence": "John has been remembering the meeting lately.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "We have been thinking about the meeting lately.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "The cat has been considering the situation recently.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "You have been leaving to the park for three days.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "The dog has been arriving to school recently.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "The teacher has been painting the furniture lately.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "Emma has been walking home for years.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "The teacher has been enjoying a movie lately.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Sarah has been selling the ticket since morning.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "He has been contacting the boss recently.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "We have been running to the beach for two hours.",
+      "verb": "running"
+    },
+    {
+      "sentence": "The manager has been coming to work lately.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "The manager has been visiting the doctor recently.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "John has been enjoying the game recently.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The dog has been visiting my friend for years.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "You have been starting the contract for a week.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "The team has been visiting the team recently.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "Her sister has been meeting my family for a week.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "The dog has been ordering a salad for two hours.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "Her sister has been thinking about the birthday lately.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Tom has been listening to tennis for years.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The teacher has been studying the lesson recently.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "My friend has been remembering the situation recently.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "We have been visiting the teacher for years.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "The manager has been driving to the gym lately.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "The teacher has been driving to work lately.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "He has been playing basketball for years.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "My brother has been talking the client since morning.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "The cat has been remembering the decision all day.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "My parents have been remembering the meeting lately.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "We have been practicing for the exam recently.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "She has been buying clothes recently.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "The manager has been eating a sandwich since Monday.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The team has been designing the room lately.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "The students have been listening to a song for years.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The children have been reviewing grammar lately.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The manager has been playing a video recently.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "Sarah has been enjoying TV lately.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "She has been getting clothes lately.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "You have been playing the game all day.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The cat has been coming to the market for a month.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "My brother has been finding flowers for two hours.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "The cat has been repairing the furniture lately.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "Emma has been going to the library recently.",
+      "verb": "going"
+    },
+    {
+      "sentence": "The team has been finishing the application for two hours.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "Emma has been selling clothes recently.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "Our neighbors have been building the house recently.",
+      "verb": "building"
+    },
+    {
+      "sentence": "My friend has been meeting my parents recently.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "The cat has been reading French lately.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "The bird has been visiting the boss recently.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "We have been cleaning the house lately.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "John has been meeting my friend recently.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "The dog has been running to the beach for years.",
+      "verb": "running"
+    },
+    {
+      "sentence": "My brother has been planning the vacation recently.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Tom has been considering the birthday since yesterday.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "They have been painting the car lately.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The manager has been listening to football lately.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The teacher has been enjoying basketball recently.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "We have been considering the future lately.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "Our neighbors have been watching football lately.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "They have been playing a video lately.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "Tom has been receiving the letter recently.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "The manager has been enjoying dinner recently.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "John has been playing tennis lately.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "I have been receiving the letter all day.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "Our neighbors have been meeting my parents lately.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "The children have been drinking lunch lately.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The teacher has been preparing a sandwich lately.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "My brother has been choosing groceries recently.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "You have been enjoying a movie lately.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The cat has been listening to the news lately.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "He has been designing the room lately.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "He has been ordering soup recently.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "Tom has been reviewing vocabulary recently.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The dog has been enjoying a snack for a week.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The students have been speaking the boss recently.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "You have been enjoying basketball for years.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "My brother has been drinking breakfast lately.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "She has been practicing Spanish since yesterday.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "Sarah has been finishing the email since morning.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "The teacher has been returning to the airport since Monday.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "Tom has been drinking coffee lately.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The cat has been designing the garden recently.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "The teacher has been finishing the report for a month.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "The students have been choosing the ticket recently.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "The children have been meeting the neighbors for a month.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "The teacher has been practicing vocabulary since Monday.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "The bird has been listening to a video recently.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The company has been starting the presentation recently.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "The cat has been designing the computer lately.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "Sarah has been learning the textbook recently.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "The dog has been making a sandwich lately.",
+      "verb": "making"
+    },
+    {
+      "sentence": "My friend has been visiting my friend since Monday.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "Sarah has been choosing groceries for two hours.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "The children have been walking to the park since morning.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "My friend has been returning to the library for years.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "The company has been playing basketball lately.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "John has been reading the chapter lately.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "The bird has been contacting the boss for a week.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "The team has been getting the phone recently.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "She has been considering the future lately.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "He has been calling my family lately.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "She has been watching tennis recently.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "They have been playing a movie recently.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "We have been giving the ticket recently.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The team has been preparing a sandwich for two hours.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "The manager has been playing TV for three days.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The company has been buying the keys recently.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "Tom has been submitting the project recently.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "The team has been reviewing the chapter recently.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "Tom has been planning the trip recently.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "He has been listening to a movie lately.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "My parents have been thinking about the vacation for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "I have been speaking my family since yesterday.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "My friend has been enjoying soup recently.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "You have been learning English lately.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "He has been listening to football all day.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The bird has been building the computer lately.",
+      "verb": "building"
+    },
+    {
+      "sentence": "They have been planning the vacation lately.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The cat has been fixing the house recently.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "Our neighbors have been calling the neighbors for years.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "My parents have been talking my friend recently.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "The team has been enjoying a podcast all week.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "She has been remembering the meeting lately.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "He has been visiting the neighbors since yesterday.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "The teacher has been walking home lately.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "My parents have been studying vocabulary lately.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "Tom has been driving to work all day.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "The company has been drawing the kitchen recently.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "My parents have been building a picture recently.",
+      "verb": "building"
+    },
+    {
+      "sentence": "The children have been finishing the presentation recently.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "The children have been enjoying the game for two hours.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "She has been thinking about the problem for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "You have been talking the neighbors recently.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "He has been getting a present lately.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "Our neighbors have been drinking a snack lately.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The dog has been remembering the meeting lately.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "The bird has been contacting the boss since Monday.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "My parents have been watching tennis lately.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "Emma has been writing the contract lately.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Our neighbors have been planning the trip for two hours.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "She has been fixing the bathroom recently.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The children have been flying to work recently.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "My friend has been talking the manager lately.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "My parents have been enjoying a song for a month.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "I have been talking my friend all week.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "My brother has been designing the car lately.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "My brother has been coming to the market recently.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "The bird has been sending the assignment for two hours.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "John has been eating a salad for a month.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The team has been cleaning a picture for a month.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "John has been forgetting the event for three days.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "The cat has been building the furniture recently.",
+      "verb": "building"
+    },
+    {
+      "sentence": "Tom has been drinking pizza recently.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The students have been studying vocabulary lately.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "John has been enjoying soup for two hours.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The dog has been walking to the library lately.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "Tom has been making juice all day.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The teacher has been listening to football since morning.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The students have been starting the report lately.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "We have been reviewing the textbook recently.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "Her sister has been coming to the library lately.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "The teacher has been ordering pizza for two hours.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "Sarah has been talking the neighbors recently.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "The company has been understanding French lately.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "He has been enjoying the news for a week.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The dog has been coming to the library lately.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "The students have been drinking breakfast recently.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The bird has been going to work recently.",
+      "verb": "going"
+    },
+    {
+      "sentence": "The company has been receiving the application since yesterday.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "Tom has been drinking dinner for three days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The children have been selling the keys all week.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "The teacher has been forgetting the birthday lately.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "We have been writing the presentation lately.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Our neighbors have been considering the vacation recently.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "Tom has been starting the application recently.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "Emma has been considering the vacation lately.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "My brother has been thinking about the event recently.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Sarah has been enjoying a song lately.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "We have been forgetting the birthday recently.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "My parents have been repairing the kitchen lately.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "You have been understanding for the exam lately.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "Emma has been learning the lesson for years.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "The dog has been choosing the phone recently.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "We have been playing the game recently.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The team has been finding clothes for a week.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "The children have been teaching mathematics for years.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "Tom has been returning downtown recently.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "Tom has been listening to a song recently.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The teacher has been cleaning the furniture since yesterday.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "The dog has been calling the doctor lately.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "He has been listening to the game recently.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "She has been giving a book recently.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "I have been submitting the email for two hours.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "Her sister has been eating a salad lately.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The teacher has been planning the options recently.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The students have been buying a book recently.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "I have been teaching the chapter lately.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "Sarah has been speaking the neighbors lately.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "John has been sending the task lately.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "You have been fixing the furniture recently.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The manager has been fixing the bathroom recently.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "Sarah has been finishing the document recently.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "They have been practicing history lately.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "The company has been making a sandwich for years.",
+      "verb": "making"
+    },
+    {
+      "sentence": "The manager has been cooking a salad since morning.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "My brother has been reviewing the lesson for three days.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "You have been drinking pizza recently.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The students have been arriving to school since yesterday.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "My brother has been arriving to work recently.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "The company has been speaking the neighbors lately.",
+      "verb": "speaking"
+    },
+    {
+      "sentence": "My friend has been starting the presentation lately.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "You have been visiting my friend recently.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "She has been listening to the news for a month.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The company has been repairing a website for two hours.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "He has been planning the vacation recently.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "Our neighbors have been talking the team lately.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "My parents have been drinking tea lately.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "She has been forgetting the trip recently.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "My parents have been fixing the kitchen for a week.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "Sarah has been enjoying a podcast all day.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "He has been giving a book lately.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "The children have been building a picture lately.",
+      "verb": "building"
+    },
+    {
+      "sentence": "We have been enjoying the news since morning.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The team has been drinking juice recently.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Emma has been making a snack since Monday.",
+      "verb": "making"
+    },
+    {
+      "sentence": "You have been leaving home since yesterday.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "The teacher has been eating dinner for three days.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The team has been fixing the house recently.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "She has been talking the team recently.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "They have been practicing English recently.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "Emma has been submitting the contract for a week.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "The teacher has been practicing vocabulary lately.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "My parents have been flying to the gym for a week.",
+      "verb": "flying"
+    },
+    {
+      "sentence": "My brother has been giving a present since morning.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "Emma has been cooking soup lately.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "I have been calling the neighbors recently.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "My parents have been visiting the neighbors for three days.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "The team has been receiving the document since yesterday.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "The teacher has been choosing flowers recently.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "Sarah has been finishing the application since morning.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "The teacher has been painting the garden lately.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The students have been enjoying music for years.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The children have been cooking juice lately.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "The teacher has been eating coffee for two hours.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The cat has been selling a book for a month.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "Emma has been playing the game for two hours.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "Emma has been buying a new car all day.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "The team has been drinking soup lately.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The manager has been thinking about the problem lately.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "You have been watching the news lately.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "She has been fixing the room lately.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "Her sister has been thinking about the trip recently.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "Our neighbors have been driving to the beach recently.",
+      "verb": "driving"
+    },
+    {
+      "sentence": "We have been selling the ticket since morning.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "You have been painting the furniture for years.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The cat has been buying flowers recently.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "Her sister has been walking to the library recently.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "The students have been ordering coffee for three days.",
+      "verb": "ordering"
+    },
+    {
+      "sentence": "We have been starting the letter lately.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "Tom has been cleaning the room recently.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "My brother has been preparing pizza since yesterday.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "Emma has been receiving the letter lately.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "The team has been selling the ticket for a week.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "The cat has been visiting the doctor since Monday.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "Tom has been arriving to the office lately.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "The students have been finishing the email since morning.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "Sarah has been drinking lunch all week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "The bird has been leaving to the library since yesterday.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "She has been considering the event lately.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "My friend has been eating pasta recently.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Tom has been playing the game for a month.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "He has been going to the gym for years.",
+      "verb": "going"
+    },
+    {
+      "sentence": "The dog has been enjoying a sandwich recently.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "The team has been teaching Spanish lately.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "The cat has been contacting my friend lately.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "They have been writing the letter since Monday.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "Our neighbors have been listening to basketball all week.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "Our neighbors have been starting the letter since yesterday.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "The dog has been choosing the keys for years.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "Tom has been watching a documentary recently.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "We have been going to work lately.",
+      "verb": "going"
+    },
+    {
+      "sentence": "We have been studying the chapter lately.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "Sarah has been making soup lately.",
+      "verb": "making"
+    },
+    {
+      "sentence": "I have been enjoying the news lately.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "We have been watching TV lately.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "My friend has been practicing mathematics lately.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "Our neighbors have been coming to work since morning.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "The team has been listening to football recently.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The company has been planning the decision recently.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The manager has been selling a present lately.",
+      "verb": "selling"
+    },
+    {
+      "sentence": "The bird has been building the furniture lately.",
+      "verb": "building"
+    },
+    {
+      "sentence": "The bird has been painting the room since Monday.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "My brother has been painting a website since morning.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The cat has been learning English recently.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "My parents have been running to work recently.",
+      "verb": "running"
+    },
+    {
+      "sentence": "The bird has been contacting my friend lately.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "I have been learning the chapter recently.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "Her sister has been making a snack lately.",
+      "verb": "making"
+    },
+    {
+      "sentence": "I have been buying the keys lately.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "Her sister has been building the kitchen lately.",
+      "verb": "building"
+    },
+    {
+      "sentence": "The children have been getting flowers recently.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "The bird has been reading the lesson since morning.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "The team has been writing the task for a week.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "The students have been walking to the airport all week.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "He has been teaching for the exam recently.",
+      "verb": "teaching"
+    },
+    {
+      "sentence": "He has been reading grammar for a month.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "The company has been watching a podcast for a week.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "My brother has been finishing the presentation all week.",
+      "verb": "finishing"
+    },
+    {
+      "sentence": "The manager has been walking to the park for years.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "You have been receiving the contract lately.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "Emma has been learning for the exam recently.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "Sarah has been thinking about the situation lately.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "We have been designing the furniture recently.",
+      "verb": "designing"
+    },
+    {
+      "sentence": "Tom has been playing a podcast since morning.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The team has been buying a present all day.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "We have been practicing English lately.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "The dog has been getting groceries recently.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "I have been learning the chapter lately.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "My friend has been cleaning the car lately.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "You have been starting the presentation recently.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "The students have been enjoying a sandwich recently.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "I have been coming to the park recently.",
+      "verb": "coming"
+    },
+    {
+      "sentence": "My brother has been visiting the neighbors recently.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "The students have been making a salad recently.",
+      "verb": "making"
+    },
+    {
+      "sentence": "She has been eating a salad for a week.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "The company has been listening to a video recently.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The manager has been reviewing grammar lately.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The company has been getting a new car lately.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "My parents have been considering the options for years.",
+      "verb": "considering"
+    },
+    {
+      "sentence": "Our neighbors have been talking my friend for a week.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "She has been contacting the boss lately.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "I have been walking to the market lately.",
+      "verb": "walking"
+    },
+    {
+      "sentence": "They have been listening to football recently.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "The company has been studying history lately.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "The dog has been watching the news lately.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "My parents have been thinking about the vacation recently.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "The bird has been finding the keys since Monday.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "She has been playing a documentary lately.",
+      "verb": "playing"
+    },
+    {
+      "sentence": "The team has been remembering the event lately.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "My brother has been building the house for a week.",
+      "verb": "building"
+    },
+    {
+      "sentence": "The children have been leaving to the park lately.",
+      "verb": "leaving"
+    },
+    {
+      "sentence": "The students have been understanding mathematics recently.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "The children have been remembering the problem recently.",
+      "verb": "remembering"
+    },
+    {
+      "sentence": "She has been fixing the house recently.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "The team has been practicing science recently.",
+      "verb": "practicing"
+    },
+    {
+      "sentence": "The team has been going to the market recently.",
+      "verb": "going"
+    },
+    {
+      "sentence": "The bird has been planning the vacation recently.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The children have been painting the computer since yesterday.",
+      "verb": "painting"
+    },
+    {
+      "sentence": "The manager has been eating a salad recently.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Emma has been sending the presentation for years.",
+      "verb": "sending"
+    },
+    {
+      "sentence": "The children have been completing the email for three days.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "Emma has been drinking juice recently.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "She has been understanding the chapter since morning.",
+      "verb": "understanding"
+    },
+    {
+      "sentence": "The manager has been drawing the computer lately.",
+      "verb": "drawing"
+    },
+    {
+      "sentence": "They have been building the furniture lately.",
+      "verb": "building"
+    },
+    {
+      "sentence": "The team has been buying a new car recently.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "She has been submitting the email recently.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "The company has been meeting my parents for three days.",
+      "verb": "meeting"
+    },
+    {
+      "sentence": "You have been arriving to the market lately.",
+      "verb": "arriving"
+    },
+    {
+      "sentence": "The children have been studying the textbook since morning.",
+      "verb": "studying"
+    },
+    {
+      "sentence": "Her sister has been cooking breakfast lately.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "The dog has been preparing juice lately.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "The dog has been submitting the report lately.",
+      "verb": "submitting"
+    },
+    {
+      "sentence": "The cat has been eating breakfast recently.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "They have been fixing the bathroom lately.",
+      "verb": "fixing"
+    },
+    {
+      "sentence": "My parents have been starting the assignment lately.",
+      "verb": "starting"
+    },
+    {
+      "sentence": "Tom has been finding groceries lately.",
+      "verb": "finding"
+    },
+    {
+      "sentence": "John has been receiving the letter for two hours.",
+      "verb": "receiving"
+    },
+    {
+      "sentence": "You have been planning the situation lately.",
+      "verb": "planning"
+    },
+    {
+      "sentence": "The cat has been preparing juice recently.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "Tom has been returning to the beach recently.",
+      "verb": "returning"
+    },
+    {
+      "sentence": "We have been thinking about the event recently.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "My brother has been enjoying a video since yesterday.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "Sarah has been enjoying tea since Monday.",
+      "verb": "enjoying"
+    },
+    {
+      "sentence": "We have been writing the letter lately.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "The manager has been going to the airport recently.",
+      "verb": "going"
+    },
+    {
+      "sentence": "John has been giving flowers recently.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "They have been buying the keys for three days.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "My parents have been watching the news recently.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "The teacher has been repairing the room recently.",
+      "verb": "repairing"
+    },
+    {
+      "sentence": "She has been reviewing the textbook all week.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "The dog has been building the computer lately.",
+      "verb": "building"
+    },
+    {
+      "sentence": "The students have been learning history recently.",
+      "verb": "learning"
+    },
+    {
+      "sentence": "The cat has been thinking about the birthday recently.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "You have been buying a book lately.",
+      "verb": "buying"
+    },
+    {
+      "sentence": "The cat has been reading grammar recently.",
+      "verb": "reading"
+    },
+    {
+      "sentence": "The dog has been calling the doctor since yesterday.",
+      "verb": "calling"
+    },
+    {
+      "sentence": "The students have been giving the ticket recently.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "She has been talking the team since Monday.",
+      "verb": "talking"
+    },
+    {
+      "sentence": "The teacher has been running to the library for three days.",
+      "verb": "running"
+    },
+    {
+      "sentence": "The teacher has been visiting my parents lately.",
+      "verb": "visiting"
+    },
+    {
+      "sentence": "The bird has been cooking juice since Monday.",
+      "verb": "cooking"
+    },
+    {
+      "sentence": "We have been watching a movie for a week.",
+      "verb": "watching"
+    },
+    {
+      "sentence": "The team has been reviewing vocabulary for a month.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "They have been preparing soup recently.",
+      "verb": "preparing"
+    },
+    {
+      "sentence": "Tom has been completing the letter lately.",
+      "verb": "completing"
+    },
+    {
+      "sentence": "The company has been choosing groceries lately.",
+      "verb": "choosing"
+    },
+    {
+      "sentence": "My friend has been getting groceries recently.",
+      "verb": "getting"
+    },
+    {
+      "sentence": "She has been giving the ticket all day.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "John has been forgetting the options lately.",
+      "verb": "forgetting"
+    },
+    {
+      "sentence": "The cat has been cleaning the house recently.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "John has been eating soup lately.",
+      "verb": "eating"
+    },
+    {
+      "sentence": "Our neighbors have been contacting the client recently.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "The teacher has been writing the application all week.",
+      "verb": "writing"
+    },
+    {
+      "sentence": "John has been listening to a song recently.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "We have been cleaning the garden recently.",
+      "verb": "cleaning"
+    },
+    {
+      "sentence": "Tom has been contacting the client lately.",
+      "verb": "contacting"
+    },
+    {
+      "sentence": "Tom has been giving a book recently.",
+      "verb": "giving"
+    },
+    {
+      "sentence": "Tom has been reviewing French lately.",
+      "verb": "reviewing"
+    },
+    {
+      "sentence": "You have been listening to a documentary all day.",
+      "verb": "listening"
+    },
+    {
+      "sentence": "We have been flying home for two hours.",
+      "verb": "flying"
+    }
+  ]
+}

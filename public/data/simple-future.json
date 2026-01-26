@@ -1,0 +1,2006 @@
+{
+  "tense": "Simple Future",
+  "description": "Used for actions that will happen in the future",
+  "examples": [
+    {
+      "sentence": "Next month, the team will repair the furniture.",
+      "verb": "repair"
+    },
+    {
+      "sentence": "The students will think about the decision in two days.",
+      "verb": "think"
+    },
+    {
+      "sentence": "Her sister will call the client.",
+      "verb": "call"
+    },
+    {
+      "sentence": "Next week, they will write the task.",
+      "verb": "write"
+    },
+    {
+      "sentence": "My friend will watch music.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "We will think about the vacation later.",
+      "verb": "think"
+    },
+    {
+      "sentence": "Tomorrow, john will order dinner.",
+      "verb": "order"
+    },
+    {
+      "sentence": "I will run to the office.",
+      "verb": "run"
+    },
+    {
+      "sentence": "The dog will practice vocabulary next year.",
+      "verb": "practice"
+    },
+    {
+      "sentence": "Tom will speak the boss.",
+      "verb": "speak"
+    },
+    {
+      "sentence": "Next week, we will enjoy football.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "My brother will receive the presentation.",
+      "verb": "receive"
+    },
+    {
+      "sentence": "You will sell the phone tonight.",
+      "verb": "sell"
+    },
+    {
+      "sentence": "Emma will meet the manager.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "This evening, tom will teach English.",
+      "verb": "teach"
+    },
+    {
+      "sentence": "The students will play a podcast this weekend.",
+      "verb": "play"
+    },
+    {
+      "sentence": "Next year, the manager will watch the game.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "Our neighbors will forget the vacation.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "Soon, sarah will come to the airport.",
+      "verb": "come"
+    },
+    {
+      "sentence": "Next year, you will make breakfast.",
+      "verb": "make"
+    },
+    {
+      "sentence": "Later, my parents will visit the doctor.",
+      "verb": "visit"
+    },
+    {
+      "sentence": "The company will come to the gym.",
+      "verb": "come"
+    },
+    {
+      "sentence": "The dog will sell a laptop soon.",
+      "verb": "sell"
+    },
+    {
+      "sentence": "My friend will finish the assignment.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "Her sister will sell a present in two days.",
+      "verb": "sell"
+    },
+    {
+      "sentence": "The company will give the phone.",
+      "verb": "give"
+    },
+    {
+      "sentence": "My friend will go to the library soon.",
+      "verb": "go"
+    },
+    {
+      "sentence": "You will finish the application.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "Next year, my brother will complete the document.",
+      "verb": "complete"
+    },
+    {
+      "sentence": "Tom will enjoy a video.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "This evening, the children will fly to work.",
+      "verb": "fly"
+    },
+    {
+      "sentence": "My parents will go to school this evening.",
+      "verb": "go"
+    },
+    {
+      "sentence": "My brother will enjoy basketball this evening.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "Tom will contact the neighbors.",
+      "verb": "contact"
+    },
+    {
+      "sentence": "Tomorrow, the company will choose groceries.",
+      "verb": "choose"
+    },
+    {
+      "sentence": "I will get a gift.",
+      "verb": "get"
+    },
+    {
+      "sentence": "I will choose a present.",
+      "verb": "choose"
+    },
+    {
+      "sentence": "We will build the house.",
+      "verb": "build"
+    },
+    {
+      "sentence": "The dog will study Spanish.",
+      "verb": "study"
+    },
+    {
+      "sentence": "Sarah will talk my parents.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "John will complete the document.",
+      "verb": "complete"
+    },
+    {
+      "sentence": "The cat will consider the meeting tonight.",
+      "verb": "consider"
+    },
+    {
+      "sentence": "My friend will fly to the park soon.",
+      "verb": "fly"
+    },
+    {
+      "sentence": "Our neighbors will order breakfast.",
+      "verb": "order"
+    },
+    {
+      "sentence": "She will give clothes.",
+      "verb": "give"
+    },
+    {
+      "sentence": "The team will think about the options.",
+      "verb": "think"
+    },
+    {
+      "sentence": "This weekend, the students will enjoy a sandwich.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "My friend will go to the airport.",
+      "verb": "go"
+    },
+    {
+      "sentence": "The bird will think about the decision.",
+      "verb": "think"
+    },
+    {
+      "sentence": "The students will visit the manager in two days.",
+      "verb": "visit"
+    },
+    {
+      "sentence": "The students will clean the furniture.",
+      "verb": "clean"
+    },
+    {
+      "sentence": "The students will speak my friend soon.",
+      "verb": "speak"
+    },
+    {
+      "sentence": "You will fix the furniture.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "My friend will make lunch.",
+      "verb": "make"
+    },
+    {
+      "sentence": "My brother will contact my friend.",
+      "verb": "contact"
+    },
+    {
+      "sentence": "Tomorrow, you will practice Spanish.",
+      "verb": "practice"
+    },
+    {
+      "sentence": "Our neighbors will cook lunch.",
+      "verb": "cook"
+    },
+    {
+      "sentence": "Tom will study English tonight.",
+      "verb": "study"
+    },
+    {
+      "sentence": "The teacher will fix the kitchen tomorrow.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "Next year, our neighbors will cook pasta.",
+      "verb": "cook"
+    },
+    {
+      "sentence": "Tonight, tom will find groceries.",
+      "verb": "find"
+    },
+    {
+      "sentence": "Next year, the children will understand Spanish.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "Soon, you will drive to work.",
+      "verb": "drive"
+    },
+    {
+      "sentence": "You will watch tennis.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "You will clean the garden.",
+      "verb": "clean"
+    },
+    {
+      "sentence": "Sarah will play a song next year.",
+      "verb": "play"
+    },
+    {
+      "sentence": "Later, the cat will come to the office.",
+      "verb": "come"
+    },
+    {
+      "sentence": "Emma will study grammar tomorrow.",
+      "verb": "study"
+    },
+    {
+      "sentence": "Emma will draw a picture.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "Next year, the team will walk to the gym.",
+      "verb": "walk"
+    },
+    {
+      "sentence": "The company will order a salad.",
+      "verb": "order"
+    },
+    {
+      "sentence": "Her sister will plan the future next month.",
+      "verb": "plan"
+    },
+    {
+      "sentence": "Tomorrow, the team will play football.",
+      "verb": "play"
+    },
+    {
+      "sentence": "We will buy the phone.",
+      "verb": "buy"
+    },
+    {
+      "sentence": "Sarah will drive home.",
+      "verb": "drive"
+    },
+    {
+      "sentence": "This evening, they will review science.",
+      "verb": "review"
+    },
+    {
+      "sentence": "Sarah will cook tea.",
+      "verb": "cook"
+    },
+    {
+      "sentence": "The company will walk to the office next week.",
+      "verb": "walk"
+    },
+    {
+      "sentence": "You will write the contract tonight.",
+      "verb": "write"
+    },
+    {
+      "sentence": "My brother will draw the car.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "The team will repair a picture later.",
+      "verb": "repair"
+    },
+    {
+      "sentence": "He will receive the email next month.",
+      "verb": "receive"
+    },
+    {
+      "sentence": "You will complete the assignment.",
+      "verb": "complete"
+    },
+    {
+      "sentence": "The company will teach grammar in two days.",
+      "verb": "teach"
+    },
+    {
+      "sentence": "Later, our neighbors will draw a picture.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "Next year, emma will enjoy pizza.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "Tom will think about the trip.",
+      "verb": "think"
+    },
+    {
+      "sentence": "Tom will get a laptop next week.",
+      "verb": "get"
+    },
+    {
+      "sentence": "My parents will understand science later.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "My brother will visit the manager.",
+      "verb": "visit"
+    },
+    {
+      "sentence": "My parents will watch a podcast.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "The teacher will remember the vacation next month.",
+      "verb": "remember"
+    },
+    {
+      "sentence": "I will meet the team tomorrow.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "I will fly to the market.",
+      "verb": "fly"
+    },
+    {
+      "sentence": "You will make lunch soon.",
+      "verb": "make"
+    },
+    {
+      "sentence": "The students will eat dinner.",
+      "verb": "eat"
+    },
+    {
+      "sentence": "Next week, the company will contact the client.",
+      "verb": "contact"
+    },
+    {
+      "sentence": "In two days, the students will consider the situation.",
+      "verb": "consider"
+    },
+    {
+      "sentence": "She will drink soup in two days.",
+      "verb": "drink"
+    },
+    {
+      "sentence": "Next month, you will draw the furniture.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "Next year, the company will drink juice.",
+      "verb": "drink"
+    },
+    {
+      "sentence": "My brother will give a present.",
+      "verb": "give"
+    },
+    {
+      "sentence": "This weekend, my brother will enjoy basketball.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "Next year, sarah will read the lesson.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The cat will buy a laptop in two days.",
+      "verb": "buy"
+    },
+    {
+      "sentence": "The bird will read the chapter.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The bird will write the proposal soon.",
+      "verb": "write"
+    },
+    {
+      "sentence": "My brother will plan the problem tomorrow.",
+      "verb": "plan"
+    },
+    {
+      "sentence": "My friend will contact the client.",
+      "verb": "contact"
+    },
+    {
+      "sentence": "This weekend, her sister will practice French.",
+      "verb": "practice"
+    },
+    {
+      "sentence": "The cat will walk to school.",
+      "verb": "walk"
+    },
+    {
+      "sentence": "We will give the keys in two days.",
+      "verb": "give"
+    },
+    {
+      "sentence": "You will remember the meeting.",
+      "verb": "remember"
+    },
+    {
+      "sentence": "Sarah will fix the computer tomorrow.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "My brother will give the keys soon.",
+      "verb": "give"
+    },
+    {
+      "sentence": "The company will receive the task.",
+      "verb": "receive"
+    },
+    {
+      "sentence": "The students will watch football next week.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "Our neighbors will enjoy a video.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "This weekend, he will enjoy a sandwich.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "Tonight, the children will get a laptop.",
+      "verb": "get"
+    },
+    {
+      "sentence": "We will drive to school.",
+      "verb": "drive"
+    },
+    {
+      "sentence": "This evening, he will submit the application.",
+      "verb": "submit"
+    },
+    {
+      "sentence": "The cat will listen to a movie.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "I will forget the future tomorrow.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "Tonight, my parents will repair the car.",
+      "verb": "repair"
+    },
+    {
+      "sentence": "The children will buy clothes tomorrow.",
+      "verb": "buy"
+    },
+    {
+      "sentence": "Soon, he will play a podcast.",
+      "verb": "play"
+    },
+    {
+      "sentence": "My brother will drink a snack.",
+      "verb": "drink"
+    },
+    {
+      "sentence": "The bird will teach Spanish.",
+      "verb": "teach"
+    },
+    {
+      "sentence": "This weekend, he will play a video.",
+      "verb": "play"
+    },
+    {
+      "sentence": "The dog will build the furniture in two days.",
+      "verb": "build"
+    },
+    {
+      "sentence": "Tonight, he will enjoy the news.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "Her sister will draw the room.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "Next year, they will walk to the gym.",
+      "verb": "walk"
+    },
+    {
+      "sentence": "Our neighbors will walk downtown next week.",
+      "verb": "walk"
+    },
+    {
+      "sentence": "Next year, we will submit the report.",
+      "verb": "submit"
+    },
+    {
+      "sentence": "This evening, her sister will read the textbook.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The dog will draw the house in two days.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "Tom will draw a website this evening.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "Soon, emma will send the email.",
+      "verb": "send"
+    },
+    {
+      "sentence": "The cat will clean the furniture tomorrow.",
+      "verb": "clean"
+    },
+    {
+      "sentence": "The teacher will study for the exam.",
+      "verb": "study"
+    },
+    {
+      "sentence": "The manager will practice science tomorrow.",
+      "verb": "practice"
+    },
+    {
+      "sentence": "Emma will start the application.",
+      "verb": "start"
+    },
+    {
+      "sentence": "The team will come to the airport next month.",
+      "verb": "come"
+    },
+    {
+      "sentence": "My friend will start the email.",
+      "verb": "start"
+    },
+    {
+      "sentence": "My brother will run to school.",
+      "verb": "run"
+    },
+    {
+      "sentence": "Soon, the company will prepare a snack.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "Next month, the company will talk the team.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "Tom will plan the vacation.",
+      "verb": "plan"
+    },
+    {
+      "sentence": "In two days, my brother will talk my family.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "Tonight, tom will buy flowers.",
+      "verb": "buy"
+    },
+    {
+      "sentence": "The teacher will call the client next year.",
+      "verb": "call"
+    },
+    {
+      "sentence": "In two days, tom will play the news.",
+      "verb": "play"
+    },
+    {
+      "sentence": "Sarah will clean the bathroom.",
+      "verb": "clean"
+    },
+    {
+      "sentence": "The children will get the phone.",
+      "verb": "get"
+    },
+    {
+      "sentence": "He will sell flowers next month.",
+      "verb": "sell"
+    },
+    {
+      "sentence": "Later, the company will paint the room.",
+      "verb": "paint"
+    },
+    {
+      "sentence": "She will call the team.",
+      "verb": "call"
+    },
+    {
+      "sentence": "He will contact the teacher later.",
+      "verb": "contact"
+    },
+    {
+      "sentence": "He will read science tonight.",
+      "verb": "read"
+    },
+    {
+      "sentence": "This evening, you will prepare a snack.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "Next year, john will read the lesson.",
+      "verb": "read"
+    },
+    {
+      "sentence": "Next month, my friend will enjoy a song.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "The dog will meet the manager next week.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "My brother will buy a new car.",
+      "verb": "buy"
+    },
+    {
+      "sentence": "John will complete the contract.",
+      "verb": "complete"
+    },
+    {
+      "sentence": "Tom will fly to the office this evening.",
+      "verb": "fly"
+    },
+    {
+      "sentence": "You will talk the client.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "Tom will write the proposal.",
+      "verb": "write"
+    },
+    {
+      "sentence": "The children will consider the trip.",
+      "verb": "consider"
+    },
+    {
+      "sentence": "In two days, she will prepare coffee.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "The company will listen to football in two days.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "She will call the manager soon.",
+      "verb": "call"
+    },
+    {
+      "sentence": "Her sister will listen to football.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "You will eat lunch this evening.",
+      "verb": "eat"
+    },
+    {
+      "sentence": "She will buy a new car tonight.",
+      "verb": "buy"
+    },
+    {
+      "sentence": "We will understand mathematics.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "Next week, we will meet the team.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "Next week, you will plan the decision.",
+      "verb": "plan"
+    },
+    {
+      "sentence": "Later, the cat will prepare a sandwich.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "Sarah will build the house.",
+      "verb": "build"
+    },
+    {
+      "sentence": "The team will listen to tennis.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "Later, she will eat juice.",
+      "verb": "eat"
+    },
+    {
+      "sentence": "The bird will watch the game.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "Her sister will start the presentation.",
+      "verb": "start"
+    },
+    {
+      "sentence": "We will watch a movie.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "Tonight, we will write the report.",
+      "verb": "write"
+    },
+    {
+      "sentence": "Next year, the company will cook tea.",
+      "verb": "cook"
+    },
+    {
+      "sentence": "The company will find a laptop.",
+      "verb": "find"
+    },
+    {
+      "sentence": "We will leave to work tomorrow.",
+      "verb": "leave"
+    },
+    {
+      "sentence": "This evening, you will think about the birthday.",
+      "verb": "think"
+    },
+    {
+      "sentence": "Her sister will run to the library this evening.",
+      "verb": "run"
+    },
+    {
+      "sentence": "He will leave to the gym.",
+      "verb": "leave"
+    },
+    {
+      "sentence": "Her sister will prepare lunch tonight.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "I will plan the options next month.",
+      "verb": "plan"
+    },
+    {
+      "sentence": "They will walk to the beach this weekend.",
+      "verb": "walk"
+    },
+    {
+      "sentence": "Soon, the team will consider the birthday.",
+      "verb": "consider"
+    },
+    {
+      "sentence": "Tom will call the doctor tonight.",
+      "verb": "call"
+    },
+    {
+      "sentence": "The dog will forget the birthday.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "Her sister will clean the room tonight.",
+      "verb": "clean"
+    },
+    {
+      "sentence": "Tomorrow, her sister will study grammar.",
+      "verb": "study"
+    },
+    {
+      "sentence": "We will paint the house.",
+      "verb": "paint"
+    },
+    {
+      "sentence": "The students will prepare a sandwich.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "My parents will go to the market tomorrow.",
+      "verb": "go"
+    },
+    {
+      "sentence": "The team will make pizza.",
+      "verb": "make"
+    },
+    {
+      "sentence": "The teacher will enjoy soup.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "Next week, he will enjoy coffee.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "The dog will understand the chapter.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "In two days, the teacher will finish the assignment.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "She will understand French next week.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "My friend will cook soup next year.",
+      "verb": "cook"
+    },
+    {
+      "sentence": "My brother will sell a present.",
+      "verb": "sell"
+    },
+    {
+      "sentence": "I will come home.",
+      "verb": "come"
+    },
+    {
+      "sentence": "The children will teach English this weekend.",
+      "verb": "teach"
+    },
+    {
+      "sentence": "Later, her sister will listen to basketball.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "Tonight, the children will enjoy dinner.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "The bird will fix the house.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "This weekend, you will find a present.",
+      "verb": "find"
+    },
+    {
+      "sentence": "We will watch a movie next year.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "The cat will make pizza this weekend.",
+      "verb": "make"
+    },
+    {
+      "sentence": "The teacher will prepare juice.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "The children will finish the application.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "You will submit the letter in two days.",
+      "verb": "submit"
+    },
+    {
+      "sentence": "The children will prepare juice next week.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "Next week, we will speak the teacher.",
+      "verb": "speak"
+    },
+    {
+      "sentence": "The cat will sell a laptop soon.",
+      "verb": "sell"
+    },
+    {
+      "sentence": "The cat will understand Spanish next year.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "Next year, they will listen to the news.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "Later, the students will repair the garden.",
+      "verb": "repair"
+    },
+    {
+      "sentence": "This evening, my brother will clean the furniture.",
+      "verb": "clean"
+    },
+    {
+      "sentence": "Tomorrow, the teacher will eat pizza.",
+      "verb": "eat"
+    },
+    {
+      "sentence": "Tonight, sarah will watch basketball.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "She will talk my friend next month.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "My friend will think about the meeting later.",
+      "verb": "think"
+    },
+    {
+      "sentence": "I will drink breakfast soon.",
+      "verb": "drink"
+    },
+    {
+      "sentence": "In two days, our neighbors will return downtown.",
+      "verb": "return"
+    },
+    {
+      "sentence": "Tomorrow, he will prepare coffee.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "Tomorrow, emma will study history.",
+      "verb": "study"
+    },
+    {
+      "sentence": "Emma will call the client.",
+      "verb": "call"
+    },
+    {
+      "sentence": "The manager will listen to a video next month.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "Tomorrow, my friend will design the garden.",
+      "verb": "design"
+    },
+    {
+      "sentence": "My parents will enjoy a snack.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "Emma will write the application.",
+      "verb": "write"
+    },
+    {
+      "sentence": "Next week, her sister will review mathematics.",
+      "verb": "review"
+    },
+    {
+      "sentence": "This evening, the children will choose groceries.",
+      "verb": "choose"
+    },
+    {
+      "sentence": "Tomorrow, they will sell clothes.",
+      "verb": "sell"
+    },
+    {
+      "sentence": "Her sister will get the ticket.",
+      "verb": "get"
+    },
+    {
+      "sentence": "Our neighbors will learn Spanish tonight.",
+      "verb": "learn"
+    },
+    {
+      "sentence": "Next year, the cat will drink juice.",
+      "verb": "drink"
+    },
+    {
+      "sentence": "The students will submit the document.",
+      "verb": "submit"
+    },
+    {
+      "sentence": "This evening, you will remember the problem.",
+      "verb": "remember"
+    },
+    {
+      "sentence": "This weekend, the teacher will drink juice.",
+      "verb": "drink"
+    },
+    {
+      "sentence": "You will finish the assignment next week.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "John will teach Spanish soon.",
+      "verb": "teach"
+    },
+    {
+      "sentence": "The company will send the project next month.",
+      "verb": "send"
+    },
+    {
+      "sentence": "Next year, the company will start the contract.",
+      "verb": "start"
+    },
+    {
+      "sentence": "You will learn science.",
+      "verb": "learn"
+    },
+    {
+      "sentence": "This weekend, my brother will talk the client.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "I will forget the event next month.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "They will speak the doctor.",
+      "verb": "speak"
+    },
+    {
+      "sentence": "Next month, emma will practice vocabulary.",
+      "verb": "practice"
+    },
+    {
+      "sentence": "Her sister will meet the manager this evening.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "Soon, they will consider the future.",
+      "verb": "consider"
+    },
+    {
+      "sentence": "He will start the project soon.",
+      "verb": "start"
+    },
+    {
+      "sentence": "Next month, our neighbors will get clothes.",
+      "verb": "get"
+    },
+    {
+      "sentence": "Soon, the children will get the keys.",
+      "verb": "get"
+    },
+    {
+      "sentence": "The children will repair the car.",
+      "verb": "repair"
+    },
+    {
+      "sentence": "Next year, tom will find a present.",
+      "verb": "find"
+    },
+    {
+      "sentence": "Next year, john will get a new car.",
+      "verb": "get"
+    },
+    {
+      "sentence": "My friend will submit the project later.",
+      "verb": "submit"
+    },
+    {
+      "sentence": "The children will give a gift soon.",
+      "verb": "give"
+    },
+    {
+      "sentence": "Next year, sarah will arrive to the airport.",
+      "verb": "arrive"
+    },
+    {
+      "sentence": "She will find the phone.",
+      "verb": "find"
+    },
+    {
+      "sentence": "They will send the task next week.",
+      "verb": "send"
+    },
+    {
+      "sentence": "Later, the students will clean the computer.",
+      "verb": "clean"
+    },
+    {
+      "sentence": "This weekend, the cat will play a video.",
+      "verb": "play"
+    },
+    {
+      "sentence": "John will meet the doctor soon.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "Our neighbors will play a podcast.",
+      "verb": "play"
+    },
+    {
+      "sentence": "My parents will understand grammar next year.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "Soon, sarah will review the textbook.",
+      "verb": "review"
+    },
+    {
+      "sentence": "You will study the chapter in two days.",
+      "verb": "study"
+    },
+    {
+      "sentence": "This evening, my parents will give a book.",
+      "verb": "give"
+    },
+    {
+      "sentence": "Soon, i will eat coffee.",
+      "verb": "eat"
+    },
+    {
+      "sentence": "Later, our neighbors will walk to the market.",
+      "verb": "walk"
+    },
+    {
+      "sentence": "Sarah will prepare a snack later.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "Next week, the children will practice grammar.",
+      "verb": "practice"
+    },
+    {
+      "sentence": "Sarah will submit the presentation.",
+      "verb": "submit"
+    },
+    {
+      "sentence": "She will think about the problem tonight.",
+      "verb": "think"
+    },
+    {
+      "sentence": "In two days, i will learn mathematics.",
+      "verb": "learn"
+    },
+    {
+      "sentence": "Next week, my friend will draw a picture.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "My parents will paint the room.",
+      "verb": "paint"
+    },
+    {
+      "sentence": "My friend will understand history this weekend.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "Later, the students will play a song.",
+      "verb": "play"
+    },
+    {
+      "sentence": "The team will cook soup next year.",
+      "verb": "cook"
+    },
+    {
+      "sentence": "Next year, we will read for the exam.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The cat will talk the team.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "This evening, emma will practice the chapter.",
+      "verb": "practice"
+    },
+    {
+      "sentence": "They will call the manager.",
+      "verb": "call"
+    },
+    {
+      "sentence": "The manager will play a song next year.",
+      "verb": "play"
+    },
+    {
+      "sentence": "She will complete the report this evening.",
+      "verb": "complete"
+    },
+    {
+      "sentence": "The dog will eat pasta.",
+      "verb": "eat"
+    },
+    {
+      "sentence": "Soon, the cat will teach the lesson.",
+      "verb": "teach"
+    },
+    {
+      "sentence": "The dog will talk my parents.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "The team will visit the boss in two days.",
+      "verb": "visit"
+    },
+    {
+      "sentence": "My brother will practice grammar.",
+      "verb": "practice"
+    },
+    {
+      "sentence": "My parents will find clothes.",
+      "verb": "find"
+    },
+    {
+      "sentence": "She will start the task later.",
+      "verb": "start"
+    },
+    {
+      "sentence": "Our neighbors will start the letter.",
+      "verb": "start"
+    },
+    {
+      "sentence": "You will watch a movie in two days.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "Sarah will fix the computer later.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "The dog will study history soon.",
+      "verb": "study"
+    },
+    {
+      "sentence": "I will speak the team.",
+      "verb": "speak"
+    },
+    {
+      "sentence": "She will enjoy soup.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "Later, you will drink dinner.",
+      "verb": "drink"
+    },
+    {
+      "sentence": "Tonight, the students will finish the contract.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "Next year, john will buy a gift.",
+      "verb": "buy"
+    },
+    {
+      "sentence": "This evening, the bird will talk my friend.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "In two days, tom will enjoy a salad.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "Tom will talk my parents.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "We will cook pizza later.",
+      "verb": "cook"
+    },
+    {
+      "sentence": "This evening, emma will plan the future.",
+      "verb": "plan"
+    },
+    {
+      "sentence": "Next week, the team will watch TV.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "They will listen to a podcast later.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "We will write the proposal tonight.",
+      "verb": "write"
+    },
+    {
+      "sentence": "He will paint the house next month.",
+      "verb": "paint"
+    },
+    {
+      "sentence": "The dog will review grammar next week.",
+      "verb": "review"
+    },
+    {
+      "sentence": "He will fix the furniture.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "Next year, tom will listen to TV.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "Soon, you will watch football.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "My parents will meet the neighbors.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "They will fix the furniture next month.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "Tom will paint the bathroom.",
+      "verb": "paint"
+    },
+    {
+      "sentence": "Next week, we will draw the bathroom.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "Our neighbors will forget the decision tomorrow.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "You will watch football.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "The students will design the bathroom next year.",
+      "verb": "design"
+    },
+    {
+      "sentence": "This evening, she will watch a video.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "The students will talk the neighbors.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "You will choose the phone in two days.",
+      "verb": "choose"
+    },
+    {
+      "sentence": "Next week, our neighbors will forget the birthday.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "Emma will fix the kitchen in two days.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "Tomorrow, the company will go downtown.",
+      "verb": "go"
+    },
+    {
+      "sentence": "My friend will get a present next week.",
+      "verb": "get"
+    },
+    {
+      "sentence": "This weekend, her sister will write the letter.",
+      "verb": "write"
+    },
+    {
+      "sentence": "Soon, we will listen to TV.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "Tonight, he will play a movie.",
+      "verb": "play"
+    },
+    {
+      "sentence": "In two days, the teacher will walk to the market.",
+      "verb": "walk"
+    },
+    {
+      "sentence": "Next month, they will find a laptop.",
+      "verb": "find"
+    },
+    {
+      "sentence": "In two days, sarah will walk to the market.",
+      "verb": "walk"
+    },
+    {
+      "sentence": "Emma will forget the birthday next month.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "My friend will go to the airport in two days.",
+      "verb": "go"
+    },
+    {
+      "sentence": "The students will return to the store.",
+      "verb": "return"
+    },
+    {
+      "sentence": "The dog will design the bathroom.",
+      "verb": "design"
+    },
+    {
+      "sentence": "Soon, i will write the application.",
+      "verb": "write"
+    },
+    {
+      "sentence": "The manager will remember the problem later.",
+      "verb": "remember"
+    },
+    {
+      "sentence": "She will find a new car this evening.",
+      "verb": "find"
+    },
+    {
+      "sentence": "Next week, her sister will find a gift.",
+      "verb": "find"
+    },
+    {
+      "sentence": "Later, tom will receive the presentation.",
+      "verb": "receive"
+    },
+    {
+      "sentence": "In two days, the company will paint the furniture.",
+      "verb": "paint"
+    },
+    {
+      "sentence": "John will prepare a snack.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "John will read vocabulary.",
+      "verb": "read"
+    },
+    {
+      "sentence": "Soon, the manager will speak the client.",
+      "verb": "speak"
+    },
+    {
+      "sentence": "The dog will understand history in two days.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "He will paint the kitchen later.",
+      "verb": "paint"
+    },
+    {
+      "sentence": "Our neighbors will talk the client.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "Tom will visit the manager next month.",
+      "verb": "visit"
+    },
+    {
+      "sentence": "Her sister will call the client in two days.",
+      "verb": "call"
+    },
+    {
+      "sentence": "Our neighbors will call my family next month.",
+      "verb": "call"
+    },
+    {
+      "sentence": "This evening, my friend will write the task.",
+      "verb": "write"
+    },
+    {
+      "sentence": "We will forget the meeting tonight.",
+      "verb": "forget"
+    },
+    {
+      "sentence": "We will enjoy football tomorrow.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "Soon, the manager will talk the doctor.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "My brother will speak my family soon.",
+      "verb": "speak"
+    },
+    {
+      "sentence": "This evening, the team will fix the garden.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "Sarah will arrive to the store.",
+      "verb": "arrive"
+    },
+    {
+      "sentence": "Next week, her sister will visit my friend.",
+      "verb": "visit"
+    },
+    {
+      "sentence": "My parents will complete the document next month.",
+      "verb": "complete"
+    },
+    {
+      "sentence": "We will review history.",
+      "verb": "review"
+    },
+    {
+      "sentence": "Next year, emma will visit the doctor.",
+      "verb": "visit"
+    },
+    {
+      "sentence": "In two days, he will find the ticket.",
+      "verb": "find"
+    },
+    {
+      "sentence": "In two days, tom will call the doctor.",
+      "verb": "call"
+    },
+    {
+      "sentence": "We will practice mathematics.",
+      "verb": "practice"
+    },
+    {
+      "sentence": "My parents will visit my friend.",
+      "verb": "visit"
+    },
+    {
+      "sentence": "He will read Spanish.",
+      "verb": "read"
+    },
+    {
+      "sentence": "Sarah will play tennis.",
+      "verb": "play"
+    },
+    {
+      "sentence": "This evening, the children will watch TV.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "In two days, the bird will talk the doctor.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "This weekend, i will draw a picture.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "You will think about the trip.",
+      "verb": "think"
+    },
+    {
+      "sentence": "The bird will visit the boss.",
+      "verb": "visit"
+    },
+    {
+      "sentence": "The dog will read mathematics.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The manager will arrive to the airport.",
+      "verb": "arrive"
+    },
+    {
+      "sentence": "The company will find the phone.",
+      "verb": "find"
+    },
+    {
+      "sentence": "Her sister will call the neighbors next month.",
+      "verb": "call"
+    },
+    {
+      "sentence": "Later, tom will fix the house.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "I will remember the event next year.",
+      "verb": "remember"
+    },
+    {
+      "sentence": "Sarah will contact the boss this evening.",
+      "verb": "contact"
+    },
+    {
+      "sentence": "Her sister will understand grammar this weekend.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "The dog will play the news.",
+      "verb": "play"
+    },
+    {
+      "sentence": "This weekend, the company will visit the neighbors.",
+      "verb": "visit"
+    },
+    {
+      "sentence": "Emma will clean the computer this weekend.",
+      "verb": "clean"
+    },
+    {
+      "sentence": "Emma will drive to the market.",
+      "verb": "drive"
+    },
+    {
+      "sentence": "Sarah will watch a song tonight.",
+      "verb": "watch"
+    },
+    {
+      "sentence": "This evening, the children will go to the gym.",
+      "verb": "go"
+    },
+    {
+      "sentence": "Later, he will run home.",
+      "verb": "run"
+    },
+    {
+      "sentence": "I will read Spanish next year.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The company will repair the bathroom this weekend.",
+      "verb": "repair"
+    },
+    {
+      "sentence": "You will return to work this weekend.",
+      "verb": "return"
+    },
+    {
+      "sentence": "Emma will fix a website this evening.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "Her sister will enjoy dinner.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "The dog will run to the store.",
+      "verb": "run"
+    },
+    {
+      "sentence": "Our neighbors will come to the office.",
+      "verb": "come"
+    },
+    {
+      "sentence": "Tom will find clothes.",
+      "verb": "find"
+    },
+    {
+      "sentence": "The manager will send the contract.",
+      "verb": "send"
+    },
+    {
+      "sentence": "I will design the house.",
+      "verb": "design"
+    },
+    {
+      "sentence": "She will send the assignment next week.",
+      "verb": "send"
+    },
+    {
+      "sentence": "You will write the presentation.",
+      "verb": "write"
+    },
+    {
+      "sentence": "This weekend, the students will draw the car.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "The children will learn the lesson this weekend.",
+      "verb": "learn"
+    },
+    {
+      "sentence": "Her sister will plan the event.",
+      "verb": "plan"
+    },
+    {
+      "sentence": "I will send the contract.",
+      "verb": "send"
+    },
+    {
+      "sentence": "Sarah will think about the meeting in two days.",
+      "verb": "think"
+    },
+    {
+      "sentence": "The students will choose groceries.",
+      "verb": "choose"
+    },
+    {
+      "sentence": "My parents will design the room next week.",
+      "verb": "design"
+    },
+    {
+      "sentence": "My brother will prepare a snack.",
+      "verb": "prepare"
+    },
+    {
+      "sentence": "My brother will remember the decision.",
+      "verb": "remember"
+    },
+    {
+      "sentence": "Next month, the bird will teach the lesson.",
+      "verb": "teach"
+    },
+    {
+      "sentence": "Tomorrow, emma will cook dinner.",
+      "verb": "cook"
+    },
+    {
+      "sentence": "Emma will draw the computer in two days.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "She will enjoy lunch next year.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "Tom will listen to basketball next week.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "Next year, my parents will contact my parents.",
+      "verb": "contact"
+    },
+    {
+      "sentence": "The children will write the document.",
+      "verb": "write"
+    },
+    {
+      "sentence": "Tomorrow, the bird will consider the birthday.",
+      "verb": "consider"
+    },
+    {
+      "sentence": "We will send the application next year.",
+      "verb": "send"
+    },
+    {
+      "sentence": "I will give groceries.",
+      "verb": "give"
+    },
+    {
+      "sentence": "This evening, the children will meet the doctor.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "The students will choose a laptop later.",
+      "verb": "choose"
+    },
+    {
+      "sentence": "They will choose groceries.",
+      "verb": "choose"
+    },
+    {
+      "sentence": "I will meet the manager tonight.",
+      "verb": "meet"
+    },
+    {
+      "sentence": "This evening, her sister will return downtown.",
+      "verb": "return"
+    },
+    {
+      "sentence": "Next week, the bird will send the proposal.",
+      "verb": "send"
+    },
+    {
+      "sentence": "This evening, the team will submit the document.",
+      "verb": "submit"
+    },
+    {
+      "sentence": "Soon, emma will complete the document.",
+      "verb": "complete"
+    },
+    {
+      "sentence": "The team will build a website.",
+      "verb": "build"
+    },
+    {
+      "sentence": "The dog will choose groceries in two days.",
+      "verb": "choose"
+    },
+    {
+      "sentence": "My parents will review history tonight.",
+      "verb": "review"
+    },
+    {
+      "sentence": "I will paint a picture.",
+      "verb": "paint"
+    },
+    {
+      "sentence": "The manager will run to the market.",
+      "verb": "run"
+    },
+    {
+      "sentence": "Next month, our neighbors will make tea.",
+      "verb": "make"
+    },
+    {
+      "sentence": "John will write the task later.",
+      "verb": "write"
+    },
+    {
+      "sentence": "Soon, her sister will make breakfast.",
+      "verb": "make"
+    },
+    {
+      "sentence": "They will go to the airport next week.",
+      "verb": "go"
+    },
+    {
+      "sentence": "In two days, the dog will understand the chapter.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "Soon, emma will listen to basketball.",
+      "verb": "listen"
+    },
+    {
+      "sentence": "Later, they will speak my family.",
+      "verb": "speak"
+    },
+    {
+      "sentence": "The cat will drive to the beach this evening.",
+      "verb": "drive"
+    },
+    {
+      "sentence": "The students will get groceries next month.",
+      "verb": "get"
+    },
+    {
+      "sentence": "Later, she will play a video.",
+      "verb": "play"
+    },
+    {
+      "sentence": "He will send the report next week.",
+      "verb": "send"
+    },
+    {
+      "sentence": "The bird will write the contract.",
+      "verb": "write"
+    },
+    {
+      "sentence": "The team will learn mathematics.",
+      "verb": "learn"
+    },
+    {
+      "sentence": "Next week, the teacher will finish the report.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "I will visit the client next week.",
+      "verb": "visit"
+    },
+    {
+      "sentence": "The manager will sell a present.",
+      "verb": "sell"
+    },
+    {
+      "sentence": "Our neighbors will read the chapter next year.",
+      "verb": "read"
+    },
+    {
+      "sentence": "The children will enjoy pasta.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "The students will consider the future.",
+      "verb": "consider"
+    },
+    {
+      "sentence": "Later, they will give the keys.",
+      "verb": "give"
+    },
+    {
+      "sentence": "John will enjoy a song.",
+      "verb": "enjoy"
+    },
+    {
+      "sentence": "I will drive to the store.",
+      "verb": "drive"
+    },
+    {
+      "sentence": "This evening, the manager will eat a salad.",
+      "verb": "eat"
+    },
+    {
+      "sentence": "John will play a song tonight.",
+      "verb": "play"
+    },
+    {
+      "sentence": "John will leave to the beach.",
+      "verb": "leave"
+    },
+    {
+      "sentence": "Tonight, the students will understand mathematics.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "She will return to school tonight.",
+      "verb": "return"
+    },
+    {
+      "sentence": "John will talk the boss tomorrow.",
+      "verb": "talk"
+    },
+    {
+      "sentence": "This evening, my parents will draw a picture.",
+      "verb": "draw"
+    },
+    {
+      "sentence": "Tonight, we will consider the options.",
+      "verb": "consider"
+    },
+    {
+      "sentence": "Next month, the students will study vocabulary.",
+      "verb": "study"
+    },
+    {
+      "sentence": "Next year, the company will remember the problem.",
+      "verb": "remember"
+    },
+    {
+      "sentence": "The team will finish the application next month.",
+      "verb": "finish"
+    },
+    {
+      "sentence": "The dog will read history this evening.",
+      "verb": "read"
+    },
+    {
+      "sentence": "She will learn grammar next month.",
+      "verb": "learn"
+    },
+    {
+      "sentence": "Next week, the manager will call the teacher.",
+      "verb": "call"
+    },
+    {
+      "sentence": "Sarah will repair the kitchen.",
+      "verb": "repair"
+    },
+    {
+      "sentence": "The manager will give the phone.",
+      "verb": "give"
+    },
+    {
+      "sentence": "I will complete the proposal later.",
+      "verb": "complete"
+    },
+    {
+      "sentence": "Soon, her sister will play tennis.",
+      "verb": "play"
+    },
+    {
+      "sentence": "Emma will study the lesson.",
+      "verb": "study"
+    },
+    {
+      "sentence": "Tonight, the manager will play basketball.",
+      "verb": "play"
+    },
+    {
+      "sentence": "The bird will plan the trip.",
+      "verb": "plan"
+    },
+    {
+      "sentence": "Our neighbors will think about the event next year.",
+      "verb": "think"
+    },
+    {
+      "sentence": "We will fix the garden next week.",
+      "verb": "fix"
+    },
+    {
+      "sentence": "The students will drink a sandwich this weekend.",
+      "verb": "drink"
+    },
+    {
+      "sentence": "Later, john will drive to work.",
+      "verb": "drive"
+    },
+    {
+      "sentence": "The team will understand grammar.",
+      "verb": "understand"
+    },
+    {
+      "sentence": "You will cook a sandwich next month.",
+      "verb": "cook"
+    },
+    {
+      "sentence": "In two days, my parents will prepare pasta.",
+      "verb": "prepare"
+    }
+  ]
+}
