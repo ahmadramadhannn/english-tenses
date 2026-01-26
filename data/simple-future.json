@@ -1,0 +1,2006 @@
+{
+  "tense": "Simple Future",
+  "description": "Used for actions that will happen in the future",
+  "examples": [
+    {
+      "sentence": "Everyone will hold Spanish this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold Spanish next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold Spanish in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold Spanish next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold Spanish later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold Spanish in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold Spanish tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold Spanish soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold Spanish next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold Spanish tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold Spanish someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold Spanish in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a sandwich next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a sandwich later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a sandwich this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a sandwich someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a sandwich in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a sandwich soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a sandwich next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a sandwich in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a sandwich tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a sandwich tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a sandwich in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a sandwich next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold guitar later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold guitar in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold guitar soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold guitar this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold guitar tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold guitar next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold guitar in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold guitar in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold guitar next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold guitar tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold guitar someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold guitar next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the door next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the door tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the door someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the door in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the door next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the door this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the door soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the door next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the door tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the door in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the door later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the door in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold coffee next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold coffee next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold coffee tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold coffee in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold coffee later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold coffee in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold coffee next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold coffee soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold coffee tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold coffee someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold coffee in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold coffee this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the message next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the message in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the message this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the message next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the message soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the message in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the message in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the message someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the message tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the message later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the message tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the message next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold music in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold music this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold music later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold music in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold music in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold music tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold music next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold music next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold music tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold music someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold music soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold music next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold lunch this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold lunch soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold lunch next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold lunch in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold lunch next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold lunch in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold lunch later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold lunch someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold lunch tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold lunch tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold lunch in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold lunch next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the interview later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the interview this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the interview next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the interview in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the interview tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the interview next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the interview tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the interview soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the interview in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the interview in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the interview someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the interview next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a movie this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a movie soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a movie in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a movie in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a movie tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a movie someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a movie next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a movie next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a movie next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a movie tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a movie in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a movie later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the report later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the report in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the report this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the report next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the report next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the report in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the report someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the report tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the report in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the report next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the report tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the report soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the email tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the email in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the email later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the email next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the email tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the email next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the email soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the email someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the email in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the email in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the email next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the email this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the dishes next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the dishes next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the dishes tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the dishes tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the dishes soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the dishes in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the dishes this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the dishes later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the dishes in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the dishes in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the dishes next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the dishes someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the project next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the project tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the project in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the project later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the project soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the project in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the project next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the project in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the project next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the project this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the project tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the project someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold French next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold French someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold French in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold French in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold French tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold French next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold French tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold French later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold French in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold French this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold French next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold French soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a song in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a song in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a song someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a song next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a song next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a song soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a song tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a song this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a song next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a song later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a song tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a song in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the presentation this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the presentation tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the presentation tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the presentation next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the presentation in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the presentation later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the presentation someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the presentation in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the presentation soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the presentation next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the presentation next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the presentation in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold pizza in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold pizza in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold pizza tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold pizza this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold pizza later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold pizza soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold pizza next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold pizza tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold pizza someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold pizza next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold pizza in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold pizza next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the garden soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the garden this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the garden tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the garden in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the garden tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the garden next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the garden in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the garden later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the garden someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the garden next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the garden next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the garden in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the meeting in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the meeting tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the meeting next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the meeting next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the meeting someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the meeting soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the meeting this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the meeting next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the meeting later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the meeting tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the meeting in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the meeting in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the proposal in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the proposal soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the proposal someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the proposal in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the proposal tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the proposal tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the proposal next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the proposal this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the proposal in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the proposal next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the proposal next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the proposal later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold water soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold water this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold water later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold water tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold water next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold water someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold water next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold water in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold water in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold water in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold water next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold water tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold tea in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold tea next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold tea tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold tea in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold tea next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold tea tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold tea soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold tea in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold tea someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold tea this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold tea later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold tea next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the phone in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the phone in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the phone next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the phone next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the phone next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the phone someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the phone soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the phone this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the phone in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the phone later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the phone tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the phone tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the game someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the game soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the game later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the game in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the game in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the game tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the game next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the game next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the game this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the game next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the game in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the game tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the window in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the window someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the window later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the window in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the window this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the window tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the window tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the window next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the window next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the window soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the window in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the window next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold breakfast next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold breakfast in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold breakfast in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold breakfast next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold breakfast in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold breakfast soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold breakfast later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold breakfast tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold breakfast this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold breakfast tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold breakfast someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold breakfast next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the floor this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the floor next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the floor in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the floor tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the floor in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the floor in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the floor next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the floor tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the floor someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the floor next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the floor soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the floor later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the house someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the house in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the house next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the house in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the house this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the house tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the house in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the house later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the house next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the house next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the house soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the house tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the exam soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the exam in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the exam someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the exam in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the exam tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the exam this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the exam in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the exam next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the exam next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the exam next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the exam tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the exam later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the document tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the document tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the document this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the document next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the document in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the document next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the document soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the document later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the document someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the document in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the document next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the document in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the lesson in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the lesson in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the lesson someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the lesson in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the lesson soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the lesson tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the lesson later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the lesson next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the lesson next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the lesson next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the lesson tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the lesson this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a cake in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a cake in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a cake next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a cake soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a cake next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a cake tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a cake next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a cake in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a cake someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a cake later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a cake this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold a cake tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the piano next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the piano in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the piano this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the piano soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the piano in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the piano next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the piano next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the piano tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the piano tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the piano in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the piano someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the piano later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold dinner tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold dinner this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold dinner someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold dinner next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold dinner next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold dinner tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold dinner soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold dinner in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold dinner in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold dinner in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold dinner later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold dinner next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the car in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the car in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the car next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the car soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the car next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the car this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the car tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the car next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the car in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the car later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the car tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the car someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the test soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the test next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the test tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the test in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the test next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the test in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the test later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the test in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the test someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the test tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the test this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the test next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the ticket next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the ticket tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the ticket in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the ticket tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the ticket this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the ticket someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the ticket in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the ticket soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the ticket next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the ticket later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the ticket in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the ticket next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the book tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the book this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the book tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the book soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the book next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the book in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the book someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the book next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the book next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the book later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the book in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the book in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the package this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the package tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the package in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the package in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the package soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the package next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the package tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the package in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the package later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the package next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the package next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the package someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the computer next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the computer this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the computer in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the computer someday.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the computer next year.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the computer in two days.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the computer next week.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the computer in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the computer soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the computer later today.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the computer tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the computer tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the contract tomorrow.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the contract next month.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the contract this weekend.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the contract soon.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the contract in the future.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the contract tonight.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the contract in an hour.",
+      "verb": "will hold"
+    },
+    {
+      "sentence": "Everyone will hold the contract next week.",
+      "verb": "will hold"
+    }
+  ]
+}

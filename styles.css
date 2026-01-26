@@ -1,0 +1,327 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f5f5f5;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+/* Header */
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+header h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #1a1a1a;
+}
+
+.subtitle {
+    color: #666;
+    margin-top: 0.25rem;
+}
+
+/* Controls */
+.controls {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+select {
+    padding: 0.625rem 1rem;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: white;
+    cursor: pointer;
+    min-width: 200px;
+}
+
+select:focus {
+    outline: none;
+    border-color: #666;
+}
+
+.btn {
+    padding: 0.625rem 1rem;
+    font-size: 0.875rem;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: white;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.btn:hover {
+    background-color: #f0f0f0;
+}
+
+.btn-primary {
+    background-color: #333;
+    color: white;
+    border-color: #333;
+}
+
+.btn-primary:hover {
+    background-color: #555;
+}
+
+.btn-secondary {
+    background-color: #fafafa;
+}
+
+.btn-small {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.8rem;
+}
+
+/* Tense Info */
+.tense-info {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid #eee;
+}
+
+.tense-info h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1a1a1a;
+}
+
+.tense-info p {
+    color: #666;
+    margin-top: 0.25rem;
+    font-size: 0.9rem;
+}
+
+/* Example Card */
+.example-container {
+    margin-bottom: 1.5rem;
+}
+
+.example-card {
+    background-color: white;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 1.5rem;
+}
+
+.sentence {
+    font-size: 1.25rem;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+}
+
+.sentence .word {
+    cursor: pointer;
+    padding: 0.1rem 0.2rem;
+    border-radius: 3px;
+    transition: background-color 0.15s ease;
+}
+
+.sentence .word:hover {
+    background-color: #e8e8e8;
+}
+
+.sentence .verb {
+    color: #2563eb;
+    font-weight: 500;
+}
+
+.sentence .verb:hover {
+    background-color: #dbeafe;
+}
+
+.example-actions {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: flex-end;
+}
+
+/* Favorites */
+.favorites-container {
+    background-color: white;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 1.5rem;
+}
+
+.favorites-container h2 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.favorites-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.favorite-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0.75rem;
+    background-color: #fafafa;
+    border-radius: 6px;
+    gap: 0.5rem;
+}
+
+.favorite-item .sentence {
+    font-size: 1rem;
+    margin-bottom: 0;
+    flex: 1;
+}
+
+.favorite-item .tense-label {
+    font-size: 0.75rem;
+    color: #666;
+    background-color: #eee;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    white-space: nowrap;
+}
+
+.favorite-item .remove-btn {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+    border: none;
+    background-color: transparent;
+    color: #999;
+    cursor: pointer;
+}
+
+.favorite-item .remove-btn:hover {
+    color: #e53e3e;
+}
+
+.no-favorites {
+    color: #999;
+    text-align: center;
+    padding: 1rem;
+}
+
+/* Tooltip */
+.tooltip {
+    position: fixed;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    max-width: 350px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+.tooltip-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #eee;
+}
+
+.tooltip-word {
+    font-size: 1.125rem;
+    font-weight: 600;
+}
+
+.tooltip-phonetic {
+    font-size: 0.875rem;
+    color: #666;
+}
+
+.tooltip-content {
+    font-size: 0.875rem;
+}
+
+.tooltip-meaning {
+    margin-bottom: 0.75rem;
+}
+
+.tooltip-meaning:last-child {
+    margin-bottom: 0;
+}
+
+.tooltip-pos {
+    font-weight: 500;
+    color: #2563eb;
+    margin-bottom: 0.25rem;
+}
+
+.tooltip-definition {
+    color: #333;
+    margin-bottom: 0.25rem;
+}
+
+.tooltip-example {
+    color: #666;
+    font-style: italic;
+    font-size: 0.8rem;
+}
+
+.tooltip-loading {
+    color: #666;
+}
+
+.tooltip-error {
+    color: #e53e3e;
+}
+
+/* Utility classes */
+.hidden {
+    display: none !important;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .container {
+        padding: 1rem;
+    }
+
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    .controls {
+        flex-direction: column;
+    }
+
+    select, .btn {
+        width: 100%;
+    }
+
+    .sentence {
+        font-size: 1.1rem;
+    }
+
+    .example-actions {
+        flex-direction: column;
+    }
+
+    .example-actions .btn {
+        width: 100%;
+    }
+}

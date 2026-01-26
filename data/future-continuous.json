@@ -1,0 +1,2006 @@
+{
+  "tense": "Future Continuous",
+  "description": "Used for actions that will be in progress at a specific time in the future",
+  "examples": [
+    {
+      "sentence": "Sarah will be drinking the window next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the window soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the window next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the window in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the window next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the window later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the window in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the window tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the window in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the window this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the window tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the window someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the proposal next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the proposal tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the proposal in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the proposal tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the proposal next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the proposal in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the proposal in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the proposal later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the proposal next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the proposal this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the proposal soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the proposal someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the lesson next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the lesson this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the lesson next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the lesson in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the lesson in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the lesson next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the lesson in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the lesson tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the lesson soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the lesson tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the lesson later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the lesson someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the test soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the test later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the test someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the test tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the test this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the test in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the test tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the test next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the test next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the test in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the test next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the test in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a sandwich tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a sandwich tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a sandwich soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a sandwich next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a sandwich in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a sandwich in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a sandwich next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a sandwich in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a sandwich this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a sandwich someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a sandwich next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a sandwich later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the book in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the book in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the book tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the book someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the book later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the book next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the book this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the book tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the book soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the book in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the book next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the book next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the meeting in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the meeting tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the meeting soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the meeting next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the meeting next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the meeting later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the meeting someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the meeting in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the meeting in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the meeting this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the meeting next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the meeting tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the package this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the package in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the package someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the package soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the package next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the package next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the package next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the package later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the package in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the package tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the package in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the package tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking breakfast someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking breakfast this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking breakfast in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking breakfast later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking breakfast in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking breakfast tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking breakfast soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking breakfast tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking breakfast in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking breakfast next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking breakfast next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking breakfast next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the phone in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the phone soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the phone next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the phone this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the phone next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the phone tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the phone in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the phone later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the phone next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the phone someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the phone in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the phone tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the ticket tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the ticket someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the ticket tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the ticket next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the ticket in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the ticket next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the ticket this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the ticket in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the ticket in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the ticket next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the ticket soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the ticket later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking pizza next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking pizza next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking pizza someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking pizza in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking pizza later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking pizza in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking pizza next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking pizza soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking pizza tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking pizza tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking pizza in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking pizza this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking lunch someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking lunch tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking lunch next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking lunch next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking lunch soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking lunch in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking lunch tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking lunch this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking lunch in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking lunch later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking lunch in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking lunch next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the floor later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the floor soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the floor in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the floor tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the floor tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the floor someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the floor next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the floor next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the floor this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the floor next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the floor in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the floor in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the exam tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the exam next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the exam later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the exam tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the exam in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the exam next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the exam in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the exam this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the exam someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the exam next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the exam soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the exam in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the email later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the email in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the email in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the email tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the email this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the email next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the email in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the email next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the email next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the email soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the email someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the email tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the piano next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the piano in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the piano someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the piano tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the piano later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the piano next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the piano soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the piano in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the piano this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the piano tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the piano in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the piano next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a letter tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a letter next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a letter this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a letter in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a letter someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a letter next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a letter tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a letter next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a letter later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a letter in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a letter in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a letter soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking French later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking French in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking French next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking French tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking French soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking French someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking French in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking French this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking French in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking French next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking French next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking French tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking Spanish tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking Spanish next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking Spanish later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking Spanish in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking Spanish in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking Spanish someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking Spanish soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking Spanish in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking Spanish next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking Spanish this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking Spanish next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking Spanish tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the laundry next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the laundry next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the laundry tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the laundry in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the laundry tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the laundry this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the laundry in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the laundry later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the laundry next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the laundry soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the laundry in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the laundry someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the newspaper in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the newspaper in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the newspaper tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the newspaper soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the newspaper later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the newspaper someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the newspaper in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the newspaper tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the newspaper next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the newspaper next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the newspaper next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the newspaper this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a song soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a song tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a song in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a song someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a song later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a song tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a song next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a song in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a song next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a song next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a song this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a song in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking water later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking water in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking water soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking water next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking water next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking water tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking water tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking water someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking water next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking water in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking water in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking water this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the report someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the report tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the report soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the report in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the report tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the report in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the report in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the report next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the report next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the report next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the report this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the report later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the door in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the door soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the door in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the door later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the door next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the door this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the door tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the door someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the door next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the door next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the door tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the door in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking guitar later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking guitar soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking guitar in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking guitar tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking guitar tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking guitar in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking guitar someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking guitar next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking guitar in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking guitar this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking guitar next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking guitar next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the contract tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the contract next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the contract this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the contract next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the contract tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the contract in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the contract someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the contract soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the contract in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the contract in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the contract next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the contract later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking dinner later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking dinner this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking dinner in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking dinner in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking dinner someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking dinner soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking dinner in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking dinner next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking dinner next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking dinner tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking dinner next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking dinner tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking English tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking English someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking English this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking English next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking English in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking English next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking English next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking English in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking English in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking English tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking English soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking English later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the project next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the project tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the project tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the project next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the project someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the project in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the project soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the project later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the project next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the project in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the project this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the project in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a cake in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a cake soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a cake tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a cake this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a cake tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a cake next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a cake next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a cake someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a cake later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a cake next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a cake in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a cake in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the office this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the office tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the office next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the office next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the office soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the office later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the office in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the office someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the office next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the office in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the office in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the office tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the car tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the car in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the car tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the car someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the car soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the car next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the car in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the car this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the car in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the car next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the car later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the car next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking music this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking music soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking music in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking music in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking music next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking music in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking music tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking music next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking music tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking music later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking music next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking music someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the garden tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the garden next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the garden in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the garden someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the garden in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the garden tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the garden soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the garden next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the garden in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the garden this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the garden later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the garden next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the house next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the house later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the house in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the house in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the house tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the house soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the house this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the house in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the house next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the house tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the house next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the house someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the homework in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the homework next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the homework later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the homework next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the homework tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the homework in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the homework tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the homework this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the homework in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the homework someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the homework soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the homework next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the computer next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the computer someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the computer this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the computer in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the computer in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the computer tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the computer later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the computer in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the computer next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the computer tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the computer next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the computer soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the presentation later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the presentation next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the presentation this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the presentation tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the presentation in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the presentation someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the presentation in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the presentation in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the presentation next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the presentation next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the presentation soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the presentation tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the message next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the message tomorrow.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the message tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the message soon.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the message in an hour.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the message in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the message in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the message someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the message next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the message this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the message next month.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking the message later today.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a movie in the future.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a movie someday.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a movie next week.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a movie next year.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a movie this weekend.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a movie in two days.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a movie tonight.",
+      "verb": "drinking"
+    },
+    {
+      "sentence": "Sarah will be drinking a movie tomorrow.",
+      "verb": "drinking"
+    }
+  ]
+}

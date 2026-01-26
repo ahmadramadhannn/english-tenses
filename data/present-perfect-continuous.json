@@ -1,0 +1,2006 @@
+{
+  "tense": "Present Perfect Continuous",
+  "description": "Used for actions that started in the past and continue to the present",
+  "examples": [
+    {
+      "sentence": "It has been thinking the project for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the project for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the project since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the project for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the project all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the project for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the project since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the project for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the project since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the project all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking lunch since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking lunch for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking lunch since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking lunch for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking lunch since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking lunch all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking lunch for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking lunch for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking lunch for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking lunch all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the proposal for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the proposal since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the proposal for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the proposal for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the proposal for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the proposal all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the proposal since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the proposal all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the proposal for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the proposal since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking water for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking water all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking water for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking water since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking water all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking water for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking water for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking water for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking water since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking water since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking dinner since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking dinner all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking dinner since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking dinner for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking dinner for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking dinner for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking dinner all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking dinner for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking dinner since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking dinner for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the presentation since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the presentation since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the presentation since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the presentation for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the presentation all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the presentation for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the presentation for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the presentation for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the presentation all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the presentation for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the computer all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the computer for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the computer since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the computer for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the computer for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the computer since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the computer since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the computer all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the computer for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the computer for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the piano for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the piano all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the piano since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the piano since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the piano for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the piano for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the piano for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the piano since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the piano for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the piano all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a movie for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a movie for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a movie for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a movie all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a movie all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a movie for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a movie since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a movie since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a movie for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a movie since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking French for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking French for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking French all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking French for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking French since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking French all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking French since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking French for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking French since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking French for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking pizza for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking pizza since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking pizza since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking pizza for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking pizza all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking pizza all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking pizza for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking pizza for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking pizza since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking pizza for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the game for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the game all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the game all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the game since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the game for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the game since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the game for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the game for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the game for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the game since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a song all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a song for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a song for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a song for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a song since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a song for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a song since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a song all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a song for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a song since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the homework all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the homework for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the homework for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the homework since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the homework all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the homework for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the homework for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the homework for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the homework since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the homework since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the lesson for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the lesson for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the lesson for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the lesson all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the lesson since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the lesson all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the lesson for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the lesson since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the lesson for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the lesson since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking English all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking English for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking English for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking English since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking English for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking English for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking English since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking English since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking English for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking English all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the message all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the message for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the message since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the message since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the message for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the message for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the message since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the message for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the message all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the message for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking tea all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking tea all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking tea for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking tea since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking tea for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking tea for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking tea since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking tea for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking tea since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking tea for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking breakfast since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking breakfast all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking breakfast since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking breakfast since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking breakfast all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking breakfast for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking breakfast for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking breakfast for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking breakfast for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking breakfast for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the laundry since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the laundry for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the laundry for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the laundry for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the laundry since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the laundry for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the laundry since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the laundry all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the laundry for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the laundry all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the test for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the test all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the test since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the test all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the test for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the test since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the test since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the test for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the test for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the test for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the window since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the window all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the window for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the window for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the window for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the window all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the window for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the window for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the window since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the window since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a cake for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a cake all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a cake since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a cake since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a cake for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a cake since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a cake for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a cake all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a cake for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a cake for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the interview since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the interview for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the interview since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the interview for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the interview since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the interview all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the interview for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the interview for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the interview for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the interview all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the document for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the document since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the document all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the document for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the document since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the document for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the document all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the document since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the document for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the document for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the house for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the house for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the house for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the house all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the house since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the house all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the house since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the house since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the house for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the house for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the package for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the package all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the package for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the package for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the package since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the package all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the package since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the package since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the package for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the package for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the phone since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the phone for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the phone for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the phone since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the phone for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the phone all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the phone for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the phone for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the phone since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the phone all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the door for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the door since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the door since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the door all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the door all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the door for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the door for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the door for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the door for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the door since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the report for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the report for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the report since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the report all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the report for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the report all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the report for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the report for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the report since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the report since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the class all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the class for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the class since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the class since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the class since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the class for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the class all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the class for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the class for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the class for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the email since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the email for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the email for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the email since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the email for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the email all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the email all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the email for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the email since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the email for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the car since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the car for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the car for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the car all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the car for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the car for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the car since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the car since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the car for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the car all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking Spanish since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking Spanish all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking Spanish for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking Spanish for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking Spanish for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking Spanish for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking Spanish since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking Spanish all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking Spanish since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking Spanish for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the meeting since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the meeting for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the meeting since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the meeting for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the meeting for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the meeting all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the meeting for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the meeting since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the meeting for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the meeting all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking music since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking music since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking music for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking music all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking music since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking music for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking music for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking music all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking music for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking music for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking guitar for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking guitar for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking guitar all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking guitar all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking guitar for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking guitar since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking guitar since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking guitar for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking guitar for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking guitar since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the dishes since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the dishes for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the dishes for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the dishes for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the dishes for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the dishes since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the dishes all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the dishes for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the dishes since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the dishes all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking coffee since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking coffee for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking coffee since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking coffee for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking coffee all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking coffee all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking coffee for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking coffee for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking coffee for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking coffee since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the ticket for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the ticket all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the ticket for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the ticket since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the ticket since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the ticket for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the ticket since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the ticket for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the ticket all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the ticket for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the garden all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the garden since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the garden for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the garden for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the garden for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the garden all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the garden since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the garden for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the garden since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the garden for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the exam for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the exam for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the exam since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the exam all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the exam for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the exam since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the exam since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the exam all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the exam for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the exam for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the newspaper for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the newspaper all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the newspaper since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the newspaper for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the newspaper since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the newspaper since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the newspaper all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the newspaper for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the newspaper for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the newspaper for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a sandwich since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a sandwich all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a sandwich for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a sandwich for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a sandwich since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a sandwich all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a sandwich for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a sandwich for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a sandwich since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a sandwich for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the book for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the book since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the book all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the book all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the book for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the book for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the book for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the book since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the book for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the book since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the contract since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the contract all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the contract for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the contract all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the contract for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the contract for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the contract for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the contract since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the contract since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the contract for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a letter since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a letter for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a letter for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a letter all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a letter all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a letter for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a letter for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a letter since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a letter for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking a letter since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the office since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the office for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the office all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the office since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the office since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the office for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the office for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the office for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the office all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the office for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the floor since 2020.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the floor for years.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the floor all day.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the floor for a week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the floor for two hours.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the floor since morning.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the floor all week.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the floor for a month.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the floor since yesterday.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been thinking the floor for three days.",
+      "verb": "thinking"
+    },
+    {
+      "sentence": "It has been wanting the document for a month.",
+      "verb": "wanting"
+    },
+    {
+      "sentence": "It has been wanting the document for two hours.",
+      "verb": "wanting"
+    },
+    {
+      "sentence": "It has been wanting the document all week.",
+      "verb": "wanting"
+    },
+    {
+      "sentence": "It has been wanting the document all day.",
+      "verb": "wanting"
+    },
+    {
+      "sentence": "It has been wanting the document since yesterday.",
+      "verb": "wanting"
+    },
+    {
+      "sentence": "It has been wanting the document since 2020.",
+      "verb": "wanting"
+    },
+    {
+      "sentence": "It has been wanting the document for three days.",
+      "verb": "wanting"
+    },
+    {
+      "sentence": "It has been wanting the document since morning.",
+      "verb": "wanting"
+    },
+    {
+      "sentence": "It has been wanting the document for years.",
+      "verb": "wanting"
+    },
+    {
+      "sentence": "It has been wanting the document for a week.",
+      "verb": "wanting"
+    }
+  ]
+}

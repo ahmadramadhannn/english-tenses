@@ -1,0 +1,2006 @@
+{
+  "tense": "Simple Past",
+  "description": "Used for completed actions at a specific time in the past",
+  "examples": [
+    {
+      "sentence": "My friend met the report when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the report two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the report a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the report three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the report yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the report last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the report in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the report this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the report an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the report last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the report last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the report last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the newspaper last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the newspaper in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the newspaper this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the newspaper last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the newspaper a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the newspaper last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the newspaper an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the newspaper when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the newspaper three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the newspaper two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the newspaper yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the newspaper last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the ticket yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the ticket an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the ticket last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the ticket this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the ticket two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the ticket last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the ticket when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the ticket a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the ticket three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the ticket in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the ticket last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the ticket last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met music last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met music in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met music an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met music last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met music yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met music three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met music last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met music this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met music last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met music a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met music when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met music two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met dinner an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met dinner last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met dinner two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met dinner a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met dinner when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met dinner yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met dinner in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met dinner last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met dinner last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met dinner last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met dinner three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met dinner this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the phone three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the phone yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the phone when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the phone two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the phone a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the phone in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the phone an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the phone this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the phone last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the phone last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the phone last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the phone last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met lunch this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met lunch an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met lunch last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met lunch two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met lunch a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met lunch when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met lunch in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met lunch last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met lunch last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met lunch three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met lunch yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met lunch last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the email last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the email last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the email last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the email two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the email when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the email last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the email in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the email a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the email an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the email this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the email three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the email yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the contract last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the contract last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the contract when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the contract last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the contract yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the contract three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the contract in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the contract last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the contract two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the contract an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the contract a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the contract this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a movie in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a movie a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a movie an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a movie three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a movie two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a movie last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a movie this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a movie last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a movie when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a movie last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a movie last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a movie yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the message last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the message three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the message this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the message a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the message in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the message two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the message last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the message last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the message yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the message an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the message last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the message when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a song last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a song two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a song last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a song an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a song last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a song last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a song this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a song in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a song yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a song when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a song a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a song three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the computer last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the computer three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the computer when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the computer this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the computer two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the computer last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the computer last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the computer in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the computer an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the computer yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the computer last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the computer a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the laundry last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the laundry two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the laundry when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the laundry in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the laundry last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the laundry a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the laundry yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the laundry this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the laundry an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the laundry last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the laundry three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the laundry last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the game last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the game this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the game two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the game last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the game when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the game last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the game in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the game a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the game yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the game last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the game an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the game three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the dishes yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the dishes when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the dishes last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the dishes three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the dishes an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the dishes this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the dishes a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the dishes in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the dishes two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the dishes last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the dishes last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the dishes last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met coffee yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met coffee two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met coffee a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met coffee three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met coffee in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met coffee last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met coffee last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met coffee an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met coffee this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met coffee when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met coffee last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met coffee last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met guitar yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met guitar last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met guitar last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met guitar an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met guitar last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met guitar two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met guitar this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met guitar a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met guitar three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met guitar last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met guitar in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met guitar when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the homework a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the homework two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the homework three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the homework last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the homework in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the homework yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the homework last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the homework last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the homework when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the homework last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the homework this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the homework an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the interview last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the interview in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the interview a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the interview two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the interview last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the interview last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the interview yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the interview last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the interview when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the interview an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the interview this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the interview three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the car last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the car in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the car when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the car this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the car yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the car three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the car a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the car two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the car last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the car an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the car last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the car last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the house three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the house in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the house a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the house when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the house this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the house last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the house two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the house last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the house last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the house yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the house an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the house last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met tea last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met tea when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met tea last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met tea last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met tea three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met tea last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met tea two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met tea an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met tea in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met tea yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met tea a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met tea this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the lesson a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the lesson an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the lesson in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the lesson last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the lesson last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the lesson yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the lesson this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the lesson when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the lesson last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the lesson two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the lesson last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the lesson three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met pizza last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met pizza yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met pizza last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met pizza an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met pizza last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met pizza this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met pizza last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met pizza two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met pizza three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met pizza in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met pizza a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met pizza when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the proposal last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the proposal this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the proposal when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the proposal yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the proposal three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the proposal a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the proposal two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the proposal an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the proposal last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the proposal last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the proposal last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the proposal in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the test yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the test a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the test three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the test this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the test last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the test when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the test last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the test in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the test last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the test two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the test last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the test an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the floor last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the floor three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the floor an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the floor in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the floor this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the floor when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the floor a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the floor yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the floor two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the floor last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the floor last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the floor last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the package in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the package two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the package when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the package last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the package a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the package this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the package an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the package yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the package last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the package last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the package last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the package three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the window last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the window in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the window yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the window three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the window last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the window two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the window when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the window last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the window last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the window this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the window an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the window a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the office two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the office yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the office last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the office an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the office last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the office when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the office last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the office a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the office last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the office in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the office three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the office this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the book last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the book last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the book when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the book three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the book an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the book last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the book in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the book yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the book this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the book a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the book last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the book two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the document a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the document yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the document this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the document last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the document last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the document an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the document two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the document last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the document last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the document three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the document when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the document in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met French three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met French a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met French last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met French in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met French two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met French when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met French an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met French last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met French this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met French last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met French last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met French yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met Spanish last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met Spanish when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met Spanish this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met Spanish an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met Spanish yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met Spanish three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met Spanish two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met Spanish a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met Spanish in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met Spanish last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met Spanish last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met Spanish last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met English when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met English this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met English last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met English a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met English yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met English two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met English in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met English last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met English three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met English an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met English last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met English last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met breakfast in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met breakfast an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met breakfast last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met breakfast yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met breakfast last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met breakfast when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met breakfast three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met breakfast two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met breakfast a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met breakfast last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met breakfast last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met breakfast this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the meeting last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the meeting two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the meeting yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the meeting last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the meeting a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the meeting an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the meeting this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the meeting last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the meeting in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the meeting last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the meeting three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the meeting when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a sandwich last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a sandwich last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a sandwich when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a sandwich three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a sandwich last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a sandwich two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a sandwich this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a sandwich in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a sandwich yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a sandwich an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a sandwich a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a sandwich last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met water this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met water an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met water last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met water last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met water last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met water yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met water in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met water two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met water a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met water three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met water when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met water last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the garden in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the garden yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the garden three years ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the garden a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the garden last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the garden two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the garden an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the garden last year.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the garden this morning.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the garden when I was young.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the garden last month.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met the garden last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a letter last week.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a letter an hour ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a letter two days ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a letter a while ago.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a letter in 2020.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a letter last night.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a letter yesterday.",
+      "verb": "met"
+    },
+    {
+      "sentence": "My friend met a letter this morning.",
+      "verb": "met"
+    }
+  ]
+}

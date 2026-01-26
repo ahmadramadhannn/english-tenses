@@ -1,0 +1,2006 @@
+{
+  "tense": "Present Perfect",
+  "description": "Used for actions that happened at an unspecified time or have relevance to the present",
+  "examples": [
+    {
+      "sentence": "He has cooked Spanish.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the project.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the test.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked a movie.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the piano.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked dinner.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the class.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the document.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the game.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked a song.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the car.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked music.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked coffee.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the exam.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the laundry.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked tea.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the package.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the garden.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the homework.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked a letter.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the dishes.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the email.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the office.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked a sandwich.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the window.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the computer.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked pizza.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the interview.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the meeting.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked water.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the lesson.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the contract.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the door.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked lunch.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the book.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked guitar.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the report.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the phone.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked breakfast.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked English.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked a cake.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the message.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the presentation.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the floor.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the house.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the ticket.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the proposal.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked French.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has cooked the newspaper.",
+      "verb": "cooked"
+    },
+    {
+      "sentence": "He has swum the test.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the email.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the project.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum coffee.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum lunch.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the book.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the house.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum guitar.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum dinner.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the proposal.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum Spanish.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the phone.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the contract.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum English.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the door.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the computer.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the game.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the presentation.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum tea.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum a sandwich.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the package.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the floor.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the class.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum a cake.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the car.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the office.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the document.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum breakfast.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum music.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the garden.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the message.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the lesson.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the piano.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum water.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the ticket.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the meeting.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the homework.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the exam.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the dishes.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the laundry.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum a movie.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the interview.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the newspaper.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum a song.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum a letter.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum French.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the window.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum pizza.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has swum the report.",
+      "verb": "swum"
+    },
+    {
+      "sentence": "He has chosen the proposal.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the ticket.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the report.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the office.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the document.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen lunch.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the book.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the package.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the house.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the floor.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen dinner.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen a movie.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the window.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the newspaper.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen Spanish.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen French.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the message.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the meeting.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen pizza.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen guitar.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the lesson.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the door.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the game.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the laundry.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the test.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the project.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the email.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen tea.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the interview.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen a sandwich.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the homework.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the presentation.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the piano.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen coffee.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the contract.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen water.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the car.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the computer.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen breakfast.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the class.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen a cake.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen a song.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen music.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen English.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the phone.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen a letter.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the dishes.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the exam.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has chosen the garden.",
+      "verb": "chosen"
+    },
+    {
+      "sentence": "He has needed the laundry.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the document.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed coffee.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the garden.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the dishes.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the message.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the report.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the contract.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed guitar.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the ticket.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the exam.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the book.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the email.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the phone.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed French.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the homework.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed lunch.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the house.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed a cake.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed a sandwich.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the game.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed English.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed a movie.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the computer.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed water.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the office.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the class.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed a song.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the car.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the door.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed pizza.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the proposal.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the newspaper.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the floor.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the test.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the package.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed a letter.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the piano.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed music.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed Spanish.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the presentation.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the window.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the meeting.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the project.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed dinner.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the interview.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed tea.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed breakfast.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has needed the lesson.",
+      "verb": "needed"
+    },
+    {
+      "sentence": "He has tried the game.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the newspaper.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the meeting.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the lesson.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried tea.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the contract.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried a sandwich.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried lunch.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the document.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the laundry.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried music.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the proposal.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried English.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried Spanish.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the message.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the computer.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried a cake.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the email.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the door.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the exam.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the class.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the piano.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried a movie.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried water.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the test.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the report.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the floor.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried coffee.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the project.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the car.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the homework.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the office.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the window.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried breakfast.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the phone.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried guitar.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried a letter.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the book.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the garden.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the interview.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the dishes.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the package.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried pizza.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the presentation.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the house.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried the ticket.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried dinner.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried French.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has tried a song.",
+      "verb": "tried"
+    },
+    {
+      "sentence": "He has built lunch.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built water.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the project.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built a letter.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the computer.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the door.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the meeting.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built dinner.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the class.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the laundry.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the ticket.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the email.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built guitar.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built music.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built French.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the message.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built pizza.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the exam.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the garden.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built Spanish.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built coffee.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the game.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the book.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built a cake.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the piano.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the package.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the newspaper.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built a sandwich.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the presentation.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the dishes.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the report.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built a movie.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the test.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the window.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the floor.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the proposal.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the office.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the interview.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built a song.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built tea.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built breakfast.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the lesson.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the car.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the phone.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the contract.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built English.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the document.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the house.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has built the homework.",
+      "verb": "built"
+    },
+    {
+      "sentence": "He has slept music.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept dinner.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the meeting.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept French.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the exam.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the lesson.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept guitar.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the message.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the project.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the ticket.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the game.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the phone.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the test.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the piano.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the package.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept English.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the contract.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the floor.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept pizza.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the newspaper.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the proposal.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the report.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the garden.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the window.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the office.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the house.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept a letter.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the presentation.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept breakfast.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept lunch.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the homework.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept coffee.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the email.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the interview.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept water.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept tea.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the book.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the car.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept a cake.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept a song.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the class.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the door.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the document.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the laundry.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the dishes.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept a sandwich.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept a movie.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept the computer.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has slept Spanish.",
+      "verb": "slept"
+    },
+    {
+      "sentence": "He has started the exam.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started guitar.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the game.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the office.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the class.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the computer.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the floor.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started breakfast.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started a sandwich.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the car.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the house.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started dinner.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started music.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the presentation.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the door.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the lesson.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the contract.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started English.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started coffee.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started a song.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the interview.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the email.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the garden.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the package.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started a movie.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started a letter.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the book.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the piano.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the window.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the message.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started water.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the meeting.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the project.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the ticket.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the test.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the homework.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the dishes.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started a cake.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the proposal.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started Spanish.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the laundry.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the document.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started lunch.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started tea.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the phone.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started French.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the report.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started the newspaper.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has started pizza.",
+      "verb": "started"
+    },
+    {
+      "sentence": "He has understood water.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the message.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood lunch.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood guitar.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the game.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the computer.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the car.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the exam.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the phone.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the email.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood a sandwich.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood coffee.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the ticket.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the class.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the document.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the project.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the test.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood a song.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood English.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the window.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood tea.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the proposal.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the presentation.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood a letter.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the meeting.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the garden.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the door.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood dinner.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the office.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the lesson.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the dishes.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the interview.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the house.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the laundry.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the newspaper.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the package.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood breakfast.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood a cake.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the floor.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood pizza.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the homework.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the report.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood French.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood music.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood Spanish.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the piano.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the contract.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood the book.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has understood a movie.",
+      "verb": "understood"
+    },
+    {
+      "sentence": "He has eaten the contract.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten a movie.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten lunch.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the report.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the package.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the floor.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten a cake.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the office.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the proposal.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the dishes.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the phone.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the ticket.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the class.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten music.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the car.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten a letter.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the newspaper.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the email.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the garden.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the document.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten Spanish.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the laundry.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the lesson.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten dinner.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten water.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the book.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the homework.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the project.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the house.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the door.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the game.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the piano.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the presentation.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten a sandwich.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten pizza.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten French.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the exam.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the test.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten English.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the meeting.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten guitar.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten breakfast.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the message.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the computer.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the window.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten a song.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten coffee.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten the interview.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has eaten tea.",
+      "verb": "eaten"
+    },
+    {
+      "sentence": "He has liked Spanish.",
+      "verb": "liked"
+    },
+    {
+      "sentence": "He has liked the garden.",
+      "verb": "liked"
+    },
+    {
+      "sentence": "He has liked the lesson.",
+      "verb": "liked"
+    },
+    {
+      "sentence": "He has liked the email.",
+      "verb": "liked"
+    },
+    {
+      "sentence": "He has liked the laundry.",
+      "verb": "liked"
+    },
+    {
+      "sentence": "He has liked a song.",
+      "verb": "liked"
+    },
+    {
+      "sentence": "He has liked the meeting.",
+      "verb": "liked"
+    },
+    {
+      "sentence": "He has liked lunch.",
+      "verb": "liked"
+    },
+    {
+      "sentence": "He has liked the class.",
+      "verb": "liked"
+    },
+    {
+      "sentence": "He has liked the presentation.",
+      "verb": "liked"
+    }
+  ]
+}

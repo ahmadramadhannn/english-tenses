@@ -1,0 +1,2006 @@
+{
+  "tense": "Future Perfect",
+  "description": "Used for actions that will be completed before a specific future time",
+  "examples": [
+    {
+      "sentence": "The teacher will have changed the homework by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the homework by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the homework by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the homework by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the homework by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the homework by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the homework by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the homework by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the homework by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the homework by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the homework by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the homework by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the email by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the email by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the email by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the email by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the email by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the email by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the email by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the email by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the email by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the email by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the email by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the email by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed breakfast by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed breakfast by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed breakfast by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed breakfast by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed breakfast by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed breakfast by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed breakfast by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed breakfast by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed breakfast by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed breakfast by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed breakfast by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed breakfast by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed dinner by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed dinner by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed dinner by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed dinner by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed dinner by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed dinner by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed dinner by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed dinner by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed dinner by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed dinner by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed dinner by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed dinner by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a cake by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a cake by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a cake by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a cake by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a cake by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a cake by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a cake by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a cake by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a cake by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a cake by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a cake by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a cake by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed tea by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed tea by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed tea by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed tea by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed tea by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed tea by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed tea by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed tea by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed tea by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed tea by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed tea by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed tea by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the piano by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the piano by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the piano by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the piano by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the piano by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the piano by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the piano by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the piano by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the piano by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the piano by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the piano by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the piano by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the phone by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the phone by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the phone by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the phone by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the phone by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the phone by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the phone by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the phone by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the phone by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the phone by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the phone by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the phone by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the book by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the book by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the book by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the book by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the book by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the book by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the book by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the book by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the book by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the book by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the book by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the book by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed Spanish by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed Spanish by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed Spanish by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed Spanish by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed Spanish by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed Spanish by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed Spanish by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed Spanish by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed Spanish by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed Spanish by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed Spanish by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed Spanish by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the laundry by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the laundry by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the laundry by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the laundry by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the laundry by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the laundry by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the laundry by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the laundry by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the laundry by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the laundry by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the laundry by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the laundry by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the door by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the door by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the door by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the door by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the door by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the door by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the door by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the door by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the door by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the door by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the door by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the door by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the window by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the window by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the window by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the window by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the window by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the window by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the window by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the window by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the window by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the window by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the window by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the window by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the test by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the test by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the test by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the test by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the test by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the test by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the test by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the test by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the test by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the test by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the test by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the test by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the exam by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the exam by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the exam by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the exam by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the exam by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the exam by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the exam by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the exam by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the exam by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the exam by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the exam by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the exam by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the computer by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the computer by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the computer by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the computer by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the computer by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the computer by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the computer by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the computer by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the computer by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the computer by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the computer by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the computer by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed French by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed French by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed French by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed French by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed French by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed French by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed French by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed French by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed French by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed French by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed French by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed French by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the garden by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the garden by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the garden by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the garden by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the garden by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the garden by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the garden by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the garden by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the garden by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the garden by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the garden by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the garden by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a sandwich by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a sandwich by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a sandwich by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a sandwich by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a sandwich by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a sandwich by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a sandwich by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a sandwich by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a sandwich by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a sandwich by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a sandwich by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a sandwich by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the house by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the house by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the house by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the house by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the house by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the house by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the house by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the house by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the house by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the house by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the house by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the house by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the dishes by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the dishes by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the dishes by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the dishes by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the dishes by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the dishes by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the dishes by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the dishes by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the dishes by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the dishes by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the dishes by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the dishes by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed music by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed music by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed music by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed music by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed music by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed music by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed music by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed music by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed music by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed music by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed music by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed music by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the lesson by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the lesson by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the lesson by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the lesson by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the lesson by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the lesson by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the lesson by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the lesson by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the lesson by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the lesson by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the lesson by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the lesson by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed coffee by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed coffee by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed coffee by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed coffee by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed coffee by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed coffee by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed coffee by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed coffee by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed coffee by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed coffee by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed coffee by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed coffee by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the class by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the class by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the class by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the class by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the class by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the class by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the class by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the class by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the class by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the class by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the class by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the class by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the project by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the project by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the project by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the project by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the project by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the project by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the project by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the project by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the project by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the project by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the project by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the project by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed water by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed water by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed water by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed water by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed water by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed water by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed water by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed water by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed water by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed water by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed water by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed water by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the report by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the report by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the report by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the report by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the report by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the report by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the report by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the report by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the report by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the report by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the report by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the report by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed English by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed English by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed English by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed English by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed English by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed English by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed English by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed English by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed English by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed English by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed English by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed English by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the presentation by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the presentation by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the presentation by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the presentation by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the presentation by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the presentation by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the presentation by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the presentation by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the presentation by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the presentation by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the presentation by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the presentation by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the ticket by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the ticket by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the ticket by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the ticket by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the ticket by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the ticket by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the ticket by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the ticket by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the ticket by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the ticket by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the ticket by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the ticket by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the interview by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the interview by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the interview by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the interview by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the interview by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the interview by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the interview by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the interview by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the interview by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the interview by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the interview by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the interview by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the contract by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the contract by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the contract by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the contract by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the contract by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the contract by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the contract by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the contract by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the contract by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the contract by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the contract by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the contract by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the message by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the message by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the message by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the message by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the message by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the message by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the message by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the message by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the message by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the message by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the message by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the message by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the document by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the document by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the document by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the document by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the document by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the document by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the document by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the document by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the document by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the document by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the document by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the document by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed guitar by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed guitar by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed guitar by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed guitar by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed guitar by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed guitar by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed guitar by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed guitar by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed guitar by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed guitar by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed guitar by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed guitar by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the meeting by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the meeting by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the meeting by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the meeting by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the meeting by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the meeting by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the meeting by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the meeting by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the meeting by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the meeting by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the meeting by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the meeting by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a song by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a song by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a song by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a song by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a song by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a song by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a song by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a song by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a song by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a song by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a song by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a song by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a letter by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a letter by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a letter by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a letter by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a letter by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a letter by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a letter by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a letter by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a letter by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a letter by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a letter by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed a letter by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the proposal by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the proposal by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the proposal by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the proposal by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the proposal by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the proposal by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the proposal by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the proposal by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the proposal by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the proposal by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the proposal by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the proposal by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed pizza by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed pizza by tomorrow.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed pizza by someday.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed pizza by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed pizza by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed pizza by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed pizza by next week.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed pizza by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed pizza by in two days.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed pizza by later today.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed pizza by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed pizza by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the floor by tonight.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the floor by this weekend.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the floor by next year.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the floor by next month.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the floor by in the future.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the floor by soon.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the floor by in an hour.",
+      "verb": "changed"
+    },
+    {
+      "sentence": "The teacher will have changed the floor by later today.",
+      "verb": "changed"
+    }
+  ]
+}
