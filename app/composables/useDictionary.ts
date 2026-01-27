@@ -1,105 +1,120 @@
-interface DictionaryEntry {
-    word: string
-    phonetic?: string
-    phonetics?: Array<{ text?: string; audio?: string }>
-    meanings: Array<{
-        partOfSpeech: string
-        definitions: Array<{
-            definition: string
-            example?: string
-        }>
-    }>
-}
+/**
+ * @fileoverview Composable for dictionary API lookups with caching.
+ */
 
-interface DictionaryResult {
-    word: string
-    phonetic: string | null
-    meanings: Array<{
-        partOfSpeech: string
-        definition: string
-        example: string | null
-    }>
-}
+import type {
+    DictionaryResult,
+    DictionaryMeaning,
+    DictionaryApiEntry,
+} from '~/types';
 
-const cache = new Map<string, DictionaryResult>()
+/** Cache for dictionary lookups to avoid redundant API calls. */
+const cache = new Map<string, DictionaryResult>();
 
+/**
+ * Composable for looking up word definitions from the dictionary API.
+ * Includes caching to prevent redundant API calls.
+ */
 export function useDictionary() {
-    const isLoading = ref(false)
-    const error = ref<string | null>(null)
-    const result = ref<DictionaryResult | null>(null)
+    const isLoading = ref(false);
+    const error = ref<string | null>(null);
+    const result = ref<DictionaryResult | null>(null);
 
+    /**
+     * Cleans a word for API lookup by removing non-alphabetic characters.
+     */
+    function cleanWord(word: string): string {
+        return word.toLowerCase().replace(/[^a-z']/g, '');
+    }
+
+    /**
+     * Extracts phonetic pronunciation from API response.
+     */
+    function extractPhonetic(entry: DictionaryApiEntry): string | null {
+        if (entry.phonetic) {
+            return entry.phonetic;
+        }
+        if (entry.phonetics?.length) {
+            const phoneticEntry = entry.phonetics.find((p) => p.text);
+            if (phoneticEntry?.text) {
+                return phoneticEntry.text;
+            }
+        }
+        return null;
+    }
+
+    /**
+     * Extracts meanings from API response, limited to first 3.
+     */
+    function extractMeanings(entry: DictionaryApiEntry): DictionaryMeaning[] {
+        return entry.meanings.slice(0, 3).map((m) => ({
+            partOfSpeech: m.partOfSpeech,
+            definition: m.definitions[0]?.definition ?? '',
+            example: m.definitions[0]?.example ?? null,
+        }));
+    }
+
+    /**
+     * Looks up a word in the dictionary API.
+     * Returns cached result if available.
+     */
     async function lookup(word: string): Promise<DictionaryResult | null> {
-        const cleanWord = word.toLowerCase().replace(/[^a-z']/g, '')
+        const cleanedWord = cleanWord(word);
 
-        if (!cleanWord) {
-            error.value = 'Invalid word'
-            return null
+        if (!cleanedWord) {
+            error.value = 'Invalid word';
+            return null;
         }
 
         // Check cache first
-        if (cache.has(cleanWord)) {
-            result.value = cache.get(cleanWord)!
-            return result.value
+        if (cache.has(cleanedWord)) {
+            result.value = cache.get(cleanedWord)!;
+            return result.value;
         }
 
-        isLoading.value = true
-        error.value = null
+        isLoading.value = true;
+        error.value = null;
 
         try {
             const response = await fetch(
-                `https://api.dictionaryapi.dev/api/v2/entries/en/${cleanWord}`
-            )
+                `https://api.dictionaryapi.dev/api/v2/entries/en/${cleanedWord}`
+            );
 
             if (!response.ok) {
-                error.value = 'Definition not found'
-                result.value = null
-                return null
+                error.value = 'Definition not found';
+                result.value = null;
+                return null;
             }
 
-            const data: DictionaryEntry[] = await response.json()
-            const entry = data[0]
-
-            // Extract phonetic
-            let phonetic: string | null = null
-            if (entry.phonetic) {
-                phonetic = entry.phonetic
-            } else if (entry.phonetics?.length) {
-                const phoneticEntry = entry.phonetics.find(p => p.text)
-                if (phoneticEntry?.text) {
-                    phonetic = phoneticEntry.text
-                }
-            }
-
-            // Extract meanings (limit to 3)
-            const meanings = entry.meanings.slice(0, 3).map(m => ({
-                partOfSpeech: m.partOfSpeech,
-                definition: m.definitions[0]?.definition || '',
-                example: m.definitions[0]?.example || null
-            }))
+            const data: DictionaryApiEntry[] = await response.json();
+            const entry = data[0];
 
             const dictionaryResult: DictionaryResult = {
-                word: cleanWord,
-                phonetic,
-                meanings
-            }
+                word: cleanedWord,
+                phonetic: extractPhonetic(entry),
+                meanings: extractMeanings(entry),
+            };
 
             // Cache the result
-            cache.set(cleanWord, dictionaryResult)
-            result.value = dictionaryResult
+            cache.set(cleanedWord, dictionaryResult);
+            result.value = dictionaryResult;
 
-            return dictionaryResult
-        } catch (e) {
-            error.value = 'Failed to load definition'
-            result.value = null
-            return null
+            return dictionaryResult;
+        } catch {
+            error.value = 'Failed to load definition';
+            result.value = null;
+            return null;
         } finally {
-            isLoading.value = false
+            isLoading.value = false;
         }
     }
 
-    function clear() {
-        result.value = null
-        error.value = null
+    /**
+     * Clears the current result and error state.
+     */
+    function clear(): void {
+        result.value = null;
+        error.value = null;
     }
 
     return {
@@ -107,6 +122,6 @@ export function useDictionary() {
         error: readonly(error),
         result: readonly(result),
         lookup,
-        clear
-    }
+        clear,
+    };
 }

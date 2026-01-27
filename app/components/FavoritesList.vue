@@ -1,44 +1,50 @@
 <script setup lang="ts">
-import type { FavoriteExample } from '~/composables/useFavorites'
+/**
+ * @fileoverview Favorites list component displaying saved examples.
+ */
+
+import type { FavoriteExample, ParsedWord } from '~/types';
 
 const props = defineProps<{
-  favorites: readonly FavoriteExample[]
-}>()
+  favorites: readonly FavoriteExample[];
+}>();
 
 const emit = defineEmits<{
-  remove: [id: string]
-  wordClick: [word: string, event: MouseEvent]
-}>()
+  remove: [id: string];
+  wordClick: [word: string, event: MouseEvent];
+}>();
 
-// Parse sentence into words for rendering
-function parseWords(sentence: string, verb: string) {
-  const matches = sentence.match(/[\w']+|[^\w\s]/g) || []
+/**
+ * Parses a sentence into individual words with metadata.
+ */
+function parseWords(sentence: string, verb: string): ParsedWord[] {
+  const matches = sentence.match(/[\w']+|[^\w\s]/g) ?? [];
   return matches.map((word, index) => {
-    const cleanWord = word.replace(/[^\w']/g, '')
-    const isPunctuation = /^[^\w]+$/.test(word)
-    const isVerb = cleanWord.toLowerCase() === verb.toLowerCase()
-    
+    const cleanWord = word.replace(/[^\w']/g, '');
+    const isPunctuation = /^[^\w]+$/.test(word);
+    const isVerb = cleanWord.toLowerCase() === verb.toLowerCase();
+
     return {
       id: index,
       text: word,
       cleanWord,
       isPunctuation,
-      isVerb
-    }
-  })
+      isVerb,
+    };
+  });
 }
 
-function handleWordClick(word: { cleanWord: string; isPunctuation: boolean }, event: MouseEvent) {
+function handleWordClick(word: ParsedWord, event: MouseEvent): void {
   if (!word.isPunctuation && word.cleanWord) {
-    emit('wordClick', word.cleanWord, event)
+    emit('wordClick', word.cleanWord, event);
   }
 }
 
-function handleWordKeydown(word: { cleanWord: string; isPunctuation: boolean }, event: KeyboardEvent) {
+function handleWordKeydown(word: ParsedWord, event: KeyboardEvent): void {
   if (event.key === 'Enter' || event.key === ' ') {
-    event.preventDefault()
+    event.preventDefault();
     if (!word.isPunctuation && word.cleanWord) {
-      emit('wordClick', word.cleanWord, event as unknown as MouseEvent)
+      emit('wordClick', word.cleanWord, event as unknown as MouseEvent);
     }
   }
 }

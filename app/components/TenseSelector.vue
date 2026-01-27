@@ -1,18 +1,20 @@
 <script setup lang="ts">
-interface Tense {
-  id: string
-  name: string
-}
+/**
+ * @fileoverview Tense selector dropdown component.
+ */
 
-const props = defineProps<{
-  modelValue: string
-}>()
+import type { Tense } from '~/types';
+
+defineProps<{
+  modelValue: string;
+}>();
 
 const emit = defineEmits<{
-  'update:modelValue': [value: string]
-}>()
+  'update:modelValue': [value: string];
+}>();
 
-const tenses: Tense[] = [
+/** Available tenses for selection. */
+const tenses: readonly Tense[] = [
   { id: 'simple-present', name: 'Simple Present' },
   { id: 'simple-past', name: 'Simple Past' },
   { id: 'simple-future', name: 'Simple Future' },
@@ -24,12 +26,12 @@ const tenses: Tense[] = [
   { id: 'future-perfect', name: 'Future Perfect' },
   { id: 'present-perfect-continuous', name: 'Present Perfect Continuous' },
   { id: 'past-perfect-continuous', name: 'Past Perfect Continuous' },
-  { id: 'future-perfect-continuous', name: 'Future Perfect Continuous' }
-]
+  { id: 'future-perfect-continuous', name: 'Future Perfect Continuous' },
+];
 
-function handleChange(event: Event) {
-  const target = event.target as HTMLSelectElement
-  emit('update:modelValue', target.value)
+function handleChange(event: Event): void {
+  const target = event.target as HTMLSelectElement;
+  emit('update:modelValue', target.value);
 }
 </script>
 
@@ -39,8 +41,8 @@ function handleChange(event: Event) {
     <select
       id="tense-select"
       :value="modelValue"
-      @change="handleChange"
       aria-label="Select an English tense to practice"
+      @change="handleChange"
     >
       <option value="">Select a tense...</option>
       <option v-for="tense in tenses" :key="tense.id" :value="tense.id">

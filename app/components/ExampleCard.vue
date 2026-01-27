@@ -1,50 +1,53 @@
 <script setup lang="ts">
-interface Example {
-  sentence: string
-  verb: string
-}
+/**
+ * @fileoverview Example card component displaying a sentence with clickable words.
+ */
+
+import type { Example, ParsedWord } from '~/types';
 
 const props = defineProps<{
-  example: Example
-  tenseName: string
-  isFavorite: boolean
-}>()
+  example: Example;
+  tenseName: string;
+  isFavorite: boolean;
+}>();
 
 const emit = defineEmits<{
-  next: []
-  toggleFavorite: []
-  wordClick: [word: string, event: MouseEvent]
-}>()
+  next: [];
+  toggleFavorite: [];
+  wordClick: [word: string, event: MouseEvent];
+}>();
 
-// Parse sentence into words, preserving punctuation
-const words = computed(() => {
-  const matches = props.example.sentence.match(/[\w']+|[^\w\s]/g) || []
+/**
+ * Parses a sentence into individual words with metadata.
+ */
+const words = computed((): ParsedWord[] => {
+  const matches = props.example.sentence.match(/[\w']+|[^\w\s]/g) ?? [];
   return matches.map((word, index) => {
-    const cleanWord = word.replace(/[^\w']/g, '')
-    const isPunctuation = /^[^\w]+$/.test(word)
-    const isVerb = cleanWord.toLowerCase() === props.example.verb.toLowerCase()
-    
+    const cleanWord = word.replace(/[^\w']/g, '');
+    const isPunctuation = /^[^\w]+$/.test(word);
+    const isVerb = cleanWord.toLowerCase() === props.example.verb.toLowerCase();
+
     return {
       id: index,
       text: word,
       cleanWord,
       isPunctuation,
-      isVerb
-    }
-  })
-})
+      isVerb,
+    };
+  });
+});
 
-function handleWordClick(word: { cleanWord: string; isPunctuation: boolean }, event: MouseEvent) {
+function handleWordClick(word: ParsedWord, event: MouseEvent): void {
   if (!word.isPunctuation && word.cleanWord) {
-    emit('wordClick', word.cleanWord, event)
+    emit('wordClick', word.cleanWord, event);
   }
 }
 
-function handleWordKeydown(word: { cleanWord: string; isPunctuation: boolean }, event: KeyboardEvent) {
+function handleWordKeydown(word: ParsedWord, event: KeyboardEvent): void {
   if (event.key === 'Enter' || event.key === ' ') {
-    event.preventDefault()
+    event.preventDefault();
     if (!word.isPunctuation && word.cleanWord) {
-      emit('wordClick', word.cleanWord, event as unknown as MouseEvent)
+      emit('wordClick', word.cleanWord, event as unknown as MouseEvent);
     }
   }
 }

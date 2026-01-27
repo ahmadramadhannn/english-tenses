@@ -1,131 +1,139 @@
 <script setup lang="ts">
-interface TenseData {
-  tense: string
-  description: string
-  examples: Array<{
-    sentence: string
-    verb: string
-  }>
-}
+/**
+ * @fileoverview Main application component for English Tenses learning app.
+ */
 
-interface CurrentExample {
-  sentence: string
-  verb: string
-  tenseId: string
-  tenseName: string
-}
+import type { TenseData, CurrentExample, Position } from '~/types';
 
 // State
-const selectedTense = ref('')
-const tenseData = ref<TenseData | null>(null)
-const currentExample = ref<CurrentExample | null>(null)
-const showFavorites = ref(false)
-const tooltipWord = ref<string | null>(null)
-const tooltipPosition = ref({ x: 0, y: 0 })
-const previousFocusElement = ref<HTMLElement | null>(null)
+const selectedTense = ref('');
+const tenseData = ref<TenseData | null>(null);
+const currentExample = ref<CurrentExample | null>(null);
+const showFavorites = ref(false);
+const tooltipWord = ref<string | null>(null);
+const tooltipPosition = ref<Position>({ x: 0, y: 0 });
+const previousFocusElement = ref<HTMLElement | null>(null);
 
 // Composables
-const { favorites, count: favoritesCount, loadFromStorage, isFavorite, toggleFavorite, removeFavoriteById } = useFavorites()
-const { isLoading: tooltipLoading, error: tooltipError, result: tooltipResult, lookup, clear: clearTooltip } = useDictionary()
+const {
+  favorites,
+  count: favoritesCount,
+  loadFromStorage,
+  isFavorite,
+  toggleFavorite,
+  removeFavoriteById,
+} = useFavorites();
+
+const {
+  isLoading: tooltipLoading,
+  error: tooltipError,
+  result: tooltipResult,
+  lookup,
+  clear: clearTooltip,
+} = useDictionary();
 
 // Load favorites on mount
 onMounted(() => {
-  loadFromStorage()
-})
+  loadFromStorage();
+});
 
 // Watch for tense changes
 watch(selectedTense, async (tenseId) => {
   if (!tenseId) {
-    tenseData.value = null
-    currentExample.value = null
-    return
+    tenseData.value = null;
+    currentExample.value = null;
+    return;
   }
 
-  showFavorites.value = false
+  showFavorites.value = false;
 
   try {
-    const response = await fetch(`/data/${tenseId}.json`)
-    tenseData.value = await response.json()
-    showRandomExample()
+    const response = await fetch(`/data/${tenseId}.json`);
+    tenseData.value = await response.json();
+    showRandomExample();
   } catch (e) {
-    console.error('Failed to load tense data:', e)
-    tenseData.value = null
-    currentExample.value = null
+    console.error('Failed to load tense data:', e);
+    tenseData.value = null;
+    currentExample.value = null;
   }
-})
+});
 
-// Show random example
-function showRandomExample() {
-  if (!tenseData.value?.examples.length) return
+/** Shows a random example from the current tense data. */
+function showRandomExample(): void {
+  if (!tenseData.value?.examples.length) {
+    return;
+  }
 
-  const randomIndex = Math.floor(Math.random() * tenseData.value.examples.length)
-  const example = tenseData.value.examples[randomIndex]
+  const randomIndex = Math.floor(Math.random() * tenseData.value.examples.length);
+  const example = tenseData.value.examples[randomIndex];
 
   currentExample.value = {
     sentence: example.sentence,
     verb: example.verb,
     tenseId: selectedTense.value,
-    tenseName: tenseData.value.tense
-  }
+    tenseName: tenseData.value.tense,
+  };
 }
 
-// Toggle favorites view
-function handleToggleFavorites() {
-  showFavorites.value = !showFavorites.value
+/** Toggles the favorites view. */
+function handleToggleFavorites(): void {
+  showFavorites.value = !showFavorites.value;
   if (showFavorites.value) {
-    selectedTense.value = ''
-    tenseData.value = null
-    currentExample.value = null
+    selectedTense.value = '';
+    tenseData.value = null;
+    currentExample.value = null;
   }
 }
 
-// Handle word click for tooltip
-function handleWordClick(word: string, event: MouseEvent) {
-  // Store the element that had focus
-  previousFocusElement.value = event.target as HTMLElement
+/** Handles word click to show dictionary tooltip. */
+function handleWordClick(word: string, event: MouseEvent): void {
+  previousFocusElement.value = event.target as HTMLElement;
 
-  const rect = (event.target as HTMLElement).getBoundingClientRect()
+  const rect = (event.target as HTMLElement).getBoundingClientRect();
   tooltipPosition.value = {
     x: rect.left,
-    y: rect.bottom
-  }
-  tooltipWord.value = word
-  lookup(word)
+    y: rect.bottom,
+  };
+  tooltipWord.value = word;
+  lookup(word);
 }
 
-// Close tooltip
-function closeTooltip() {
-  tooltipWord.value = null
-  clearTooltip()
-  
-  // Return focus to the word that was clicked
+/** Closes the tooltip and returns focus. */
+function closeTooltip(): void {
+  tooltipWord.value = null;
+  clearTooltip();
+
   if (previousFocusElement.value) {
-    previousFocusElement.value.focus()
-    previousFocusElement.value = null
+    previousFocusElement.value.focus();
+    previousFocusElement.value = null;
   }
 }
 
-// Handle toggle favorite for current example
-function handleToggleCurrentFavorite() {
-  if (!currentExample.value) return
-  toggleFavorite(currentExample.value)
+/** Toggles favorite status for the current example. */
+function handleToggleCurrentFavorite(): void {
+  if (!currentExample.value) {
+    return;
+  }
+  toggleFavorite(currentExample.value);
 }
 
-// Handle click outside tooltip
-function handleClickOutside(event: MouseEvent) {
+/** Handles clicks outside the tooltip to close it. */
+function handleClickOutside(event: MouseEvent): void {
   if (tooltipWord.value) {
-    const target = event.target as HTMLElement
+    const target = event.target as HTMLElement;
     if (!target.closest('.tooltip') && !target.classList.contains('word')) {
-      closeTooltip()
+      closeTooltip();
     }
   }
 }
 
-// Check if current example is favorite
+/** Whether the current example is in favorites. */
 const isCurrentFavorite = computed(() => {
-  if (!currentExample.value) return false
-  return isFavorite(currentExample.value.sentence, currentExample.value.tenseId)
-})
+  if (!currentExample.value) {
+    return false;
+  }
+  return isFavorite(currentExample.value.sentence, currentExample.value.tenseId);
+});
 </script>
 
 <template>
@@ -144,7 +152,6 @@ const isCurrentFavorite = computed(() => {
 
           <button
             class="btn"
-            :disabled="!tenseData"
             @click="showRandomExample"
           >
             Random Example
@@ -164,7 +171,7 @@ const isCurrentFavorite = computed(() => {
         <ExampleCard
           v-if="currentExample && !showFavorites"
           :example="currentExample"
-          :tense-name="tenseData?.tense || ''"
+          :tense-name="tenseData?.tense ?? ''"
           :is-favorite="isCurrentFavorite"
           @next="showRandomExample"
           @toggle-favorite="handleToggleCurrentFavorite"

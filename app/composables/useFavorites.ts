@@ -1,105 +1,115 @@
-export interface FavoriteExample {
-    id: string
-    sentence: string
-    verb: string
-    tenseId: string
-    tenseName: string
-    addedAt: number
-}
+/**
+ * @fileoverview Composable for managing favorite examples with localStorage persistence.
+ */
 
-const STORAGE_KEY = 'english-tenses-favorites'
+import type { FavoriteExample, CurrentExample } from '~/types';
 
+/** LocalStorage key for favorites data. */
+const STORAGE_KEY = 'english-tenses-favorites';
+
+/**
+ * Composable for managing favorite examples.
+ * Persists favorites to localStorage for cross-session access.
+ */
 export function useFavorites() {
-    const favorites = useState<FavoriteExample[]>('favorites', () => [])
+    const favorites = useState<FavoriteExample[]>('favorites', () => []);
 
-    // Load favorites from localStorage on mount
-    function loadFromStorage() {
+    /**
+     * Loads favorites from localStorage.
+     * Should be called on component mount.
+     */
+    function loadFromStorage(): void {
         if (import.meta.client) {
-            const stored = localStorage.getItem(STORAGE_KEY)
+            const stored = localStorage.getItem(STORAGE_KEY);
             if (stored) {
                 try {
-                    favorites.value = JSON.parse(stored)
+                    favorites.value = JSON.parse(stored);
                 } catch {
-                    favorites.value = []
+                    favorites.value = [];
                 }
             }
         }
     }
 
-    // Save to localStorage
-    function saveToStorage() {
+    /**
+     * Saves current favorites to localStorage.
+     */
+    function saveToStorage(): void {
         if (import.meta.client) {
-            localStorage.setItem(STORAGE_KEY, JSON.stringify(favorites.value))
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(favorites.value));
         }
     }
 
-    // Generate unique ID for a favorite
+    /**
+     * Generates a unique ID for a favorite entry.
+     */
     function generateId(sentence: string, tenseId: string): string {
-        return `${tenseId}-${sentence.slice(0, 20).replace(/\s/g, '_')}-${Date.now()}`
+        return `${tenseId}-${sentence.slice(0, 20).replace(/\s/g, '_')}-${Date.now()}`;
     }
 
-    // Check if an example is a favorite
+    /**
+     * Checks if a specific example is already in favorites.
+     */
     function isFavorite(sentence: string, tenseId: string): boolean {
         return favorites.value.some(
-            f => f.sentence === sentence && f.tenseId === tenseId
-        )
+            (f) => f.sentence === sentence && f.tenseId === tenseId
+        );
     }
 
-    // Add to favorites
-    function addFavorite(example: {
-        sentence: string
-        verb: string
-        tenseId: string
-        tenseName: string
-    }): void {
+    /**
+     * Adds an example to favorites if not already present.
+     */
+    function addFavorite(example: CurrentExample): void {
         if (isFavorite(example.sentence, example.tenseId)) {
-            return
+            return;
         }
 
-        favorites.value.push({
+        const favorite: FavoriteExample = {
             id: generateId(example.sentence, example.tenseId),
             sentence: example.sentence,
             verb: example.verb,
             tenseId: example.tenseId,
             tenseName: example.tenseName,
-            addedAt: Date.now()
-        })
+            addedAt: Date.now(),
+        };
 
-        saveToStorage()
+        favorites.value.push(favorite);
+        saveToStorage();
     }
 
-    // Remove from favorites
+    /**
+     * Removes an example from favorites by sentence and tense.
+     */
     function removeFavorite(sentence: string, tenseId: string): void {
         favorites.value = favorites.value.filter(
-            f => !(f.sentence === sentence && f.tenseId === tenseId)
-        )
-        saveToStorage()
+            (f) => !(f.sentence === sentence && f.tenseId === tenseId)
+        );
+        saveToStorage();
     }
 
-    // Remove by ID
+    /**
+     * Removes a favorite by its unique ID.
+     */
     function removeFavoriteById(id: string): void {
-        favorites.value = favorites.value.filter(f => f.id !== id)
-        saveToStorage()
+        favorites.value = favorites.value.filter((f) => f.id !== id);
+        saveToStorage();
     }
 
-    // Toggle favorite status
-    function toggleFavorite(example: {
-        sentence: string
-        verb: string
-        tenseId: string
-        tenseName: string
-    }): boolean {
+    /**
+     * Toggles the favorite status of an example.
+     * Returns true if added, false if removed.
+     */
+    function toggleFavorite(example: CurrentExample): boolean {
         if (isFavorite(example.sentence, example.tenseId)) {
-            removeFavorite(example.sentence, example.tenseId)
-            return false
-        } else {
-            addFavorite(example)
-            return true
+            removeFavorite(example.sentence, example.tenseId);
+            return false;
         }
+        addFavorite(example);
+        return true;
     }
 
-    // Count
-    const count = computed(() => favorites.value.length)
+    /** The total count of favorites. */
+    const count = computed(() => favorites.value.length);
 
     return {
         favorites: readonly(favorites),
@@ -109,6 +119,6 @@ export function useFavorites() {
         addFavorite,
         removeFavorite,
         removeFavoriteById,
-        toggleFavorite
-    }
+        toggleFavorite,
+    };
 }

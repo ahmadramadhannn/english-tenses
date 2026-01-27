@@ -1,73 +1,70 @@
 <script setup lang="ts">
+/**
+ * @fileoverview Dictionary tooltip component for displaying word definitions.
+ */
+
+import type { DictionaryResult, Position } from '~/types';
+
 const props = defineProps<{
-  word: string
-  isLoading: boolean
-  error: string | null
-  result: {
-    word: string
-    phonetic: string | null
-    meanings: Array<{
-      partOfSpeech: string
-      definition: string
-      example: string | null
-    }>
-  } | null
-  position: { x: number; y: number }
-}>()
+  word: string;
+  isLoading: boolean;
+  error: string | null;
+  result: DictionaryResult | null;
+  position: Position;
+}>();
 
 const emit = defineEmits<{
-  close: []
-}>()
+  close: [];
+}>();
 
-const tooltipRef = ref<HTMLElement | null>(null)
+const tooltipRef = ref<HTMLElement | null>(null);
 
-// Calculate position to keep tooltip in viewport
+/** Calculates tooltip position to keep it within viewport. */
 const tooltipStyle = computed(() => {
-  let left = props.position.x
-  let top = props.position.y + 8
+  let left = props.position.x;
+  let top = props.position.y + 8;
 
   // Adjust when on client side
   if (import.meta.client && tooltipRef.value) {
-    const rect = tooltipRef.value.getBoundingClientRect()
-    const viewportWidth = window.innerWidth
-    const viewportHeight = window.innerHeight
+    const rect = tooltipRef.value.getBoundingClientRect();
+    const viewportWidth = window.innerWidth;
+    const viewportHeight = window.innerHeight;
 
     // Adjust horizontal position
     if (left + rect.width > viewportWidth - 16) {
-      left = viewportWidth - rect.width - 16
+      left = viewportWidth - rect.width - 16;
     }
     if (left < 16) {
-      left = 16
+      left = 16;
     }
 
     // Adjust vertical position (show above if no room below)
     if (top + rect.height > viewportHeight - 16) {
-      top = props.position.y - rect.height - 8
+      top = props.position.y - rect.height - 8;
     }
   }
 
   return {
     left: `${left}px`,
-    top: `${top}px`
-  }
-})
+    top: `${top}px`,
+  };
+});
 
-// Close on Escape key
-function handleKeydown(event: KeyboardEvent) {
+/** Handles Escape key to close tooltip. */
+function handleKeydown(event: KeyboardEvent): void {
   if (event.key === 'Escape') {
-    emit('close')
+    emit('close');
   }
 }
 
-// Focus trap - return focus when closed
 onMounted(() => {
-  document.addEventListener('keydown', handleKeydown)
-  tooltipRef.value?.focus()
-})
+  document.addEventListener('keydown', handleKeydown);
+  tooltipRef.value?.focus();
+});
 
 onUnmounted(() => {
-  document.removeEventListener('keydown', handleKeydown)
-})
+  document.removeEventListener('keydown', handleKeydown);
+});
 </script>
 
 <template>
@@ -112,8 +109,8 @@ onUnmounted(() => {
 
     <button
       class="tooltip-close sr-only"
-      @click="emit('close')"
       aria-label="Close definition"
+      @click="emit('close')"
     >
       Close
     </button>

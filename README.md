@@ -1,75 +1,29 @@
-# Nuxt Minimal Starter
+# English Tenses
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Learn English tenses through examples. Click any word to see its definition.
 
-## Setup
+## Features
 
-Make sure to install dependencies:
+- 12 tenses with 500 examples each
+- Dictionary integration (pronunciation, definitions)
+- Save favorites (persisted in browser)
+- Keyboard accessible
+
+## Quick Start
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+Open http://localhost:3000
 
-Build the application for production:
+## Regenerate Examples
 
 ```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
+node scripts/generate-examples.cjs
 ```
 
-Locally preview production build:
+## Tech Stack
 
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Nuxt 3, Vue 3, TypeScript
