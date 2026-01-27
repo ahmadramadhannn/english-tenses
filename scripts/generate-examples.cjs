@@ -361,10 +361,10 @@ if (!fs.existsSync(dataDir)) {
 // Generate all files
 for (const tense of tensesToGenerate) {
     console.log(`Generating ${tense.name}...`);
-    const data = generateExamples(tense.id, tense.name, tense.desc, 500);
+    const data = generateExamples(tense.id, tense.name, tense.desc, 2000);
     const filePath = path.join(dataDir, `${tense.id}.json`);
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
     console.log(`  Created ${tense.id}.json with ${data.examples.length} examples`);
 }
 
-console.log('\nDone! Generated 6000 examples across 12 tenses.');
+console.log('\nDone! Generated 24000 examples across 12 tenses.');

@@ -3,7 +3,45 @@
  * @fileoverview Main application component for English Tenses learning app.
  */
 
-import type { TenseData, CurrentExample, Position } from '~/types';
+import type { TenseData, CurrentExample, Position, Example } from '~/types';
+
+/** All available tense IDs. */
+const TENSE_IDS = [
+  'simple-present',
+  'simple-past',
+  'simple-future',
+  'present-continuous',
+  'past-continuous',
+  'future-continuous',
+  'present-perfect',
+  'past-perfect',
+  'future-perfect',
+  'present-perfect-continuous',
+  'past-perfect-continuous',
+  'future-perfect-continuous',
+] as const;
+
+/** Tense ID to name mapping. */
+const TENSE_NAMES: Record<string, string> = {
+  'simple-present': 'Simple Present',
+  'simple-past': 'Simple Past',
+  'simple-future': 'Simple Future',
+  'present-continuous': 'Present Continuous',
+  'past-continuous': 'Past Continuous',
+  'future-continuous': 'Future Continuous',
+  'present-perfect': 'Present Perfect',
+  'past-perfect': 'Past Perfect',
+  'future-perfect': 'Future Perfect',
+  'present-perfect-continuous': 'Present Perfect Continuous',
+  'past-perfect-continuous': 'Past Perfect Continuous',
+  'future-perfect-continuous': 'Future Perfect Continuous',
+};
+
+/** Represents an example with its tense context. */
+interface IndexedExample extends Example {
+  tenseId: string;
+  tenseName: string;
+}
 
 // State
 const selectedTense = ref('');
@@ -13,6 +51,14 @@ const showFavorites = ref(false);
 const tooltipWord = ref<string | null>(null);
 const tooltipPosition = ref<Position>({ x: 0, y: 0 });
 const previousFocusElement = ref<HTMLElement | null>(null);
+const searchQuery = ref('');
+
+// All examples from all tenses (for global search and random)
+const allExamples = ref<IndexedExample[]>([]);
+const allExamplesLoaded = ref(false);
+
+// Current index for pagination within filtered results
+const currentIndex = ref(0);
 
 // Composables
 const {
@@ -32,13 +78,44 @@ const {
   clear: clearTooltip,
 } = useDictionary();
 
-// Load favorites on mount
-onMounted(() => {
+/** Loads all examples from all tense files. */
+async function loadAllExamples(): Promise<void> {
+  if (allExamplesLoaded.value) return;
+
+  const examples: IndexedExample[] = [];
+
+  for (const tenseId of TENSE_IDS) {
+    try {
+      const response = await fetch(`/data/${tenseId}.json`);
+      const data: TenseData = await response.json();
+
+      for (const example of data.examples) {
+        examples.push({
+          ...example,
+          tenseId,
+          tenseName: data.tense,
+        });
+      }
+    } catch (e) {
+      console.error(`Failed to load ${tenseId}:`, e);
+    }
+  }
+
+  allExamples.value = examples;
+  allExamplesLoaded.value = true;
+}
+
+// Load favorites and all examples on mount
+onMounted(async () => {
   loadFromStorage();
+  await loadAllExamples();
 });
 
 // Watch for tense changes
 watch(selectedTense, async (tenseId) => {
+  searchQuery.value = '';
+  currentIndex.value = 0;
+
   if (!tenseId) {
     tenseData.value = null;
     currentExample.value = null;
@@ -50,7 +127,7 @@ watch(selectedTense, async (tenseId) => {
   try {
     const response = await fetch(`/data/${tenseId}.json`);
     tenseData.value = await response.json();
-    showRandomExample();
+    showFirstExample();
   } catch (e) {
     console.error('Failed to load tense data:', e);
     tenseData.value = null;
@@ -58,21 +135,97 @@ watch(selectedTense, async (tenseId) => {
   }
 });
 
-/** Shows a random example from the current tense data. */
-function showRandomExample(): void {
-  if (!tenseData.value?.examples.length) {
+// Watch for search query changes
+watch(searchQuery, () => {
+  currentIndex.value = 0;
+  if (filteredExamples.value.length > 0) {
+    showExampleAtIndex(0);
+  } else {
+    currentExample.value = null;
+  }
+});
+
+/** Filtered examples based on search query and selected tense. */
+const filteredExamples = computed((): IndexedExample[] => {
+  const query = searchQuery.value.toLowerCase().trim();
+
+  // If searching, use all examples
+  if (query) {
+    return allExamples.value.filter((example) =>
+      example.sentence.toLowerCase().includes(query)
+    );
+  }
+
+  // If a tense is selected, use only that tense's examples
+  if (tenseData.value && selectedTense.value) {
+    return tenseData.value.examples.map((example) => ({
+      ...example,
+      tenseId: selectedTense.value,
+      tenseName: tenseData.value!.tense,
+    }));
+  }
+
+  // Default: all examples
+  return allExamples.value;
+});
+
+/** Total number of filtered examples. */
+const totalExamples = computed(() => filteredExamples.value.length);
+
+/** Shows example at specific index. */
+function showExampleAtIndex(index: number): void {
+  const examples = filteredExamples.value;
+  if (!examples.length || index < 0 || index >= examples.length) {
     return;
   }
 
-  const randomIndex = Math.floor(Math.random() * tenseData.value.examples.length);
-  const example = tenseData.value.examples[randomIndex];
+  const example = examples[index];
+  if (!example) {
+    return;
+  }
+
+  currentIndex.value = index;
 
   currentExample.value = {
     sentence: example.sentence,
     verb: example.verb,
-    tenseId: selectedTense.value,
-    tenseName: tenseData.value.tense,
+    tenseId: example.tenseId,
+    tenseName: example.tenseName,
   };
+}
+
+/** Shows the first example from filtered results. */
+function showFirstExample(): void {
+  showExampleAtIndex(0);
+}
+
+/** Shows a random example from filtered results. */
+function showRandomExample(): void {
+  const examples = filteredExamples.value;
+  if (!examples.length) {
+    return;
+  }
+
+  const randomIndex = Math.floor(Math.random() * examples.length);
+  showExampleAtIndex(randomIndex);
+}
+
+/** Navigates to the previous example. */
+function showPreviousExample(): void {
+  const examples = filteredExamples.value;
+  if (!examples.length) return;
+
+  const newIndex = currentIndex.value > 0 ? currentIndex.value - 1 : examples.length - 1;
+  showExampleAtIndex(newIndex);
+}
+
+/** Navigates to the next example. */
+function showNextExample(): void {
+  const examples = filteredExamples.value;
+  if (!examples.length) return;
+
+  const newIndex = currentIndex.value < examples.length - 1 ? currentIndex.value + 1 : 0;
+  showExampleAtIndex(newIndex);
 }
 
 /** Toggles the favorites view. */
@@ -82,6 +235,7 @@ function handleToggleFavorites(): void {
     selectedTense.value = '';
     tenseData.value = null;
     currentExample.value = null;
+    searchQuery.value = '';
   }
 }
 
@@ -134,6 +288,9 @@ const isCurrentFavorite = computed(() => {
   }
   return isFavorite(currentExample.value.sentence, currentExample.value.tenseId);
 });
+
+/** Whether examples are available for navigation. */
+const hasExamples = computed(() => filteredExamples.value.length > 0);
 </script>
 
 <template>
@@ -150,8 +307,19 @@ const isCurrentFavorite = computed(() => {
         <section class="controls" aria-label="Controls">
           <TenseSelector v-model="selectedTense" />
 
+          <div class="search-wrapper">
+            <input
+              v-model="searchQuery"
+              type="search"
+              class="search-input"
+              placeholder="Search sentences..."
+              aria-label="Search sentences across all tenses"
+            />
+          </div>
+
           <button
             class="btn"
+            :disabled="!hasExamples"
             @click="showRandomExample"
           >
             Random Example
@@ -171,12 +339,21 @@ const isCurrentFavorite = computed(() => {
         <ExampleCard
           v-if="currentExample && !showFavorites"
           :example="currentExample"
-          :tense-name="tenseData?.tense ?? ''"
+          :tense-name="currentExample.tenseName"
           :is-favorite="isCurrentFavorite"
-          @next="showRandomExample"
+          :current-index="currentIndex"
+          :total-count="totalExamples"
+          :search-query="searchQuery"
+          @prev="showPreviousExample"
+          @next="showNextExample"
           @toggle-favorite="handleToggleCurrentFavorite"
           @word-click="handleWordClick"
         />
+
+        <!-- No results message -->
+        <div v-else-if="searchQuery && !showFavorites" class="card no-results">
+          <p>No examples found matching "{{ searchQuery }}"</p>
+        </div>
 
         <!-- Favorites List -->
         <FavoritesList

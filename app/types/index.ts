@@ -104,6 +104,8 @@ export interface Position {
 export interface ParsedWord {
     readonly id: number;
     readonly text: string;
+    readonly start: number;
+    readonly end: number;
     readonly cleanWord: string;
     readonly isPunctuation: boolean;
     readonly isVerb: boolean;

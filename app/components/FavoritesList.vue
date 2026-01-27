@@ -18,20 +18,30 @@ const emit = defineEmits<{
  * Parses a sentence into individual words with metadata.
  */
 function parseWords(sentence: string, verb: string): ParsedWord[] {
-  const matches = sentence.match(/[\w']+|[^\w\s]/g) ?? [];
-  return matches.map((word, index) => {
-    const cleanWord = word.replace(/[^\w']/g, '');
-    const isPunctuation = /^[^\w]+$/.test(word);
+  const wordRegex = /[\w']+|[^\w\s]/g;
+  let match;
+  const result: ParsedWord[] = [];
+  let id = 0;
+
+  while ((match = wordRegex.exec(sentence)) !== null) {
+    const text = match[0];
+    const start = match.index;
+    const end = start + text.length;
+    const cleanWord = text.replace(/[^\w']/g, '');
+    const isPunctuation = /^[^\w]+$/.test(text);
     const isVerb = cleanWord.toLowerCase() === verb.toLowerCase();
 
-    return {
-      id: index,
-      text: word,
+    result.push({
+      id: id++,
+      text,
+      start,
+      end,
       cleanWord,
       isPunctuation,
       isVerb,
-    };
-  });
+    });
+  }
+  return result;
 }
 
 function handleWordClick(word: ParsedWord, event: MouseEvent): void {
