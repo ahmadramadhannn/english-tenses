@@ -199,15 +199,30 @@ function showFirstExample(): void {
   showExampleAtIndex(0);
 }
 
-/** Shows a random example from filtered results. */
+/** Shows a random example from all available tenses. */
 function showRandomExample(): void {
-  const examples = filteredExamples.value;
+  const examples = allExamples.value;
   if (!examples.length) {
     return;
   }
 
-  const randomIndex = Math.floor(Math.random() * examples.length);
-  showExampleAtIndex(randomIndex);
+  const applyRandom = () => {
+    // In global mode, filteredExamples is allExamples
+    const randomIndex = Math.floor(Math.random() * examples.length);
+    showExampleAtIndex(randomIndex);
+  };
+
+  // Clear filters so we enter global mode first
+  if (selectedTense.value || searchQuery.value || showFavorites.value) {
+    showFavorites.value = false;
+    selectedTense.value = '';
+    searchQuery.value = '';
+    
+    // Wait for watchers to un-set currentExample before overriding it
+    setTimeout(applyRandom, 0);
+  } else {
+    applyRandom();
+  }
 }
 
 /** Navigates to the previous example. */
