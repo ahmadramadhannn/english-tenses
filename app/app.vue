@@ -370,6 +370,17 @@ const hasExamples = computed(() => filteredExamples.value.length > 0);
           <p>No examples found matching "{{ searchQuery }}"</p>
         </div>
 
+        <!-- Empty State Message -->
+        <div v-else-if="!showFavorites" class="card empty-state">
+          <h2>Select a Tense to Begin</h2>
+          <p>
+            Choose a specific tense from the dropdown to study focused examples, or click <strong>Random Example</strong> to challenge your knowledge across all tenses.
+          </p>
+          <p class="hint">
+            <em>Tap or click on any word</em> in the sentences to look up its dictionary definition.
+          </p>
+        </div>
+
         <!-- Favorites List -->
         <FavoritesList
           v-if="showFavorites"
